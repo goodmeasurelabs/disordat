@@ -27,8 +27,8 @@ import {
 
 type RouteParams = { slug: string }
 
-export async function generateMetadata({ params }: { params: RouteParams }): Promise<Metadata> {
-  const { slug } = params
+export async function generateMetadata({ params }: { params: Promise<RouteParams> }): Promise<Metadata> {
+  const { slug } = await params
   const comparison = await getComparison(slug)
   if (!comparison) {
     return {
@@ -69,8 +69,8 @@ export async function generateMetadata({ params }: { params: RouteParams }): Pro
   }
 }
 
-export default async function ComparisonPage({ params }: { params: RouteParams }) {
-  const { slug } = params
+export default async function ComparisonPage({ params }: { params: Promise<RouteParams> }) {
+  const { slug } = await params
   const c = await getComparison(slug)
   if (!c) notFound()
 

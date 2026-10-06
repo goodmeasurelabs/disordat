@@ -14,9 +14,10 @@ export function generateStaticParams() {
   return HUB_IDS.map((hub) => ({ hub }))
 }
 
-export async function generateMetadata({ params }: { params: RouteParams }): Promise<Metadata> {
-  if (!isHubId(params.hub)) return { title: 'Not found · disordat', robots: { index: false } }
-  const hub = HUBS[params.hub]
+export async function generateMetadata({ params }: { params: Promise<RouteParams> }): Promise<Metadata> {
+  const { hub: hubId } = await params
+  if (!isHubId(hubId)) return { title: 'Not found · disordat', robots: { index: false } }
+  const hub = HUBS[hubId]
   return {
     title: `${hub.title} · disordat`,
     description: hub.description,
@@ -25,9 +26,10 @@ export async function generateMetadata({ params }: { params: RouteParams }): Pro
   }
 }
 
-export default async function HubPage({ params }: { params: RouteParams }) {
-  if (!isHubId(params.hub)) notFound()
-  const hub = HUBS[params.hub]
+export default async function HubPage({ params }: { params: Promise<RouteParams> }) {
+  const { hub: hubId } = await params
+  if (!isHubId(hubId)) notFound()
+  const hub = HUBS[hubId]
   const items = await hubListing(hub.id)
 
   const jsonLd = {

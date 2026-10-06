@@ -20,8 +20,8 @@ function clip(s: string, max: number): string {
  * iMessage, WhatsApp, Slack, Discord or X. It leads with the verdict
  * ("Coke beats Pepsi") so the argument starts in the chat, not on the page.
  */
-export default async function OGImage({ params }: { params: RouteParams }) {
-  const { slug } = params
+export default async function OGImage({ params }: { params: Promise<RouteParams> }) {
+  const { slug } = await params
   const c = await getComparison(slug)
 
   if (!c) {
