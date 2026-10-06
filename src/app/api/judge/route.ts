@@ -5,7 +5,7 @@ import { fnv1a32, createComparisonHash } from "@/lib/hash";
 import { normalizeForCompare, isNonsense } from "@/lib/normalize";
 import { buildHistoryAwarePrompt } from "@/lib/judgePrompt";
 
-export const runtime = "edge";
+export const runtime = "nodejs";
 
 type Body = {
   dis: string;
