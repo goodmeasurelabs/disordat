@@ -16,5 +16,17 @@
   "observability": {
     "enabled": true
   },
-  "workers_dev": true
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "disordat.org",
+      "custom_domain": true,
+      "zone_id": "5c010ed0a1d1992fe09549ad0e811b93"
+    },
+    {
+      "pattern": "www.disordat.org",
+      "custom_domain": true,
+      "zone_id": "5c010ed0a1d1992fe09549ad0e811b93"
+    }
+  ]
 }
