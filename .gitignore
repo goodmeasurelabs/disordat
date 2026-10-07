@@ -81,7 +81,7 @@ jspm_packages/
 tmp/
 temp/
 
-# Cloudflare/OpenNext build products
+## Cloudflare/OpenNext build products
 .open-next/
 .wrangler/
 .worker-dry-run/
