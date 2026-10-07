@@ -3,6 +3,7 @@ import { getComparison, listRecentComparisonSlugs } from '@/lib/comparisons'
 
 // Re-fetch trending data every 10 minutes so Google sees fresh internal links
 // without hammering KV on every request.
+export const dynamic = 'force-dynamic'
 export const revalidate = 600
 
 export default async function HomePage() {

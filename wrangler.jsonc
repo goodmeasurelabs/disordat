@@ -1,0 +1,32 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "gm-disordat",
+  "main": "cloudflare/worker.mjs",
+  "compatibility_date": "2026-10-04",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS",
+    "run_worker_first": [
+      "/robots.txt"
+    ]
+  },
+  "observability": {
+    "enabled": true
+  },
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "disordat.org",
+      "custom_domain": true,
+      "zone_id": "5c010ed0a1d1992fe09549ad0e811b93"
+    },
+    {
+      "pattern": "www.disordat.org",
+      "custom_domain": true,
+      "zone_id": "5c010ed0a1d1992fe09549ad0e811b93"
+    }
+  ]
+}
