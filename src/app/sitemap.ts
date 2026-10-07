@@ -3,6 +3,7 @@ import { listRecentComparisonSlugs, getComparison } from '@/lib/comparisons'
 
 const SITE_URL = 'https://disordat.org'
 
+export const dynamic = 'force-dynamic'
 export const revalidate = 3600 // rebuild at most hourly
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

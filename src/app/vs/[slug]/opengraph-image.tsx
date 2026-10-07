@@ -8,8 +8,8 @@ export const alt = 'Comparison verdict on disordat'
 
 type RouteParams = { slug: string }
 
-export default async function OGImage({ params }: { params: RouteParams }) {
-  const { slug } = params
+export default async function OGImage({ params }: { params: Promise<RouteParams> }) {
+  const { slug } = await params
   const c = await getComparison(slug)
 
   if (!c) {
