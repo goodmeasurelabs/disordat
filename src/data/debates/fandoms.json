@@ -1,0 +1,2269 @@
+[
+  {
+    "slug": "playstation-vs-xbox",
+    "item_a": "PlayStation",
+    "item_b": "Xbox",
+    "category": "fandoms",
+    "question": "Which is better, PlayStation or Xbox?",
+    "search_query": "playstation vs xbox",
+    "search_volume": 8800,
+    "summary": "PlayStation wins: the exclusives are still the reason to own a console, and Xbox now ships many of its own big games on PlayStation too.",
+    "winner": "a",
+    "winner_reason": "Sony's first-party studios keep delivering system-sellers, and with Microsoft bringing many Xbox games to other platforms, a PlayStation now plays more of the year's big releases. Xbox is the better value pitch, not the better console to own.",
+    "dimensions": [
+      {
+        "name": "Exclusives",
+        "a": "God of War, Spider-Man, The Last of Us and Ghost of Tsushima give it a deep bench of must-play games.",
+        "b": "Halo, Forza and Gears are strong, but many Xbox-published games now also arrive on PlayStation.",
+        "winner": "a"
+      },
+      {
+        "name": "Value",
+        "a": "PlayStation Plus has tiers with a game catalogue, but day-one first-party releases are rare.",
+        "b": "Game Pass puts Microsoft's own games in the library on launch day, a genuinely great deal.",
+        "winner": "b"
+      },
+      {
+        "name": "Backward compatibility",
+        "a": "PS5 plays almost all PS4 games, but older generations are patchy.",
+        "b": "Xbox's backward compatibility program reaches back to many original Xbox and 360 games.",
+        "winner": "b"
+      },
+      {
+        "name": "Install base",
+        "a": "The PS5 has comfortably outsold the Xbox Series X|S this generation.",
+        "b": "Xbox trails in hardware sales and has shifted focus toward a multi-platform strategy.",
+        "winner": "a"
+      },
+      {
+        "name": "Controller",
+        "a": "The DualSense's haptics and adaptive triggers are a real step forward.",
+        "b": "The Xbox pad is a comfortable classic that also works seamlessly on PC.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Best-in-class first-party exclusives",
+      "DualSense haptics add real feel to games",
+      "Larger player base this generation"
+    ],
+    "pros_b": [
+      "Game Pass is outstanding value",
+      "Excellent backward compatibility",
+      "Tight integration with Windows PC gaming"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "gta-6-vs-red-dead-redemption-2",
+    "item_a": "GTA 6",
+    "item_b": "Red Dead Redemption 2",
+    "category": "fandoms",
+    "question": "Is GTA 6 better than Red Dead Redemption 2?",
+    "search_query": "gta 6 vs rdr2",
+    "search_volume": 220,
+    "summary": "Red Dead Redemption 2 wins for now: it is a proven masterpiece, while GTA 6 is still unreleased. We will revisit this verdict after launch.",
+    "winner": "b",
+    "winner_reason": "You cannot beat a game nobody has played yet. RDR2 is one of the most acclaimed open worlds ever made; GTA 6, scheduled for 19 November 2026, looks spectacular in trailers, and this verdict will be revisited once it is out.",
+    "dimensions": [
+      {
+        "name": "Track record",
+        "a": "Unreleased as of this verdict; scheduled for 19 November 2026 after an earlier delay.",
+        "b": "Released in 2018 to near-universal acclaim and still widely played.",
+        "winner": "b"
+      },
+      {
+        "name": "Story",
+        "a": "Two protagonists, Lucia and Jason, in a crime story Rockstar has only teased.",
+        "b": "Arthur Morgan's arc is often called one of the best-written stories in games.",
+        "winner": "b"
+      },
+      {
+        "name": "Setting",
+        "a": "Returns to Vice City in the fictional state of Leonida, a modern Florida satire.",
+        "b": "A beautifully detailed American frontier at the end of the outlaw era.",
+        "winner": "tie"
+      },
+      {
+        "name": "Tech and scale",
+        "a": "Built for current-gen consoles from the start; trailers show striking density and detail.",
+        "b": "Still stunning, but designed around PS4 and Xbox One hardware.",
+        "winner": "a"
+      },
+      {
+        "name": "Pacing",
+        "a": "GTA games are traditionally fast, chaotic and playful.",
+        "b": "Deliberately slow and immersive, which some players find a slog.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "A fresh Vice City built for modern hardware",
+      "Two-protagonist crime story with Lucia and Jason",
+      "GTA's faster, more playful energy"
+    ],
+    "pros_b": [
+      "A proven, finished masterpiece",
+      "Arthur Morgan's story is all-time great",
+      "Unmatched world detail and atmosphere"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "batman-vs-superman",
+    "item_a": "Batman",
+    "item_b": "Superman",
+    "category": "fandoms",
+    "question": "Who is better, Batman or Superman?",
+    "search_query": "batman vs superman",
+    "search_volume": 220000,
+    "summary": "Batman wins: Superman would take a fair fight, but Batman has the better stories, the better villains and he never fights fair.",
+    "winner": "a",
+    "winner_reason": "Superman is the stronger hero by miles, yet Batman is the more compelling character, with the deepest rogues gallery in comics and a run of classic stories and films few heroes can match. And with prep time and kryptonite, he has beaten Superman on the page.",
+    "dimensions": [
+      {
+        "name": "Raw power",
+        "a": "Peak human, no superpowers. Relies on training, gadgets and armour.",
+        "b": "Flight, heat vision, super strength and speed; one of DC's most powerful heroes.",
+        "winner": "b"
+      },
+      {
+        "name": "With prep time",
+        "a": "In The Dark Knight Returns he beats Superman with armour and kryptonite.",
+        "b": "Can be outplanned by someone who has studied his weaknesses.",
+        "winner": "a"
+      },
+      {
+        "name": "Rogues gallery",
+        "a": "Joker, Two-Face, Riddler, Catwoman, Penguin: arguably the best in comics.",
+        "b": "Lex Luthor is great, but the bench thins quickly after him.",
+        "winner": "a"
+      },
+      {
+        "name": "Best stories",
+        "a": "Year One, The Long Halloween, The Killing Joke and The Dark Knight Returns.",
+        "b": "All-Star Superman and Red Son are classics, with fewer of them.",
+        "winner": "a"
+      },
+      {
+        "name": "Symbolism",
+        "a": "A symbol of fear turned against crime.",
+        "b": "The original superhero and a lasting symbol of hope and decency.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Best rogues gallery in comics",
+      "Wins with preparation, even against gods",
+      "A stack of genre-defining stories and films"
+    ],
+    "pros_b": [
+      "Vastly more powerful",
+      "The template for every superhero since",
+      "A genuinely hopeful, decent hero"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "deadpool-vs-wolverine",
+    "item_a": "Deadpool",
+    "item_b": "Wolverine",
+    "category": "fandoms",
+    "question": "Who would win, Wolverine or Deadpool?",
+    "search_query": "wolverine vs deadpool",
+    "search_volume": 24200,
+    "summary": "Wolverine wins: both can heal from almost anything, but adamantium claws and a century of combat experience give Logan the edge.",
+    "winner": "b",
+    "winner_reason": "In Marvel comics canon both men are near-impossible to kill, so the fight comes down to tools and skill. Wolverine's adamantium skeleton and claws cut through Deadpool's swords and armour, and Logan is the more seasoned fighter.",
+    "dimensions": [
+      {
+        "name": "Healing factor",
+        "a": "Deadpool's healing factor is famously extreme, and he regenerates from terrible injuries.",
+        "b": "Wolverine's healing factor is the original and nearly as resilient.",
+        "winner": "tie"
+      },
+      {
+        "name": "Weapons",
+        "a": "Katanas, guns and teleporting gadgets.",
+        "b": "Adamantium claws can cut almost anything, and his bones are unbreakable.",
+        "winner": "b"
+      },
+      {
+        "name": "Experience",
+        "a": "Highly trained mercenary with special forces background.",
+        "b": "Over a century of combat, from wars to the X-Men.",
+        "winner": "b"
+      },
+      {
+        "name": "Unpredictability",
+        "a": "Chaotic and fourth-wall aware, he is hard to read in a fight.",
+        "b": "A focused berserker who hits hard but is easier to bait.",
+        "winner": "a"
+      },
+      {
+        "name": "Popularity",
+        "a": "The Deadpool films made him a box-office star.",
+        "b": "Hugh Jackman's Logan is one of the most beloved superhero portrayals ever.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Arguably the stronger regenerator",
+      "Unpredictable and impossible to rattle",
+      "Funniest character in Marvel"
+    ],
+    "pros_b": [
+      "Adamantium skeleton and claws",
+      "A century of combat experience",
+      "Iconic, more serious character"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "mario-vs-sonic",
+    "item_a": "Mario",
+    "item_b": "Sonic",
+    "category": "fandoms",
+    "question": "Who is better, Mario or Sonic?",
+    "search_query": "mario vs sonic",
+    "search_volume": 19800,
+    "summary": "Mario wins: decades of consistently brilliant games beat Sonic's great 16-bit peak and a much bumpier 3D era.",
+    "winner": "a",
+    "winner_reason": "Sonic gave Mario a real fight in the 90s, but Mario's run of classics from Super Mario Bros. to Odyssey and Bros. Wonder is unmatched in gaming. Sonic has had brilliant moments; Mario rarely misses.",
+    "dimensions": [
+      {
+        "name": "Consistency",
+        "a": "Mainline Mario games are almost always excellent.",
+        "b": "Highs like Sonic 2 and Sonic Mania, lows that fans still argue about.",
+        "winner": "a"
+      },
+      {
+        "name": "16-bit era",
+        "a": "Super Mario World is a masterpiece.",
+        "b": "Sonic's Genesis games defined speed and attitude, and went toe to toe.",
+        "winner": "tie"
+      },
+      {
+        "name": "3D games",
+        "a": "Super Mario 64 and Galaxy helped define 3D platforming.",
+        "b": "Sonic's 3D games have been far more uneven, though Frontiers found fans.",
+        "winner": "a"
+      },
+      {
+        "name": "Style",
+        "a": "Cheerful, timeless and family-friendly.",
+        "b": "Cooler, faster and with a great soundtrack tradition.",
+        "winner": "b"
+      },
+      {
+        "name": "Movies",
+        "a": "The Super Mario Bros. Movie was a huge box-office hit.",
+        "b": "The Sonic films have been a pleasant success and a strong franchise.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Gaming's most consistent hit-maker",
+      "Defined both 2D and 3D platforming",
+      "Universally recognised mascot"
+    ],
+    "pros_b": [
+      "Speed and attitude no one else had",
+      "Brilliant music across the series",
+      "Sonic Mania shows the classic magic still works"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "goku-vs-superman",
+    "item_a": "Goku",
+    "item_b": "Superman",
+    "category": "fandoms",
+    "question": "Who would win, Goku or Superman?",
+    "search_query": "goku vs superman",
+    "search_volume": 10800,
+    "summary": "Superman wins: Goku is a better pure fighter, but top-tier DC comics Superman operates on a level of power even Ultra Instinct does not reach.",
+    "winner": "b",
+    "winner_reason": "Judging the strongest versions in each canon (Dragon Ball Super for Goku, DC comics for Superman), Superman's feats are bigger, and he keeps getting stronger by absorbing sunlight. Goku would land plenty of hits, but he would run out of gas first.",
+    "dimensions": [
+      {
+        "name": "Canon used",
+        "a": "Dragon Ball Super anime and manga, including Ultra Instinct.",
+        "b": "DC comics, including high-end versions like All-Star Superman.",
+        "winner": "tie"
+      },
+      {
+        "name": "Raw power",
+        "a": "Fights gods of destruction and can threaten planets and beyond.",
+        "b": "Top versions shrug off cosmic threats and perform universe-scale feats.",
+        "winner": "b"
+      },
+      {
+        "name": "Fighting skill",
+        "a": "A lifelong martial artist; technique is his whole identity.",
+        "b": "Mostly a brawler who relies on overwhelming strength and speed.",
+        "winner": "a"
+      },
+      {
+        "name": "Stamina",
+        "a": "Transformations drain him; long fights wear him down.",
+        "b": "Powered by the sun, he can recharge mid-fight.",
+        "winner": "b"
+      },
+      {
+        "name": "Weaknesses",
+        "a": "Overconfidence and a habit of letting enemies power up.",
+        "b": "Kryptonite and magic, neither of which Goku really has.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "The better martial artist by far",
+      "Ultra Instinct dodges almost anything",
+      "Grows stronger with every fight"
+    ],
+    "pros_b": [
+      "Higher-end feats in comics canon",
+      "Solar recharge outlasts transformations",
+      "Goku has no kryptonite or magic to exploit"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "captain-america-vs-iron-man",
+    "item_a": "Captain America",
+    "item_b": "Iron Man",
+    "category": "fandoms",
+    "question": "Who is better, Iron Man or Captain America?",
+    "search_query": "iron man vs captain america",
+    "search_volume": 10800,
+    "summary": "Captain America wins: Iron Man has the firepower, but Cap is the Avengers' moral compass and won the Civil War fight that mattered.",
+    "winner": "a",
+    "winner_reason": "Tony Stark is the more fun character and launched the MCU, but Steve Rogers is the better hero: steady, selfless and right when it counts. He ended Civil War standing, and he lifted Mjolnir.",
+    "dimensions": [
+      {
+        "name": "Firepower",
+        "a": "Super-soldier strength and a vibranium shield.",
+        "b": "Repulsors, missiles, flight and a suit for every situation.",
+        "winner": "b"
+      },
+      {
+        "name": "Leadership",
+        "a": "The natural leader the team follows into battle.",
+        "b": "A brilliant but impulsive teammate who often goes it alone.",
+        "winner": "a"
+      },
+      {
+        "name": "Head to head",
+        "a": "Disabled Tony's arc reactor to end their Civil War film fight.",
+        "b": "Had the tech edge but lost that fight.",
+        "winner": "a"
+      },
+      {
+        "name": "Character arc",
+        "a": "From man out of time to a well-earned retirement.",
+        "b": "From selfish arms dealer to the ultimate sacrifice in Endgame.",
+        "winner": "b"
+      },
+      {
+        "name": "Integrity",
+        "a": "Worthy of Mjolnir. Enough said.",
+        "b": "Good intentions, but also built Ultron.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "The team's moral centre",
+      "Worthy of Mjolnir",
+      "Won their Civil War showdown"
+    ],
+    "pros_b": [
+      "Far more firepower and tech",
+      "Funnier and more charismatic",
+      "The MCU's best character arc"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "superman-vs-thor",
+    "item_a": "Superman",
+    "item_b": "Thor",
+    "category": "fandoms",
+    "question": "Who would win, Superman or Thor?",
+    "search_query": "superman vs thor",
+    "search_volume": 10800,
+    "summary": "Thor wins, narrowly: Superman is faster and arguably stronger, but magic is one of his weaknesses and Mjolnir is pure magic.",
+    "winner": "b",
+    "winner_reason": "In comics canon these two are close; the official JLA/Avengers crossover never settled it cleanly. The tiebreaker is magic: Thor's lightning and enchanted hammer cut through the defences that make Superman so hard to hurt.",
+    "dimensions": [
+      {
+        "name": "Canon used",
+        "a": "DC comics, mainstream versions.",
+        "b": "Marvel comics, mainstream versions.",
+        "winner": "tie"
+      },
+      {
+        "name": "Strength",
+        "a": "Among the strongest beings in DC, especially when charged by the sun.",
+        "b": "A god of immense strength, boosted further by Mjolnir.",
+        "winner": "a"
+      },
+      {
+        "name": "Speed",
+        "a": "Faster than Thor in most portrayals.",
+        "b": "Fast in flight, but not at Superman's level.",
+        "winner": "a"
+      },
+      {
+        "name": "Magic matchup",
+        "a": "Vulnerable to magic, which bypasses his invulnerability.",
+        "b": "His powers and hammer are magical by nature.",
+        "winner": "b"
+      },
+      {
+        "name": "Weapons",
+        "a": "Fights with fists, heat vision and freeze breath.",
+        "b": "Mjolnir delivers lightning and returns to his hand.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Faster and arguably stronger",
+      "Solar recharge mid-fight",
+      "Heat vision and freeze breath add range"
+    ],
+    "pros_b": [
+      "Magic hits Superman's weak spot",
+      "Mjolnir is a near-unstoppable weapon",
+      "Godly durability and storm control"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "hulk-vs-thor",
+    "item_a": "Hulk",
+    "item_b": "Thor",
+    "category": "fandoms",
+    "question": "Who would win, Hulk or Thor?",
+    "search_query": "hulk vs thor",
+    "search_volume": 10800,
+    "summary": "Thor wins: Hulk might be the stronger brawler, but Thor has flight, lightning, a magic hammer and a warrior's head.",
+    "winner": "b",
+    "winner_reason": "In Marvel comics their fights have swung both ways for decades, but Thor brings more tools: range, flight, lightning and battle experience measured in centuries. Hulk needs a long, angry slugfest to win, and Thor rarely has to give him one.",
+    "dimensions": [
+      {
+        "name": "Canon used",
+        "a": "Marvel comics (Earth-616), with the MCU as a footnote.",
+        "b": "Marvel comics (Earth-616), with the MCU as a footnote.",
+        "winner": "tie"
+      },
+      {
+        "name": "Raw strength",
+        "a": "The madder he gets, the stronger he gets, in theory without limit.",
+        "b": "Enormously strong, but rarely out-muscles a fully enraged Hulk.",
+        "winner": "a"
+      },
+      {
+        "name": "Versatility",
+        "a": "Punches, leaps and thunderclaps.",
+        "b": "Flight, lightning, weather control and a returning hammer.",
+        "winner": "b"
+      },
+      {
+        "name": "Experience",
+        "a": "Fights on instinct and rage.",
+        "b": "A trained warrior with centuries of battles behind him.",
+        "winner": "b"
+      },
+      {
+        "name": "MCU fight",
+        "a": "In Ragnarok, held his own in the arena.",
+        "b": "Was gaining the upper hand with lightning before the Grandmaster stopped it.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Strength that keeps scaling with rage",
+      "Absurd durability and healing",
+      "Never, ever stays down"
+    ],
+    "pros_b": [
+      "Flight and lightning give range",
+      "Mjolnir is a game-changer",
+      "Centuries of combat experience"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "drake-vs-kendrick-lamar",
+    "item_a": "Drake",
+    "item_b": "Kendrick Lamar",
+    "category": "fandoms",
+    "question": "Who is better, Drake or Kendrick Lamar?",
+    "search_query": "drake vs kendrick",
+    "search_volume": 8800,
+    "summary": "Kendrick Lamar wins: Drake has more hits, but Kendrick has the better albums and won their 2024 beat with Not Like Us.",
+    "winner": "b",
+    "winner_reason": "Drake is one of the most commercially successful artists ever, but Kendrick's albums are the ones critics and fans treat as classics. The 2024 beef settled it publicly: Not Like Us became a cultural event, won Grammys for Record and Song of the Year, and led into his Super Bowl halftime show.",
+    "dimensions": [
+      {
+        "name": "Hits",
+        "a": "A near-endless run of chart hits and streaming records.",
+        "b": "Plenty of hits, but fewer and less frequent.",
+        "winner": "a"
+      },
+      {
+        "name": "Albums",
+        "a": "Take Care is a classic; much of the rest is long and uneven.",
+        "b": "good kid, m.A.A.d city, To Pimp a Butterfly and DAMN. are landmark records.",
+        "winner": "b"
+      },
+      {
+        "name": "Lyricism",
+        "a": "Sharp, quotable and melodic, but rarely dense.",
+        "b": "Layered storytelling and technique; won a Pulitzer Prize for DAMN.",
+        "winner": "b"
+      },
+      {
+        "name": "The beef",
+        "a": "Fired back with several diss tracks, but none landed like Kendrick's.",
+        "b": "Not Like Us became an anthem and the defining moment of 2024 rap.",
+        "winner": "b"
+      },
+      {
+        "name": "Versatility",
+        "a": "Moves easily between rap, R&B and pop.",
+        "b": "Experimental and jazz-influenced, but less of a pop chameleon.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "One of the biggest hitmakers of the streaming era",
+      "Blends rap, R&B and pop effortlessly",
+      "Remarkably consistent output"
+    ],
+    "pros_b": [
+      "A run of classic, acclaimed albums",
+      "Pulitzer-winning lyricism",
+      "Won the most famous rap beef in years"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "michael-jackson-vs-prince",
+    "item_a": "Michael Jackson",
+    "item_b": "Prince",
+    "category": "fandoms",
+    "question": "Who is better, Michael Jackson or Prince?",
+    "search_query": "michael jackson vs prince",
+    "search_volume": 8800,
+    "summary": "Michael Jackson wins: Prince was the greater musician, but Michael was the bigger star, the better dancer and changed pop worldwide.",
+    "winner": "a",
+    "winner_reason": "Prince could write, produce and play nearly everything himself, and that matters. But Thriller is widely cited as the best-selling album of all time, Michael's videos and dancing reshaped pop, and his global reach has no equal.",
+    "dimensions": [
+      {
+        "name": "Musicianship",
+        "a": "A gifted singer and arranger who worked with top producers like Quincy Jones.",
+        "b": "Multi-instrumentalist virtuoso who often played every part himself.",
+        "winner": "b"
+      },
+      {
+        "name": "Performance",
+        "a": "The moonwalk and some of the most imitated dance moves ever.",
+        "b": "A thrilling live performer and guitar hero.",
+        "winner": "a"
+      },
+      {
+        "name": "Commercial impact",
+        "a": "Thriller is widely cited as the best-selling album ever.",
+        "b": "Huge sales, led by Purple Rain, but not at Michael's scale.",
+        "winner": "a"
+      },
+      {
+        "name": "Songwriting",
+        "a": "Wrote classics like Billie Jean and Beat It.",
+        "b": "Prolific; wrote hits for himself and others, like Nothing Compares 2 U.",
+        "winner": "b"
+      },
+      {
+        "name": "Cultural reach",
+        "a": "Music videos as events; a global icon.",
+        "b": "Hugely influential, especially among musicians.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "The biggest pop star the world has seen",
+      "Thriller-era peak is untouchable",
+      "Changed music videos forever"
+    ],
+    "pros_b": [
+      "Generational multi-instrumentalist",
+      "Wrote, produced and played it all",
+      "Purple Rain is a masterpiece"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dumbledore-vs-gandalf",
+    "item_a": "Dumbledore",
+    "item_b": "Gandalf",
+    "category": "fandoms",
+    "question": "Who would win, Gandalf or Dumbledore?",
+    "search_query": "gandalf vs dumbledore",
+    "search_volume": 5800,
+    "summary": "Gandalf wins: Dumbledore is the greatest wizard of his age, but Gandalf is an angelic being who died fighting a Balrog and came back.",
+    "winner": "b",
+    "winner_reason": "Tolkien's wizards are Maiar, immortal spirits in human form, so Gandalf is a different order of being from any Hogwarts headmaster. Dumbledore's spell arsenal is flashier, but Gandalf beat a Balrog and returned from death stronger.",
+    "dimensions": [
+      {
+        "name": "Nature",
+        "a": "A human wizard, extraordinarily gifted but mortal.",
+        "b": "A Maia, an immortal spirit sent to Middle-earth.",
+        "winner": "b"
+      },
+      {
+        "name": "Spellcraft",
+        "a": "Huge range of spells; out-duelled Voldemort at the Ministry.",
+        "b": "Magic is subtle and rarely shown on the page.",
+        "winner": "a"
+      },
+      {
+        "name": "Biggest feat",
+        "a": "Defeated Grindelwald in a legendary duel.",
+        "b": "Slew the Balrog of Moria and returned as Gandalf the White.",
+        "winner": "b"
+      },
+      {
+        "name": "Wisdom",
+        "a": "Brilliant, but secretive and manipulative at times.",
+        "b": "Patient, kind and rarely wrong about people.",
+        "winner": "b"
+      },
+      {
+        "name": "Mentorship",
+        "a": "Shaped Harry's whole journey, for better and worse.",
+        "b": "Guided Bilbo, Frodo and Aragorn toward their destinies.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Vast and versatile spellcraft",
+      "Beat Grindelwald and outduelled Voldemort",
+      "Master planner"
+    ],
+    "pros_b": [
+      "An immortal angelic spirit",
+      "Defeated a Balrog",
+      "Wiser and more trustworthy"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "batman-vs-spider-man",
+    "item_a": "Batman",
+    "item_b": "Spider-Man",
+    "category": "fandoms",
+    "question": "Who is better, Batman or Spider-Man?",
+    "search_query": "batman vs spiderman",
+    "search_volume": 4800,
+    "summary": "Batman wins, just: Spider-Man is the more relatable hero, but Batman has darker stakes, sharper stories and the edge in a fight.",
+    "winner": "a",
+    "winner_reason": "Both are top-tier characters with great villains. Batman edges it with a deeper bench of classic stories and his detective skills, and with prep he can neutralise Spider-Man's speed and strength.",
+    "dimensions": [
+      {
+        "name": "Powers",
+        "a": "No powers; relies on gadgets, training and intellect.",
+        "b": "Super strength, agility, wall-crawling and spider-sense.",
+        "winner": "b"
+      },
+      {
+        "name": "Intelligence",
+        "a": "The World's Greatest Detective and a master strategist.",
+        "b": "A genius scientist who built his own web-shooters.",
+        "winner": "a"
+      },
+      {
+        "name": "Relatability",
+        "a": "A billionaire with a tragic past.",
+        "b": "An ordinary kid juggling rent, school and saving the city.",
+        "winner": "b"
+      },
+      {
+        "name": "Villains",
+        "a": "Joker, Riddler and Two-Face are all iconic.",
+        "b": "Green Goblin, Doc Ock and Venom are close behind.",
+        "winner": "a"
+      },
+      {
+        "name": "Best stories",
+        "a": "Year One, The Long Halloween and The Dark Knight.",
+        "b": "Spider-Verse films and classic Lee and Ditko comics.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Unmatched detective and strategist",
+      "Best villain lineup in comics",
+      "Wins with preparation"
+    ],
+    "pros_b": [
+      "The most relatable superhero",
+      "Real superpowers and spider-sense",
+      "Into the Spider-Verse is all-time great"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "digimon-vs-pokemon",
+    "item_a": "Digimon",
+    "item_b": "Pokémon",
+    "category": "fandoms",
+    "question": "Which is better, Pokémon or Digimon?",
+    "search_query": "pokemon vs digimon",
+    "search_volume": 4800,
+    "summary": "Pokémon wins: Digimon had the better early anime story, but Pokémon has the games, the designs and the staying power.",
+    "winner": "b",
+    "winner_reason": "Pokémon is the highest-grossing media franchise in the world thanks to a core game series that never stopped. Digimon Adventure told a more emotional story, yet as a whole franchise it never matched Pokémon's reach or consistency.",
+    "dimensions": [
+      {
+        "name": "Games",
+        "a": "Cult favourites like Digimon Story, but no consistent mainline.",
+        "b": "A huge mainline RPG series that keeps selling in the millions.",
+        "winner": "b"
+      },
+      {
+        "name": "Anime",
+        "a": "Digimon Adventure had real stakes, growth and emotion.",
+        "b": "Long-running and charming, but famously episodic.",
+        "winner": "a"
+      },
+      {
+        "name": "Designs",
+        "a": "Cool evolutions, but many forms are hard to tell apart.",
+        "b": "Simple, iconic designs from Pikachu to Charizard.",
+        "winner": "b"
+      },
+      {
+        "name": "Cultural impact",
+        "a": "A beloved 90s and 2000s phenomenon.",
+        "b": "A global brand across games, cards, toys and Pokémon Go.",
+        "winner": "b"
+      },
+      {
+        "name": "Evolution",
+        "a": "Digivolution is dramatic and often temporary, great for battles.",
+        "b": "Permanent evolution feels like real growth for your team.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Better, more emotional anime story",
+      "Dramatic digivolution sequences",
+      "Digimon talk and have real personalities"
+    ],
+    "pros_b": [
+      "The bigger, better game series",
+      "Iconic, timeless creature designs",
+      "Unmatched global staying power"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "better-call-saul-vs-breaking-bad",
+    "item_a": "Better Call Saul",
+    "item_b": "Breaking Bad",
+    "category": "fandoms",
+    "question": "Is Breaking Bad better than Better Call Saul?",
+    "search_query": "breaking bad vs better call saul",
+    "search_volume": 3200,
+    "summary": "Breaking Bad wins: it is the faster, bolder thrill ride, even if Better Call Saul might be the more finely crafted show.",
+    "winner": "b",
+    "winner_reason": "Breaking Bad set the standard for a slow-burn transformation told at thriller pace, and its final season is close to perfect. Better Call Saul is a masterclass in patience and craft, but it needs the original's foundation to fully land.",
+    "dimensions": [
+      {
+        "name": "Pacing",
+        "a": "Deliberate and slow-building; some early stretches test patience.",
+        "b": "Relentless tension that builds to a breathless final season.",
+        "winner": "b"
+      },
+      {
+        "name": "Craft",
+        "a": "Gorgeous cinematography and meticulous character work.",
+        "b": "Excellent, but slightly less refined shot for shot.",
+        "winner": "a"
+      },
+      {
+        "name": "Lead character",
+        "a": "Jimmy McGill's fall is heartbreaking and human.",
+        "b": "Walter White's turn from teacher to kingpin is iconic.",
+        "winner": "b"
+      },
+      {
+        "name": "Supporting cast",
+        "a": "Kim Wexler is one of TV's best characters.",
+        "b": "Jesse, Hank, Gus and Mike are all unforgettable.",
+        "winner": "tie"
+      },
+      {
+        "name": "Ending",
+        "a": "A quiet, moving finale that rewards long-time viewers.",
+        "b": "Felina wraps everything up with rare precision.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Stunning, patient craftsmanship",
+      "Kim Wexler is all-time great",
+      "A deeply human, tragic arc"
+    ],
+    "pros_b": [
+      "Thriller pacing that never lets up",
+      "Walter White is an icon",
+      "A near-perfect final season"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dreamworks-vs-pixar",
+    "item_a": "DreamWorks",
+    "item_b": "Pixar",
+    "category": "fandoms",
+    "question": "Which is better, Pixar or DreamWorks?",
+    "search_query": "pixar vs dreamworks",
+    "search_volume": 3200,
+    "summary": "Pixar wins: DreamWorks makes some great films, but Pixar's peak run of Toy Story, Up and Inside Out is the gold standard of animation.",
+    "winner": "b",
+    "winner_reason": "Pixar pioneered feature-length computer animation and built a run of emotionally rich films that defined a generation. DreamWorks has real gems and has been on a strong streak lately, but its catalogue is more uneven.",
+    "dimensions": [
+      {
+        "name": "Peak films",
+        "a": "Shrek, Kung Fu Panda and How to Train Your Dragon.",
+        "b": "Toy Story, WALL-E, Up, Inside Out and Coco.",
+        "winner": "b"
+      },
+      {
+        "name": "Emotional depth",
+        "a": "Can hit hard, especially in How to Train Your Dragon.",
+        "b": "Famous for making adults cry in the first ten minutes.",
+        "winner": "b"
+      },
+      {
+        "name": "Humour",
+        "a": "Sharper, more irreverent comedy, from Shrek onward.",
+        "b": "Gentle and clever, but less cheeky.",
+        "winner": "a"
+      },
+      {
+        "name": "Consistency",
+        "a": "More misses mixed in with the hits.",
+        "b": "A remarkable early hit rate, with some recent dips.",
+        "winner": "b"
+      },
+      {
+        "name": "Innovation",
+        "a": "Bold stylistic swings like The Bad Guys and Puss in Boots: The Last Wish.",
+        "b": "Made Toy Story, the first fully computer-animated feature.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Funnier and more irreverent",
+      "How to Train Your Dragon is a classic",
+      "Recent films have taken real style risks"
+    ],
+    "pros_b": [
+      "The best run in animation history",
+      "Unmatched emotional storytelling",
+      "Invented the CG feature film"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dota-2-vs-league-of-legends",
+    "item_a": "Dota 2",
+    "item_b": "League of Legends",
+    "category": "fandoms",
+    "question": "Which is better, League of Legends or Dota 2?",
+    "search_query": "league of legends vs dota 2",
+    "search_volume": 3200,
+    "summary": "League of Legends wins: Dota 2 is the deeper game, but League is easier to get into, has more players and has the bigger esports stage.",
+    "winner": "b",
+    "winner_reason": "For most players League is the better choice: shorter learning curve, faster games and a far larger community and esports scene, with Arcane bringing in people who had never played. Dota 2 rewards mastery more, but asks a lot more first.",
+    "dimensions": [
+      {
+        "name": "Depth",
+        "a": "Enormously complex, with denies, couriers and huge item interactions.",
+        "b": "Deep, but streamlined and more forgiving.",
+        "winner": "a"
+      },
+      {
+        "name": "Accessibility",
+        "a": "A notoriously steep learning curve.",
+        "b": "Easier for new players to pick up and enjoy.",
+        "winner": "b"
+      },
+      {
+        "name": "Monetisation",
+        "a": "Every hero is free from day one.",
+        "b": "Champions must be unlocked, though that is easy with play.",
+        "winner": "a"
+      },
+      {
+        "name": "Player base",
+        "a": "Large and loyal, but smaller.",
+        "b": "One of the most played PC games in the world.",
+        "winner": "b"
+      },
+      {
+        "name": "Esports",
+        "a": "The International was famous for crowdfunded prize pools.",
+        "b": "Worlds is among the most watched events in all of esports.",
+        "winner": "b"
+      },
+      {
+        "name": "Wider universe",
+        "a": "Some lore and an animated series.",
+        "b": "Arcane is one of the best video game adaptations ever.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Unmatched strategic depth",
+      "All heroes free",
+      "Comebacks are always possible"
+    ],
+    "pros_b": [
+      "Easier to learn, faster games",
+      "Huge player base and esports",
+      "Arcane made the world beloved"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "batman-vs-iron-man",
+    "item_a": "Batman",
+    "item_b": "Iron Man",
+    "category": "fandoms",
+    "question": "Who would win, Iron Man or Batman?",
+    "search_query": "iron man vs batman",
+    "search_volume": 2620,
+    "summary": "Iron Man wins: both are rich geniuses, but only one has a flying suit with repulsors, missiles and an AI co-pilot.",
+    "winner": "b",
+    "winner_reason": "In a straight fight, the tech gap is too wide. Batman's prep and fighting skill are elite, but Iron Man's armour flies, absorbs heavy damage and hits from range, so Batman would need a perfect plan just to stay in it.",
+    "dimensions": [
+      {
+        "name": "Tech",
+        "a": "Superb gadgets, a Batsuit and the Batmobile.",
+        "b": "Powered armour with flight, repulsors and missiles.",
+        "winner": "b"
+      },
+      {
+        "name": "Hand to hand",
+        "a": "A master of dozens of martial arts.",
+        "b": "Competent, but leans on the suit.",
+        "winner": "a"
+      },
+      {
+        "name": "Intellect",
+        "a": "The World's Greatest Detective.",
+        "b": "A genius engineer and inventor.",
+        "winner": "tie"
+      },
+      {
+        "name": "Preparation",
+        "a": "Famous for contingency plans for every scenario.",
+        "b": "Improvises brilliantly and builds on the fly.",
+        "winner": "a"
+      },
+      {
+        "name": "Wealth",
+        "a": "A billionaire with Wayne Enterprises behind him.",
+        "b": "A billionaire with Stark Industries behind him.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Elite martial artist",
+      "Planning and detective skills",
+      "The more iconic character overall"
+    ],
+    "pros_b": [
+      "Flight and long-range weapons",
+      "Armour that shrugs off Batman's gadgets",
+      "An AI that helps him adapt mid-fight"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "elvis-presley-vs-michael-jackson",
+    "item_a": "Elvis Presley",
+    "item_b": "Michael Jackson",
+    "category": "fandoms",
+    "question": "Who is better, Elvis or Michael Jackson?",
+    "search_query": "elvis vs michael jackson",
+    "search_volume": 2600,
+    "summary": "Michael Jackson wins: Elvis is the King of Rock and Roll, but Michael took pop global with better songs, dancing and videos.",
+    "winner": "b",
+    "winner_reason": "Elvis broke open rock and roll for mainstream America and that legacy is permanent. Michael went further: he wrote many of his own hits, redefined live performance and music videos, and made pop a worldwide event.",
+    "dimensions": [
+      {
+        "name": "Pioneering",
+        "a": "Brought rock and roll to the mainstream in the 1950s.",
+        "b": "Built on soul, funk and Motown traditions.",
+        "winner": "a"
+      },
+      {
+        "name": "Songwriting",
+        "a": "Mostly sang songs written by others.",
+        "b": "Wrote classics like Billie Jean and Beat It.",
+        "winner": "b"
+      },
+      {
+        "name": "Performance",
+        "a": "Hips and charisma that shocked 1950s TV audiences.",
+        "b": "The moonwalk and some of the most copied dance moves ever.",
+        "winner": "b"
+      },
+      {
+        "name": "Global reach",
+        "a": "Huge in America and beyond.",
+        "b": "A truly worldwide superstar.",
+        "winner": "b"
+      },
+      {
+        "name": "Voice",
+        "a": "A rich baritone with a remarkable range of styles.",
+        "b": "An agile, emotive voice from childhood onward.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "The King of Rock and Roll",
+      "Changed popular music forever",
+      "Unmatched 1950s charisma"
+    ],
+    "pros_b": [
+      "Wrote many of his biggest hits",
+      "Greatest dancer in pop",
+      "Thriller-era global dominance"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "biggie-vs-tupac",
+    "item_a": "Biggie",
+    "item_b": "Tupac",
+    "category": "fandoms",
+    "question": "Who is better, Tupac or Biggie?",
+    "search_query": "tupac vs biggie",
+    "search_volume": 2600,
+    "summary": "Biggie wins on the mic: Tupac is the bigger legend, but Biggie's flow, storytelling and two classic albums make him the better rapper.",
+    "winner": "a",
+    "winner_reason": "As pure rappers, Biggie's effortless flow, wordplay and storytelling are hard to top, and Ready to Die and Life After Death are near-flawless. Tupac had more passion, range and cultural weight, but the question is who rapped better.",
+    "dimensions": [
+      {
+        "name": "Flow",
+        "a": "Smooth, effortless and endlessly imitated.",
+        "b": "Forceful and emotional, but less technically varied.",
+        "winner": "a"
+      },
+      {
+        "name": "Storytelling",
+        "a": "Vivid, cinematic street narratives like Warning.",
+        "b": "Moving, personal stories like Dear Mama and Brenda's Got a Baby.",
+        "winner": "tie"
+      },
+      {
+        "name": "Discography",
+        "a": "Two classic albums, tight and consistent.",
+        "b": "More albums, including All Eyez on Me, with more filler.",
+        "winner": "a"
+      },
+      {
+        "name": "Message",
+        "a": "More focused on hustle and street life.",
+        "b": "Spoke on social issues with real passion.",
+        "winner": "b"
+      },
+      {
+        "name": "Legacy",
+        "a": "Revered as one of the greatest rappers ever.",
+        "b": "A global icon whose image goes beyond music.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Arguably the best flow in hip-hop",
+      "Two near-perfect albums",
+      "Masterful wordplay and storytelling"
+    ],
+    "pros_b": [
+      "Raw passion and charisma",
+      "Powerful social commentary",
+      "A global cultural icon"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "naruto-vs-one-piece",
+    "item_a": "Naruto",
+    "item_b": "One Piece",
+    "category": "fandoms",
+    "question": "Which is better, Naruto or One Piece?",
+    "search_query": "naruto vs one piece",
+    "search_volume": 2000,
+    "summary": "One Piece wins: Naruto has great fights and a moving first half, but One Piece's worldbuilding and long-planned mysteries are in a league of their own.",
+    "winner": "b",
+    "winner_reason": "Eiichiro Oda has built the most ambitious world in manga, with setups that pay off hundreds of chapters later. Naruto has some of shonen's best rivalries and emotion, but its later arcs lose focus in a way One Piece mostly avoids.",
+    "dimensions": [
+      {
+        "name": "Worldbuilding",
+        "a": "A memorable ninja world with clans and villages.",
+        "b": "A vast, detailed world full of islands, cultures and history.",
+        "winner": "b"
+      },
+      {
+        "name": "Fights",
+        "a": "Fast, tactical ninja fights, especially in the early arcs.",
+        "b": "Big and creative, but sometimes long-winded.",
+        "winner": "a"
+      },
+      {
+        "name": "Main character",
+        "a": "Naruto's journey from outcast to Hokage is deeply moving.",
+        "b": "Luffy is pure joy, but less inward and complex.",
+        "winner": "a"
+      },
+      {
+        "name": "Cast",
+        "a": "Strong core cast, with many sidelined later.",
+        "b": "The Straw Hats each get rich backstories.",
+        "winner": "b"
+      },
+      {
+        "name": "Accessibility",
+        "a": "A finished story you can actually complete.",
+        "b": "A huge episode count can scare off newcomers.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Iconic rivalry between Naruto and Sasuke",
+      "Brilliant early fights",
+      "A complete story with an ending"
+    ],
+    "pros_b": [
+      "Unmatched worldbuilding",
+      "Setups that pay off years later",
+      "The Straw Hats are a perfect crew"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "the-beatles-vs-the-rolling-stones",
+    "item_a": "The Beatles",
+    "item_b": "The Rolling Stones",
+    "category": "fandoms",
+    "question": "Who is better, The Beatles or The Rolling Stones?",
+    "search_query": "beatles vs rolling stones",
+    "search_volume": 2000,
+    "summary": "The Beatles win: the Stones are the greater rock and roll band, but the Beatles packed more invention into eight years than most bands manage in a lifetime.",
+    "winner": "a",
+    "winner_reason": "The Beatles reinvented pop music album by album, from Rubber Soul to Abbey Road, and their songwriting remains the template. The Rolling Stones rocked harder and lasted far longer, but their influence on what music could be is smaller.",
+    "dimensions": [
+      {
+        "name": "Songwriting",
+        "a": "Lennon-McCartney, plus Harrison, wrote a huge share of pop's standards.",
+        "b": "Jagger-Richards wrote classic riffs and swagger-filled anthems.",
+        "winner": "a"
+      },
+      {
+        "name": "Innovation",
+        "a": "Pioneered studio techniques on Revolver and Sgt. Pepper.",
+        "b": "Brilliant, but more rooted in blues and rock tradition.",
+        "winner": "a"
+      },
+      {
+        "name": "Live shows",
+        "a": "Stopped touring in 1966.",
+        "b": "One of the greatest live bands, touring for decades.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Split in 1970 after a short, intense career.",
+        "b": "Still recording and performing many decades on.",
+        "winner": "b"
+      },
+      {
+        "name": "Influence",
+        "a": "Arguably the most influential band in pop history.",
+        "b": "Defined the rock-band image for generations.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Unmatched songwriting catalogue",
+      "Reinvented the studio album",
+      "Influenced nearly everyone after them"
+    ],
+    "pros_b": [
+      "Greater live band by far",
+      "Incredible longevity",
+      "Rock and roll swagger perfected"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "family-guy-vs-the-simpsons",
+    "item_a": "Family Guy",
+    "item_b": "The Simpsons",
+    "category": "fandoms",
+    "question": "Is The Simpsons better than Family Guy?",
+    "search_query": "simpsons vs family guy",
+    "search_volume": 2000,
+    "summary": "The Simpsons wins: its classic seasons are among the best TV comedy ever made, and Family Guy would not exist without it.",
+    "winner": "b",
+    "winner_reason": "At its peak in the 1990s The Simpsons combined jokes, heart and satire better than any sitcom, animated or not. Family Guy's cutaway chaos can be very funny, but it rarely matches The Simpsons' writing or warmth.",
+    "dimensions": [
+      {
+        "name": "Peak quality",
+        "a": "Some strong seasons, but no golden age to rival the 90s Simpsons.",
+        "b": "Seasons 3 to 8 or so are often called the best sitcom run ever.",
+        "winner": "b"
+      },
+      {
+        "name": "Humour style",
+        "a": "Cutaway gags, shock humour and absurdism.",
+        "b": "Character-driven jokes with layers of satire.",
+        "winner": "b"
+      },
+      {
+        "name": "Heart",
+        "a": "Occasional sweet moments, mostly played for laughs.",
+        "b": "Episodes like Lisa's Substitute genuinely move people.",
+        "winner": "b"
+      },
+      {
+        "name": "Edginess",
+        "a": "Pushes boundaries harder and more often.",
+        "b": "Gentler and more family-friendly.",
+        "winner": "a"
+      },
+      {
+        "name": "Legacy",
+        "a": "Shaped a generation of cutaway-style comedy.",
+        "b": "The longest-running American scripted primetime series.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Bolder, edgier humour",
+      "Stewie and Brian are great creations",
+      "Fast, random gags that hit hard"
+    ],
+    "pros_b": [
+      "The greatest golden age in TV comedy",
+      "Real heart beneath the jokes",
+      "Shaped modern animation"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "harry-potter-vs-lord-of-the-rings",
+    "item_a": "Harry Potter",
+    "item_b": "Lord of the Rings",
+    "category": "fandoms",
+    "question": "Is Lord of the Rings better than Harry Potter?",
+    "search_query": "harry potter vs lord of the rings",
+    "search_volume": 1760,
+    "summary": "Lord of the Rings wins: Harry Potter is the more fun read, but Tolkien built modern fantasy, and Peter Jackson's trilogy is the better film saga.",
+    "winner": "b",
+    "winner_reason": "Tolkien created languages, histories and a mythology that nearly every fantasy since has borrowed from. Harry Potter brought millions of kids to reading, which matters, but as literature and film, Middle-earth stands taller.",
+    "dimensions": [
+      {
+        "name": "Worldbuilding",
+        "a": "Charming wizarding world, but the rules can be loose.",
+        "b": "Languages, maps and thousands of years of history.",
+        "winner": "b"
+      },
+      {
+        "name": "Readability",
+        "a": "Fast, funny and easy to love at any age.",
+        "b": "Slower, dense and sometimes daunting.",
+        "winner": "a"
+      },
+      {
+        "name": "Films",
+        "a": "Eight solid films that grew up with their cast.",
+        "b": "A trilogy that ended with Return of the King's Best Picture Oscar.",
+        "winner": "b"
+      },
+      {
+        "name": "Influence",
+        "a": "Got a generation reading and launched a YA boom.",
+        "b": "The foundation of modern fantasy.",
+        "winner": "b"
+      },
+      {
+        "name": "Characters",
+        "a": "Harry, Hermione, Ron and Snape are beloved.",
+        "b": "Frodo, Sam, Gandalf and Aragorn are archetypes.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "More fun and accessible",
+      "Got millions reading",
+      "A cosy, magical school setting"
+    ],
+    "pros_b": [
+      "Created modern fantasy",
+      "Unmatched worldbuilding",
+      "Award-winning film trilogy"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "battlefield-vs-call-of-duty",
+    "item_a": "Battlefield",
+    "item_b": "Call of Duty",
+    "category": "fandoms",
+    "question": "Is Battlefield better than Call of Duty?",
+    "search_query": "call of duty vs battlefield",
+    "search_volume": 1760,
+    "summary": "Battlefield wins: Call of Duty is slicker and more consistent, but nothing beats a big Battlefield match with tanks, jets and buildings coming down.",
+    "winner": "a",
+    "winner_reason": "Battlefield offers something no other shooter does as well: large-scale combined-arms warfare with vehicles, destruction and squad play. Call of Duty is the more polished and dependable series, but Battlefield at its best delivers the more memorable moments.",
+    "dimensions": [
+      {
+        "name": "Scale",
+        "a": "Huge maps, many players, land, sea and air vehicles.",
+        "b": "Tighter maps and fast, smaller-scale fights.",
+        "winner": "a"
+      },
+      {
+        "name": "Gunplay",
+        "a": "Weighty and satisfying, but less snappy.",
+        "b": "Arguably the smoothest gunfeel in the genre.",
+        "winner": "b"
+      },
+      {
+        "name": "Consistency",
+        "a": "Some rocky launches, like Battlefield 2042.",
+        "b": "A reliable yearly release with steady quality.",
+        "winner": "b"
+      },
+      {
+        "name": "Destruction",
+        "a": "Destructible environments change how battles play out.",
+        "b": "Mostly static maps.",
+        "winner": "a"
+      },
+      {
+        "name": "Campaigns",
+        "a": "Often an afterthought.",
+        "b": "Modern Warfare-style campaigns are blockbuster set pieces.",
+        "winner": "b"
+      },
+      {
+        "name": "Teamplay",
+        "a": "Classes and squads make teamwork matter.",
+        "b": "More about individual skill and killstreaks.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Unrivalled large-scale battles",
+      "Vehicles and destruction",
+      "Teamwork genuinely matters"
+    ],
+    "pros_b": [
+      "The best gunfeel in shooters",
+      "Consistent yearly releases",
+      "Strong campaigns and Warzone"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "bugs-bunny-vs-mickey-mouse",
+    "item_a": "Bugs Bunny",
+    "item_b": "Mickey Mouse",
+    "category": "fandoms",
+    "question": "Who is better, Mickey Mouse or Bugs Bunny?",
+    "search_query": "mickey mouse vs bugs bunny",
+    "search_volume": 1760,
+    "summary": "Bugs Bunny wins: Mickey is the bigger brand, but Bugs is the funnier, sharper character with the better cartoons.",
+    "winner": "a",
+    "winner_reason": "Mickey is a corporate icon whose personality has been smoothed into a logo. Bugs, with his cool wit and endless comebacks, starred in Looney Tunes shorts like What's Opera, Doc? that are still among the funniest cartoons ever made.",
+    "dimensions": [
+      {
+        "name": "Comedy",
+        "a": "Quick, sarcastic and always in control.",
+        "b": "Cheerful and likeable, rarely the funniest in the room.",
+        "winner": "a"
+      },
+      {
+        "name": "Cartoons",
+        "a": "Classic Looney Tunes shorts by Chuck Jones and others.",
+        "b": "Early shorts like Steamboat Willie were landmarks.",
+        "winner": "a"
+      },
+      {
+        "name": "Brand power",
+        "a": "A Warner Bros. icon.",
+        "b": "The face of Disney and its theme parks worldwide.",
+        "winner": "b"
+      },
+      {
+        "name": "History",
+        "a": "Debuted in 1940's A Wild Hare.",
+        "b": "Debuted in 1928; helped make synchronised sound cartoons a hit.",
+        "winner": "b"
+      },
+      {
+        "name": "Personality",
+        "a": "A trickster with a catchphrase everyone knows.",
+        "b": "Friendly, but mostly a mascot now.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Far funnier character",
+      "Iconic catchphrase and attitude",
+      "Some of the best cartoons ever"
+    ],
+    "pros_b": [
+      "The world's most famous cartoon icon",
+      "A pioneer of animation history",
+      "Face of a global entertainment empire"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "the-sopranos-vs-the-wire",
+    "item_a": "The Sopranos",
+    "item_b": "The Wire",
+    "category": "fandoms",
+    "question": "Which is better, The Sopranos or The Wire?",
+    "search_query": "the wire vs sopranos",
+    "search_volume": 1440,
+    "summary": "The Sopranos wins: The Wire is the greater portrait of a city, but Tony Soprano is TV's richest character and the show launched the golden age.",
+    "winner": "a",
+    "winner_reason": "The Sopranos changed what TV could be, with a complex antihero, dream sequences and dark comedy. The Wire is a brilliant, sprawling study of institutions, but The Sopranos is the deeper character study and the more influential show.",
+    "dimensions": [
+      {
+        "name": "Lead character",
+        "a": "Tony Soprano is one of the most complex characters on TV.",
+        "b": "An ensemble show without a single central lead.",
+        "winner": "a"
+      },
+      {
+        "name": "Scope",
+        "a": "One family and one crew, explored in depth.",
+        "b": "Drugs, docks, politics, schools and the press across Baltimore.",
+        "winner": "b"
+      },
+      {
+        "name": "Influence",
+        "a": "Kicked off the prestige TV era.",
+        "b": "Hugely respected, but slower to find an audience.",
+        "winner": "a"
+      },
+      {
+        "name": "Realism",
+        "a": "Grounded, with dreamlike flourishes.",
+        "b": "Close to documentary in its realism.",
+        "winner": "b"
+      },
+      {
+        "name": "Humour",
+        "a": "Darkly funny throughout.",
+        "b": "Dry wit, but more serious overall.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Tony Soprano is an all-time great",
+      "Started the golden age of TV",
+      "Darkly funny and psychologically rich"
+    ],
+    "pros_b": [
+      "Unmatched social scope",
+      "Feels almost documentary-real",
+      "Every season tackles a new institution"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "deadpool-vs-spider-man",
+    "item_a": "Deadpool",
+    "item_b": "Spider-Man",
+    "category": "fandoms",
+    "question": "Who would win, Spider-Man or Deadpool?",
+    "search_query": "spiderman vs deadpool",
+    "search_volume": 1440,
+    "summary": "Spider-Man wins: Deadpool cannot stay dead, but spider-sense, superior strength and speed mean he rarely lands a clean hit.",
+    "winner": "b",
+    "winner_reason": "In Marvel comics canon, Spider-Man's spider-sense lets him dodge nearly everything Deadpool throws, and he is far stronger. Deadpool's healing means he can keep coming, but Spidey can web him up and walk away.",
+    "dimensions": [
+      {
+        "name": "Strength",
+        "a": "Peak-human strength enhanced by his healing factor.",
+        "b": "Can lift many tons, far beyond Deadpool.",
+        "winner": "b"
+      },
+      {
+        "name": "Durability",
+        "a": "Heals from almost anything, even severe injuries.",
+        "b": "Tough, but no healing factor to match.",
+        "winner": "a"
+      },
+      {
+        "name": "Spider-sense",
+        "a": "Can't easily get the jump on him.",
+        "b": "Warns him of danger and helps him dodge.",
+        "winner": "b"
+      },
+      {
+        "name": "Weapons",
+        "a": "Swords, guns and gadgets.",
+        "b": "Webs can bind and neutralise him without lethal force.",
+        "winner": "b"
+      },
+      {
+        "name": "Banter",
+        "a": "Fourth-wall-breaking motormouth.",
+        "b": "Witty, but outmatched in pure chatter.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Nearly impossible to put down",
+      "Well armed and trained",
+      "Unbeatable trash talk"
+    ],
+    "pros_b": [
+      "Much stronger and faster",
+      "Spider-sense dodges attacks",
+      "Webs end fights without killing"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "parks-and-recreation-vs-the-office",
+    "item_a": "Parks and Recreation",
+    "item_b": "The Office",
+    "category": "fandoms",
+    "question": "Is The Office better than Parks and Recreation?",
+    "search_query": "the office vs parks and rec",
+    "search_volume": 1180,
+    "summary": "The Office wins: Parks and Rec is warmer and more consistent, but The Office's best seasons are funnier and far more rewatched.",
+    "winner": "b",
+    "winner_reason": "The Office at its peak, from season 2 to season 4 or so, is a comedy masterclass, and its cringe humour created icons like Michael Scott and Dwight. Parks and Rec is more consistent and kinder, but The Office set the template.",
+    "dimensions": [
+      {
+        "name": "Peak seasons",
+        "a": "Seasons 3 to 5 are excellent.",
+        "b": "Seasons 2 to 4 are some of the best sitcom TV ever.",
+        "winner": "b"
+      },
+      {
+        "name": "Consistency",
+        "a": "A shaky first season, then strong to the end.",
+        "b": "Noticeable dip after Steve Carell left.",
+        "winner": "a"
+      },
+      {
+        "name": "Cast",
+        "a": "Leslie, Ron, April and Andy are all gold.",
+        "b": "Michael, Dwight, Jim and Pam are icons.",
+        "winner": "tie"
+      },
+      {
+        "name": "Tone",
+        "a": "Optimistic, warm and kind.",
+        "b": "Cringe humour balanced with heart.",
+        "winner": "a"
+      },
+      {
+        "name": "Rewatchability",
+        "a": "Very rewatchable comfort TV.",
+        "b": "One of the most rewatched streaming shows ever.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Warm, kind and consistent",
+      "Ron Swanson and Leslie Knope",
+      "A strong final season"
+    ],
+    "pros_b": [
+      "Funnier peak seasons",
+      "Michael Scott is an icon",
+      "Endlessly rewatchable"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "breaking-bad-vs-the-sopranos",
+    "item_a": "Breaking Bad",
+    "item_b": "The Sopranos",
+    "category": "fandoms",
+    "question": "Is Breaking Bad better than The Sopranos?",
+    "search_query": "breaking bad vs sopranos",
+    "search_volume": 1180,
+    "summary": "The Sopranos wins, by a whisker: Breaking Bad is the tighter thriller, but The Sopranos is the richer, more influential show.",
+    "winner": "b",
+    "winner_reason": "Breaking Bad has the stronger plot momentum and a cleaner ending. The Sopranos goes deeper, into therapy, family and the American dream, and every antihero drama since, Breaking Bad included, walks the path it cleared.",
+    "dimensions": [
+      {
+        "name": "Plot",
+        "a": "Tight, escalating and addictive.",
+        "b": "Meandering at times, by design.",
+        "winner": "a"
+      },
+      {
+        "name": "Depth",
+        "a": "A powerful study of pride and ego.",
+        "b": "Explores therapy, family, class and identity in layers.",
+        "winner": "b"
+      },
+      {
+        "name": "Lead",
+        "a": "Walter White's transformation is iconic.",
+        "b": "Tony Soprano is complex, funny and frightening.",
+        "winner": "tie"
+      },
+      {
+        "name": "Ending",
+        "a": "Felina gives a satisfying, clean finish.",
+        "b": "The cut to black is still debated.",
+        "winner": "a"
+      },
+      {
+        "name": "Influence",
+        "a": "Took the antihero formula to new heights.",
+        "b": "Created the modern prestige drama.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Relentless, addictive plotting",
+      "A clean, satisfying ending",
+      "Walter White's transformation"
+    ],
+    "pros_b": [
+      "Started the prestige TV era",
+      "Deeper and more layered",
+      "Tony Soprano is TV's richest character"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dragon-ball-vs-one-piece",
+    "item_a": "Dragon Ball",
+    "item_b": "One Piece",
+    "category": "fandoms",
+    "question": "Which is better, One Piece or Dragon Ball?",
+    "search_query": "one piece vs dragon ball",
+    "search_volume": 1180,
+    "summary": "One Piece wins: Dragon Ball wrote the shonen rulebook, but One Piece tells a richer story with a deeper cast.",
+    "winner": "b",
+    "winner_reason": "Dragon Ball is the foundation of modern shonen and its fights are legendary. One Piece builds on that with a sprawling world, emotional character arcs and mysteries planned over decades, making it the better story overall.",
+    "dimensions": [
+      {
+        "name": "Influence",
+        "a": "Inspired Naruto, One Piece and a generation of manga.",
+        "b": "Hugely influential, but built on Dragon Ball's template.",
+        "winner": "a"
+      },
+      {
+        "name": "Story",
+        "a": "Simple: get stronger, beat the next villain.",
+        "b": "A layered adventure with politics, history and mystery.",
+        "winner": "b"
+      },
+      {
+        "name": "Fights",
+        "a": "Iconic battles and transformations.",
+        "b": "Inventive, but slower paced.",
+        "winner": "a"
+      },
+      {
+        "name": "Characters",
+        "a": "Goku and Vegeta are legends; side cast is underused.",
+        "b": "The Straw Hats each get rich, emotional arcs.",
+        "winner": "b"
+      },
+      {
+        "name": "Worldbuilding",
+        "a": "Fun, but loosely defined.",
+        "b": "One of the most detailed worlds in fiction.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "The blueprint for modern shonen",
+      "Legendary fights and transformations",
+      "Goku and Vegeta are icons"
+    ],
+    "pros_b": [
+      "Richer, deeper story",
+      "Incredible worldbuilding",
+      "Every crew member matters"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "family-guy-vs-south-park",
+    "item_a": "Family Guy",
+    "item_b": "South Park",
+    "category": "fandoms",
+    "question": "Is South Park better than Family Guy?",
+    "search_query": "south park vs family guy",
+    "search_volume": 1180,
+    "summary": "South Park wins: Family Guy is great for random gags, but South Park's sharp satire and fast turnaround make it the smarter show.",
+    "winner": "b",
+    "winner_reason": "South Park's tight production schedule lets it react to the news with pointed satire, and its best episodes have real story structure. Family Guy is funny in bursts, but its humour is looser and more repetitive.",
+    "dimensions": [
+      {
+        "name": "Satire",
+        "a": "Pop-culture jokes over sharp commentary.",
+        "b": "Some of TV's sharpest, most topical satire.",
+        "winner": "b"
+      },
+      {
+        "name": "Story",
+        "a": "Plots often serve the cutaways.",
+        "b": "Episodes are tightly plotted and often surprise.",
+        "winner": "b"
+      },
+      {
+        "name": "Animation",
+        "a": "Polished, traditional TV animation.",
+        "b": "Deliberately crude cut-paper style.",
+        "winner": "a"
+      },
+      {
+        "name": "Gags",
+        "a": "Cutaways and musical numbers are its strength.",
+        "b": "Fewer gags, more situational comedy.",
+        "winner": "a"
+      },
+      {
+        "name": "Relevance",
+        "a": "Feels the same from year to year.",
+        "b": "Stays fresh by reacting to current events.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Rapid-fire gags and cutaways",
+      "Great musical numbers",
+      "Stewie and Brian"
+    ],
+    "pros_b": [
+      "Razor-sharp satire",
+      "Tightly plotted episodes",
+      "Stays topical"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "friends-vs-seinfeld",
+    "item_a": "Friends",
+    "item_b": "Seinfeld",
+    "category": "fandoms",
+    "question": "Is Seinfeld better than Friends?",
+    "search_query": "friends vs seinfeld",
+    "search_volume": 960,
+    "summary": "Seinfeld wins: Friends is cosier and easier to love, but Seinfeld's writing is sharper and changed sitcoms for good.",
+    "winner": "b",
+    "winner_reason": "Seinfeld's interlocking plots, catchphrases and famous no hugging, no learning attitude made it one of the most influential sitcoms ever. Friends is warmer and more rewatchable for many, but Seinfeld is the better-written comedy.",
+    "dimensions": [
+      {
+        "name": "Writing",
+        "a": "Solid jokes and romantic storylines.",
+        "b": "Ingenious plots that tie together in the final scenes.",
+        "winner": "b"
+      },
+      {
+        "name": "Warmth",
+        "a": "Six friends you want to hang out with.",
+        "b": "Four deliberately selfish people.",
+        "winner": "a"
+      },
+      {
+        "name": "Influence",
+        "a": "Shaped hangout sitcoms and 90s fashion.",
+        "b": "Redefined sitcom structure and comedy.",
+        "winner": "b"
+      },
+      {
+        "name": "Catchphrases",
+        "a": "How you doin' and We were on a break.",
+        "b": "Yada yada, No soup for you, Serenity now.",
+        "winner": "b"
+      },
+      {
+        "name": "Rewatchability",
+        "a": "A huge comfort-watch for generations.",
+        "b": "Highly rewatchable, but more of an acquired taste.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Warm, lovable characters",
+      "Ultimate comfort TV",
+      "Ross and Rachel will-they-won't-they"
+    ],
+    "pros_b": [
+      "Sharper, smarter writing",
+      "Redefined the sitcom",
+      "Endlessly quotable"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "fortnite-vs-roblox",
+    "item_a": "Fortnite",
+    "item_b": "Roblox",
+    "category": "fandoms",
+    "question": "Is Fortnite better than Roblox?",
+    "search_query": "fortnite vs roblox",
+    "search_volume": 960,
+    "summary": "Fortnite wins as a game: Roblox has more variety, but Fortnite is far more polished and its core modes are simply better made.",
+    "winner": "a",
+    "winner_reason": "Fortnite's battle royale, building and constant live events show what a big studio can do, and its creative mode now offers player-made games too. Roblox wins on sheer variety and creativity, but quality is hit or miss.",
+    "dimensions": [
+      {
+        "name": "Polish",
+        "a": "High production values from Epic Games.",
+        "b": "Varies wildly from game to game.",
+        "winner": "a"
+      },
+      {
+        "name": "Variety",
+        "a": "Battle royale, creative maps and more.",
+        "b": "Millions of player-made experiences.",
+        "winner": "b"
+      },
+      {
+        "name": "Creativity",
+        "a": "Creative mode and UEFN let players build.",
+        "b": "Built entirely around user creation.",
+        "winner": "b"
+      },
+      {
+        "name": "Events",
+        "a": "Concerts and live events are cultural moments.",
+        "b": "Events exist, but are less of a spectacle.",
+        "winner": "a"
+      },
+      {
+        "name": "Competitive",
+        "a": "A big esports scene and skill-based play.",
+        "b": "Mostly casual.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Polished, high-quality gameplay",
+      "Big live events and collaborations",
+      "Strong competitive scene"
+    ],
+    "pros_b": [
+      "Endless variety of games",
+      "Teaches kids to create and code",
+      "Huge, young community"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "beyonce-vs-taylor-swift",
+    "item_a": "Beyoncé",
+    "item_b": "Taylor Swift",
+    "category": "fandoms",
+    "question": "Who is better, Taylor Swift or Beyoncé?",
+    "search_query": "taylor swift vs beyonce",
+    "search_volume": 960,
+    "summary": "It's a tie: Beyoncé is the greater performer and vocalist, Taylor Swift the greater songwriter and commercial force. Both are all-time greats.",
+    "winner": "tie",
+    "winner_reason": "They excel at different things. Beyoncé holds the record for most Grammy wins and is pop's best live performer; Swift has four Album of the Year Grammys and ran the Eras Tour, the highest-grossing tour ever. Picking one says more about taste than greatness.",
+    "dimensions": [
+      {
+        "name": "Vocals",
+        "a": "Powerful, versatile and technically superb.",
+        "b": "Expressive, but not in Beyoncé's league as a singer.",
+        "winner": "a"
+      },
+      {
+        "name": "Songwriting",
+        "a": "A co-writer with strong creative vision.",
+        "b": "Writes or co-writes all her songs; a storytelling master.",
+        "winner": "b"
+      },
+      {
+        "name": "Performance",
+        "a": "Arguably the best live performer of her generation.",
+        "b": "Eras Tour shows were marathon spectacles.",
+        "winner": "a"
+      },
+      {
+        "name": "Commercial",
+        "a": "Huge sales and sold-out stadium tours.",
+        "b": "The Eras Tour became the highest-grossing tour ever.",
+        "winner": "b"
+      },
+      {
+        "name": "Awards",
+        "a": "Most Grammy wins of any artist.",
+        "b": "Record four Album of the Year wins.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Powerhouse vocals",
+      "Best live performer of her era",
+      "Most Grammy wins ever"
+    ],
+    "pros_b": [
+      "Elite songwriter",
+      "Record-breaking Eras Tour",
+      "Four Album of the Year Grammys"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dune-vs-star-wars",
+    "item_a": "Dune",
+    "item_b": "Star Wars",
+    "category": "fandoms",
+    "question": "Is Dune better than Star Wars?",
+    "search_query": "dune vs star wars",
+    "search_volume": 960,
+    "summary": "Dune wins: Star Wars is the bigger and more fun saga, but Dune is the deeper story, and Star Wars borrowed plenty from it.",
+    "winner": "a",
+    "winner_reason": "Frank Herbert's novel tackles religion, ecology and power with a complexity Star Wars never attempts, and Denis Villeneuve's films finally did it justice on screen. Star Wars wins on joy and cultural reach, not depth.",
+    "dimensions": [
+      {
+        "name": "Depth",
+        "a": "Explores religion, politics, ecology and the danger of heroes.",
+        "b": "A classic hero's journey of good against evil.",
+        "winner": "a"
+      },
+      {
+        "name": "Fun",
+        "a": "Grand and serious, sometimes heavy.",
+        "b": "Lightsabers, space battles and pure adventure.",
+        "winner": "b"
+      },
+      {
+        "name": "Worldbuilding",
+        "a": "Arrakis, the spice and the great houses are richly detailed.",
+        "b": "A vast galaxy, though often thinly sketched.",
+        "winner": "a"
+      },
+      {
+        "name": "Films",
+        "a": "Villeneuve's films are acclaimed and visually stunning.",
+        "b": "The original trilogy is iconic; later films are mixed.",
+        "winner": "tie"
+      },
+      {
+        "name": "Cultural impact",
+        "a": "Hugely influential in science fiction.",
+        "b": "One of the biggest pop-culture franchises ever.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Deeper themes and ideas",
+      "Masterful worldbuilding",
+      "Villeneuve's stunning adaptations"
+    ],
+    "pros_b": [
+      "Pure adventure and fun",
+      "Massive cultural impact",
+      "Iconic characters and music"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "darth-vader-vs-voldemort",
+    "item_a": "Darth Vader",
+    "item_b": "Voldemort",
+    "category": "fandoms",
+    "question": "Who is the better villain, Darth Vader or Voldemort?",
+    "search_query": "darth vader vs voldemort",
+    "search_volume": 960,
+    "summary": "Darth Vader wins: Voldemort is pure menace, but Vader has the look, the voice, the twist and a redemption arc that gives him real depth.",
+    "winner": "a",
+    "winner_reason": "Vader is often named the greatest movie villain ever, with an iconic design, unforgettable music and the most famous twist in cinema. Voldemort is frightening, but he never changes; Vader's fall and redemption make him tragic.",
+    "dimensions": [
+      {
+        "name": "Presence",
+        "a": "Black armour, breathing and the Imperial March.",
+        "b": "Snake-like and eerie, most chilling in the books.",
+        "winner": "a"
+      },
+      {
+        "name": "Depth",
+        "a": "A fallen hero whose redemption drives the saga.",
+        "b": "A fully evil villain with a tragic backstory.",
+        "winner": "a"
+      },
+      {
+        "name": "Power",
+        "a": "A Force powerhouse and master duelist.",
+        "b": "The most feared dark wizard of his age.",
+        "winner": "tie"
+      },
+      {
+        "name": "Iconic moment",
+        "a": "I am your father.",
+        "b": "His return in the graveyard in Goblet of Fire.",
+        "winner": "a"
+      },
+      {
+        "name": "Fear factor",
+        "a": "Intimidating, but sometimes restrained.",
+        "b": "Kills without hesitation; children fear his name.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "The most iconic villain design ever",
+      "A tragic redemption arc",
+      "Cinema's most famous twist"
+    ],
+    "pros_b": [
+      "Pure, unrelenting evil",
+      "Fear so strong people won't say his name",
+      "A creepy, unforgettable presence"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "star-wars-prequels-vs-star-wars-sequels",
+    "item_a": "Star Wars prequels",
+    "item_b": "Star Wars sequels",
+    "category": "fandoms",
+    "question": "Which is better, the Star Wars prequels or the sequels?",
+    "search_query": "prequels vs sequels",
+    "search_volume": 890,
+    "summary": "The prequels win: clunky dialogue and all, they tell one story with a plan, while the sequels contradict themselves across three films.",
+    "winner": "a",
+    "winner_reason": "George Lucas's prequels have a clear arc, Anakin's fall, ending with the powerful Revenge of the Sith. The sequels have better acting and effects, but they changed direction from film to film, and the story never fully hangs together.",
+    "dimensions": [
+      {
+        "name": "Story",
+        "a": "A coherent arc of Anakin's fall to the dark side.",
+        "b": "Shifting plans across directors; The Rise of Skywalker split fans.",
+        "winner": "a"
+      },
+      {
+        "name": "Acting",
+        "a": "Stiff dialogue undermines strong actors at times.",
+        "b": "Strong performances from Adam Driver, Daisy Ridley and others.",
+        "winner": "b"
+      },
+      {
+        "name": "Lightsaber duels",
+        "a": "Duel of the Fates and Mustafar are classics.",
+        "b": "Good moments, like the throne room fight.",
+        "winner": "a"
+      },
+      {
+        "name": "Effects",
+        "a": "Heavy CGI that has aged unevenly.",
+        "b": "A smart mix of practical and digital effects.",
+        "winner": "b"
+      },
+      {
+        "name": "Legacy",
+        "a": "Reappraised by a generation who grew up with them; meme gold.",
+        "b": "Still divisive years later.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "A single coherent vision",
+      "Iconic duels and music",
+      "Revenge of the Sith is a strong finish"
+    ],
+    "pros_b": [
+      "Better acting overall",
+      "Polished effects",
+      "The Force Awakens recaptured the old magic"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dark-souls-vs-elden-ring",
+    "item_a": "Dark Souls",
+    "item_b": "Elden Ring",
+    "category": "fandoms",
+    "question": "Is Elden Ring better than Dark Souls?",
+    "search_query": "dark souls vs elden ring",
+    "search_volume": 870,
+    "summary": "Elden Ring wins: Dark Souls has the tighter interconnected world, but Elden Ring took FromSoftware's formula and made it bigger, freer and more accessible.",
+    "winner": "b",
+    "winner_reason": "Elden Ring's open world lets you explore around a hard boss instead of hitting a wall, and it won Game of the Year at The Game Awards 2022. Dark Souls invented the modern template, but Elden Ring is the more complete experience.",
+    "dimensions": [
+      {
+        "name": "World design",
+        "a": "A brilliant, interconnected world full of shortcuts.",
+        "b": "A vast open world with surprising secrets.",
+        "winner": "a"
+      },
+      {
+        "name": "Freedom",
+        "a": "Linear in places; you must beat certain bosses.",
+        "b": "Go anywhere and come back stronger.",
+        "winner": "b"
+      },
+      {
+        "name": "Bosses",
+        "a": "Ornstein and Smough and Artorias are classics.",
+        "b": "A huge roster, with some all-timers like Malenia.",
+        "winner": "b"
+      },
+      {
+        "name": "Influence",
+        "a": "Created the soulslike genre.",
+        "b": "Brought it to a massive new audience.",
+        "winner": "a"
+      },
+      {
+        "name": "Accessibility",
+        "a": "Brutal for newcomers.",
+        "b": "Spirit summons and exploration ease the difficulty.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Masterful interconnected world",
+      "Created the soulslike genre",
+      "Tighter, more focused design"
+    ],
+    "pros_b": [
+      "Freedom to explore and adapt",
+      "Huge variety of builds and bosses",
+      "More approachable for newcomers"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "blur-vs-oasis",
+    "item_a": "Blur",
+    "item_b": "Oasis",
+    "category": "fandoms",
+    "question": "Who is better, Oasis or Blur?",
+    "search_query": "oasis vs blur",
+    "search_volume": 780,
+    "summary": "Oasis wins: Blur won the 1995 singles race and had more range, but Oasis wrote the bigger anthems and won the war.",
+    "winner": "b",
+    "winner_reason": "Country House beat Roll With It in the famous 1995 chart battle, but (What's the Story) Morning Glory went on to become one of the best-selling British albums ever. Songs like Wonderwall and Don't Look Back in Anger are sung by stadiums, and their 2025 reunion tour proved the pull is still there.",
+    "dimensions": [
+      {
+        "name": "Anthems",
+        "a": "Song 2 and Parklife are huge.",
+        "b": "Wonderwall, Live Forever and Don't Look Back in Anger.",
+        "winner": "b"
+      },
+      {
+        "name": "Range",
+        "a": "Moved from Britpop to lo-fi to art-rock.",
+        "b": "Mostly big guitar rock.",
+        "winner": "a"
+      },
+      {
+        "name": "Albums",
+        "a": "Parklife and 13 hold up brilliantly.",
+        "b": "Definitely Maybe and Morning Glory are classics.",
+        "winner": "tie"
+      },
+      {
+        "name": "Commercial",
+        "a": "Big UK success, more modest abroad.",
+        "b": "Bigger sales and global reach.",
+        "winner": "b"
+      },
+      {
+        "name": "Battle of Britpop",
+        "a": "Won the 1995 single showdown.",
+        "b": "Lost that week, won the decade.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "More musical range and ambition",
+      "Won the 1995 chart battle",
+      "Damon Albarn's later work is brilliant"
+    ],
+    "pros_b": [
+      "Bigger anthems and sales",
+      "Two classic debut-era albums",
+      "Singalong songs for the ages"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "elf-vs-home-alone",
+    "item_a": "Elf",
+    "item_b": "Home Alone",
+    "category": "fandoms",
+    "question": "Which is the better Christmas movie, Elf or Home Alone?",
+    "search_query": "elf vs home alone",
+    "search_volume": null,
+    "summary": "Home Alone wins: Elf is a joy, but Home Alone's booby traps, John Williams score and family heart make it the Christmas classic.",
+    "winner": "b",
+    "winner_reason": "Home Alone has been a family Christmas tradition since 1990, combining slapstick, real warmth and a fantastic score. Elf is wonderfully sweet and Will Ferrell is perfect, but Home Alone is the one more families come back to every year.",
+    "dimensions": [
+      {
+        "name": "Comedy",
+        "a": "Will Ferrell's wide-eyed Buddy is endlessly funny.",
+        "b": "Slapstick traps and Kevin's antics.",
+        "winner": "tie"
+      },
+      {
+        "name": "Christmas spirit",
+        "a": "All about believing in Christmas.",
+        "b": "Family, forgiveness and the old man next door.",
+        "winner": "tie"
+      },
+      {
+        "name": "Music",
+        "a": "Baby It's Cold Outside and a fun soundtrack.",
+        "b": "A classic John Williams score.",
+        "winner": "b"
+      },
+      {
+        "name": "Rewatchability",
+        "a": "A modern favourite.",
+        "b": "A holiday staple for decades.",
+        "winner": "b"
+      },
+      {
+        "name": "Iconic scenes",
+        "a": "Syrup on spaghetti and the mail room.",
+        "b": "The aftershave scream and the trap finale.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Will Ferrell at his best",
+      "Pure, sweet Christmas spirit",
+      "Endlessly quotable"
+    ],
+    "pros_b": [
+      "Iconic booby-trap finale",
+      "John Williams score",
+      "A true family classic"
+    ],
+    "as_of": "2026-11-04"
+  }
+]

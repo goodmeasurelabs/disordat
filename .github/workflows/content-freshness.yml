@@ -1,0 +1,39 @@
+name: Content freshness
+
+# Weekly: are any curated verdicts older than 90 days, or is the timed-matchup
+# calendar running dry? If so, open (or update) one issue with the checklist.
+# No model calls and no secrets: refreshing is done by a person with
+# `npm run debates:refresh -- --apply`.
+on:
+  schedule:
+    - cron: '0 14 * * 1' # Mondays 14:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - id: fresh
+        run: npm run -s debates:freshness -- --github-output > report.md
+      - name: Open or update the freshness issue
+        if: steps.fresh.outputs.due == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create content-freshness --color FBCA04 --description "Verdicts or matchups due" 2>/dev/null || true
+          n=$(gh issue list --label content-freshness --state open --json number --jq '.[0].number // empty')
+          if [ -n "$n" ]; then
+            gh issue edit "$n" --body-file report.md
+          else
+            gh issue create --title "Content freshness: verdicts or matchups due" --label content-freshness --body-file report.md
+          fi

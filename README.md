@@ -11,6 +11,39 @@ A tiny, production-ready Next.js 14 app that compares two inputs and returns exa
 - **Edge Runtime**: Fast API responses using Next.js edge runtime
 - **Type Safety**: Full TypeScript support with Zod validation
 
+## Settle the debate
+
+disordat gives an opinionated, **dated** verdict on any "X vs Y" debate, on its
+own URL, built to be shared in a chat and read by AI assistants.
+
+| Surface | Where |
+| --- | --- |
+| Verdict page, titled as the search question | `/vs/<slug>` (`src/app/vs/[slug]/page.tsx`) |
+| Markdown twin for agents | `/vs/<slug>.md` (rewrite in `next.config.mjs` → `src/app/api/md/[slug]`) |
+| Index for LLMs | `/llms.txt` (`src/app/llms.txt/route.ts`) |
+| Verdict share card | `/vs/<slug>/opengraph-image` ("X beats Y", reason, agree %) |
+| Agree / disagree votes | `/api/vote` → Upstash Redis hash `votes:<slug>` (same database as comparisons) |
+| Debate hubs | `/debates`, `/debates/{fandoms,goat,food,travel}` |
+| Timed matchups | `/matchups`, homepage "This week" slot, `src/data/matchups.json` (see `docs/matchups.md`) |
+
+**Curated library.** ~150 hub verdicts live as static JSON in
+`src/data/debates/<hub>.json`. Pairs were chosen from real US search volume
+(`src/data/debates/keyword-research.csv`). They are served without any model
+call, and `/api/compare` returns them as cache hits. Older verdicts that were
+generated before the hubs existed stay in Redis and are listed in their hub
+via `legacySlugs` in `src/lib/debates.ts`.
+
+**Freshness.** Every verdict shows "Verdict as of <date>". Verdicts older than
+90 days are listed by `npm run debates:freshness`, which a weekly workflow
+runs and turns into an issue. `npm run debates:refresh -- --apply`
+regenerates them through the `/api/compare` pipeline (needs `OPENAI_API_KEY`,
+hard cap of 30 calls per run, no retries) and logs winner flips to
+`docs/debates/winner-changes.md`.
+
+**Analytics.** Uses `src/lib/analytics.ts`: `share_click` (now with `slug`),
+`verdict_vote` `{vote, slug}`, `remix_start` `{slug}`, and
+`tool_use('cite', 'copy', ...)`.
+
 ## Quick Start
 
 1. **Clone and install dependencies:**
@@ -91,6 +124,13 @@ npm run typecheck
 
 # Linting
 npm run lint
+
+# Tests (no network; storage is off without Upstash env vars)
+npm test
+
+# Content checks
+npm run debates:freshness
+npm run debates:refresh            # dry run
 ```
 
 ## Product Rules

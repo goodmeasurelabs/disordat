@@ -1,4 +1,5 @@
 import { Redis } from '@upstash/redis'
+import { getStaticVerdict } from '@/lib/debates'
 
 export type DimensionWinner = 'a' | 'b' | 'tie'
 
@@ -25,13 +26,25 @@ export interface StoredComparison {
   pros_a: string[]
   pros_b: string[]
   created_at: string
+  /** Last time the verdict was (re)generated. Falls back to created_at. */
+  updated_at?: string
+  /** Debate hub this verdict belongs to (curated library only, for now). */
+  category?: string
+  /** The literal search question this page answers, used as its title. */
+  question?: string
 }
 
 const KEY_PREFIX = 'cmp:'
 const RECENT_KEY = 'cmp:recent'
 
 let _redis: Redis | null = null
-function redis(): Redis {
+
+/** True when the Upstash binding is configured (it isn't in local dev or tests). */
+export function hasRedis(): boolean {
+  return Boolean(process.env.UPSTASH_REDIS_REST_URL && process.env.UPSTASH_REDIS_REST_TOKEN)
+}
+
+export function redis(): Redis {
   if (_redis) return _redis
   const url = process.env.UPSTASH_REDIS_REST_URL
   const token = process.env.UPSTASH_REDIS_REST_TOKEN
@@ -42,7 +55,15 @@ function redis(): Redis {
   return _redis
 }
 
+/**
+ * Curated debate verdicts ship with the code (src/data/debates) and win over
+ * anything in Redis, so they never cost an API call. Everything else is a
+ * user-generated verdict cached in Redis by /api/compare.
+ */
 export async function getComparison(slug: string): Promise<StoredComparison | null> {
+  const curated = getStaticVerdict(slug)
+  if (curated) return curated
+  if (!hasRedis()) return null
   try {
     const data = await redis().get<StoredComparison>(`${KEY_PREFIX}${slug}`)
     return data ?? null
@@ -64,6 +85,7 @@ export async function saveComparison(c: StoredComparison): Promise<void> {
 }
 
 export async function listRecentComparisonSlugs(limit = 20): Promise<string[]> {
+  if (!hasRedis()) return []
   try {
     return await redis().lrange<string>(RECENT_KEY, 0, limit - 1)
   } catch (err) {

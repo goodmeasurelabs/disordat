@@ -7,11 +7,11 @@ import DataDiveFeedback from "@/components/DataDiveFeedback";
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "disordat — compare anything, share the verdict",
+  title: "disordat — settle the debate",
   description:
-    "Enter two things. Get an honest side-by-side comparison with a winner. Every comparison gets its own shareable page — paste the link anywhere.",
+    "Settle any \"X vs Y\" debate. Get an honest, dated verdict with a winner and the reasons, then send the link to whoever is wrong. No ads, no sign-up.",
   keywords:
-    "compare, comparison, versus, vs, decision, side by side, which is better, product comparison",
+    "vs, versus, which is better, who is better, debate, verdict, GOAT, comparison, settle the debate",
   authors: [{ name: "disordat" }],
   creator: "disordat",
   publisher: "disordat",
@@ -25,9 +25,9 @@ export const metadata: Metadata = {
     canonical: "/"
   },
   openGraph: {
-    title: "disordat — compare anything, share the verdict",
+    title: "disordat — settle the debate",
     description:
-      "Enter two things. Get an honest side-by-side comparison with a winner. Share the link anywhere.",
+      "Settle any \"X vs Y\" debate with an honest, dated verdict. Send the card to the group chat.",
     url: "https://disordat.org",
     siteName: "disordat",
     locale: "en_US",
@@ -35,9 +35,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "disordat — compare anything, share the verdict",
+    title: "disordat — settle the debate",
     description:
-      "Enter two things. Get an honest side-by-side comparison with a winner. Share the link anywhere."
+      "Settle any \"X vs Y\" debate with an honest, dated verdict. Send the card to the group chat."
   },
   robots: {
     index: true,
@@ -67,6 +67,7 @@ export default function RootLayout({
         <link rel="icon" href="/genie-shrug.svg" type="image/svg+xml" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
+        <link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -75,7 +76,7 @@ export default function RootLayout({
               "@type": "WebApplication",
               name: "disordat",
               description:
-                "Compare any two things side by side and share the verdict with a link.",
+                "Settles \"X vs Y\" debates with an honest, dated verdict on its own shareable URL.",
               url: "https://disordat.org",
               applicationCategory: "UtilitiesApplication",
               operatingSystem: "Web Browser",

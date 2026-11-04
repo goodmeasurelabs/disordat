@@ -1,12 +1,14 @@
 import type { MetadataRoute } from 'next'
-import { listRecentComparisonSlugs, getComparison } from '@/lib/comparisons'
+import { HUB_IDS } from '@/lib/debates'
+import { indexedVerdicts } from '@/lib/indexing'
+import { verdictDate } from '@/lib/verdict'
 
 const SITE_URL = 'https://disordat.org'
 
 export const revalidate = 3600 // rebuild at most hourly
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const slugs = await listRecentComparisonSlugs(500)
+  const { curated, community } = await indexedVerdicts()
 
   const entries: MetadataRoute.Sitemap = [
     {
@@ -15,17 +17,22 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 1,
       lastModified: new Date(),
     },
+    { url: `${SITE_URL}/debates`, changeFrequency: 'weekly', priority: 0.8 },
+    ...HUB_IDS.map((id) => ({
+      url: `${SITE_URL}/debates/${id}`,
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    })),
+    { url: `${SITE_URL}/matchups`, changeFrequency: 'weekly', priority: 0.7 },
   ]
 
-  // Pull each comparison's created_at for accurate lastmod.
-  // KV lookups are fast; 500 is fine within the sitemap revalidate window.
-  for (const slug of slugs) {
-    const c = await getComparison(slug)
+  for (const c of [...curated, ...community]) {
+    const d = new Date(verdictDate(c))
     entries.push({
-      url: `${SITE_URL}/vs/${slug}`,
+      url: `${SITE_URL}/vs/${c.slug}`,
       changeFrequency: 'weekly',
       priority: 0.7,
-      lastModified: c?.created_at ? new Date(c.created_at) : new Date(),
+      lastModified: Number.isNaN(d.getTime()) ? new Date() : d,
     })
   }
 

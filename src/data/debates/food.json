@@ -1,0 +1,1890 @@
+[
+  {
+    "slug": "ham-vs-turkey",
+    "item_a": "Ham",
+    "item_b": "Turkey",
+    "category": "food",
+    "question": "Ham or turkey for Thanksgiving: which should you serve?",
+    "search_query": "turkey vs ham",
+    "search_volume": 2600,
+    "summary": "Turkey wins the Thanksgiving table: ham is easier, but turkey is the whole point of the day, and the leftovers make the weekend.",
+    "winner": "b",
+    "winner_reason": "Ham is more forgiving and arguably tastier straight from the oven, but on 26 November turkey is the centerpiece people expect. It also feeds a crowd, makes the gravy, and powers a week of leftover sandwiches.",
+    "dimensions": [
+      {
+        "name": "Tradition",
+        "a": "A beloved holiday roast, but more at home at Easter and Christmas than on Thanksgiving.",
+        "b": "The Thanksgiving bird. Skipping it is a statement, and someone will ask about it.",
+        "winner": "b"
+      },
+      {
+        "name": "Ease of cooking",
+        "a": "Most hams come fully cooked; you are really just glazing and reheating. Hard to ruin.",
+        "b": "Thawing, timing and dry breast meat make it the most stressful dish of the year.",
+        "winner": "a"
+      },
+      {
+        "name": "Flavor",
+        "a": "Salty, smoky and sweet with a good glaze. Big flavor with little effort.",
+        "b": "Milder, so it leans on brining, butter and gravy. Done well, it is excellent.",
+        "winner": "a"
+      },
+      {
+        "name": "Sides and gravy",
+        "a": "Pairs well with sides, but gives you no drippings for a proper gravy.",
+        "b": "Its drippings make the gravy, and stuffing, cranberry sauce and potatoes were built around it.",
+        "winner": "b"
+      },
+      {
+        "name": "Leftovers",
+        "a": "Great in sandwiches, eggs and split pea soup.",
+        "b": "The day-after turkey sandwich is a holiday in itself, plus soup from the carcass.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Usually precooked, so it is almost foolproof",
+      "Bold salty-sweet flavor",
+      "Bone makes a great soup base"
+    ],
+    "pros_b": [
+      "The traditional Thanksgiving centerpiece",
+      "Drippings make the gravy",
+      "Leftovers carry you through the weekend"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "apple-pie-vs-pumpkin-pie",
+    "item_a": "Apple pie",
+    "item_b": "Pumpkin pie",
+    "category": "food",
+    "question": "Apple pie or pumpkin pie for Thanksgiving: which should you bake?",
+    "search_query": "pumpkin pie vs apple pie",
+    "search_volume": 280,
+    "summary": "Pumpkin pie takes Thanksgiving: it is the pie of the day, it can be made ahead, and it tastes like late November.",
+    "winner": "b",
+    "winner_reason": "Apple pie is the better all-year pie, but on Thanksgiving pumpkin is the expected finale. It is simpler to bake, holds up a day ahead, and its spice fits the meal better than another fruit dessert.",
+    "dimensions": [
+      {
+        "name": "Thanksgiving fit",
+        "a": "Always welcome, but it is the pie of the Fourth of July as much as November.",
+        "b": "The signature Thanksgiving dessert. The table feels incomplete without it.",
+        "winner": "b"
+      },
+      {
+        "name": "Flavor",
+        "a": "Tart-sweet fruit, cinnamon and a flaky top crust. Hard to argue with.",
+        "b": "Creamy, warmly spiced custard. Comforting, though some find it one-note.",
+        "winner": "a"
+      },
+      {
+        "name": "Ease",
+        "a": "Peeling, slicing, a lattice or top crust, and a risk of a soggy bottom.",
+        "b": "Mix the filling, pour, bake. Canned pumpkin makes it nearly effortless.",
+        "winner": "b"
+      },
+      {
+        "name": "Make ahead",
+        "a": "Best warm on the day, or reheated.",
+        "b": "Better after chilling overnight, which frees the oven for the turkey.",
+        "winner": "b"
+      },
+      {
+        "name": "Toppings",
+        "a": "Vanilla ice cream or a slice of cheddar, depending on your family.",
+        "b": "Whipped cream is mandatory, and a dollop does a lot of work.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Crowd-pleasing in any season",
+      "Flaky double crust",
+      "Great warm with ice cream"
+    ],
+    "pros_b": [
+      "The classic Thanksgiving pie",
+      "Easy filling, hard to mess up",
+      "Made a day ahead, frees the oven"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "chow-mein-vs-lo-mein",
+    "item_a": "Chow mein",
+    "item_b": "Lo mein",
+    "category": "food",
+    "question": "Chow mein or lo mein: which should you order?",
+    "search_query": "chow mein vs lo mein",
+    "search_volume": 148000,
+    "summary": "Order lo mein: soft, saucy noodles that soak up flavor beat chow mein for most takeout cravings.",
+    "winner": "b",
+    "winner_reason": "Both use wheat-and-egg noodles; the difference is the cooking. Lo mein's tossed, saucy noodles are the more satisfying, reliable order for most people, while chow mein suits those who want crisp edges and a lighter sauce.",
+    "dimensions": [
+      {
+        "name": "The difference",
+        "a": "Noodles are stir-fried or pan-fried so they get some crisp edges, with less sauce.",
+        "b": "Noodles are boiled, then tossed with sauce, vegetables and protein. Soft and saucy.",
+        "winner": "tie"
+      },
+      {
+        "name": "Texture",
+        "a": "Chewy with crispy bits, sometimes a crunchy noodle bed depending on the restaurant.",
+        "b": "Soft, slurpable and evenly coated.",
+        "winner": "b"
+      },
+      {
+        "name": "Flavor",
+        "a": "Lighter and more about the wok char.",
+        "b": "Sauce-forward, so every bite is seasoned.",
+        "winner": "b"
+      },
+      {
+        "name": "Consistency",
+        "a": "Varies a lot: some places serve it crispy, others nearly identical to lo mein.",
+        "b": "Pretty much the same dish wherever you order it.",
+        "winner": "b"
+      },
+      {
+        "name": "Grease",
+        "a": "Frying can make it oilier.",
+        "b": "Can also be oily, but the sauce carries most of the flavor.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Crispy, wok-charred edges",
+      "Lighter on sauce",
+      "Great if you like texture contrast"
+    ],
+    "pros_b": [
+      "Soft noodles that soak up sauce",
+      "Consistent from place to place",
+      "Ultimate comfort takeout"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "coke-zero-vs-diet-coke",
+    "item_a": "Coke Zero",
+    "item_b": "Diet Coke",
+    "category": "food",
+    "question": "Is Coke Zero better than Diet Coke?",
+    "search_query": "diet coke vs coke zero",
+    "search_volume": 121000,
+    "summary": "Coke Zero wins if you want Coca-Cola without the sugar; Diet Coke is a different, lighter drink with a loyal fan club.",
+    "winner": "a",
+    "winner_reason": "Coke Zero Sugar is designed to taste like classic Coke, and it gets closer than Diet Coke ever tried to. Diet Coke has its own crisp flavor its fans adore, but for most people choosing a sugar-free cola, Zero is the better stand-in.",
+    "dimensions": [
+      {
+        "name": "Taste",
+        "a": "Built to mimic Coca-Cola Classic: rounder, sweeter, more familiar.",
+        "b": "Its own lighter, sharper flavor. Not trying to taste like regular Coke.",
+        "winner": "a"
+      },
+      {
+        "name": "Sweeteners",
+        "a": "Aspartame plus acesulfame potassium, which helps it taste more like sugar.",
+        "b": "Aspartame only in the classic version, giving that distinct diet tang.",
+        "winner": "tie"
+      },
+      {
+        "name": "Caffeine",
+        "a": "A bit less caffeine than Diet Coke.",
+        "b": "Slightly more caffeine per can, a small edge for afternoon slumps.",
+        "winner": "b"
+      },
+      {
+        "name": "Calories",
+        "a": "Zero sugar, essentially no calories.",
+        "b": "Zero sugar, essentially no calories.",
+        "winner": "tie"
+      },
+      {
+        "name": "Mixing",
+        "a": "Swaps into rum and Coke without anyone noticing much.",
+        "b": "Works too, but the flavor reads as diet.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Closest sugar-free match to classic Coke",
+      "Smoother, rounder sweetness",
+      "Great mixer"
+    ],
+    "pros_b": [
+      "Distinct crisp flavor with devoted fans",
+      "A touch more caffeine",
+      "Many flavor variants"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "nigiri-vs-sashimi",
+    "item_a": "Nigiri",
+    "item_b": "Sashimi",
+    "category": "food",
+    "question": "Nigiri or sashimi: which should you order?",
+    "search_query": "nigiri vs sashimi",
+    "search_volume": 121000,
+    "summary": "Order nigiri: fish on seasoned rice is the more balanced, satisfying bite; sashimi is for when the fish alone is the star.",
+    "winner": "a",
+    "winner_reason": "Sashimi is pure fish, which is wonderful at a great sushi bar. For most diners, nigiri's vinegared rice adds balance, warmth and fullness, and it is the more complete expression of sushi.",
+    "dimensions": [
+      {
+        "name": "The difference",
+        "a": "A slice of fish (or other topping) pressed onto a small mound of vinegared sushi rice.",
+        "b": "Thin slices of raw fish or seafood served on their own, no rice.",
+        "winner": "tie"
+      },
+      {
+        "name": "Balance",
+        "a": "Rice, fish and a touch of wasabi in one bite. Built to be eaten together.",
+        "b": "All about the fish's texture and flavor, nothing to soften it.",
+        "winner": "a"
+      },
+      {
+        "name": "Fullness",
+        "a": "The rice makes it a real meal.",
+        "b": "Light; you may need a lot of it to feel full.",
+        "winner": "a"
+      },
+      {
+        "name": "Fish showcase",
+        "a": "The fish shares the spotlight with the rice.",
+        "b": "The best way to taste premium cuts like fatty tuna on their own.",
+        "winner": "b"
+      },
+      {
+        "name": "Low-carb",
+        "a": "Rice means more carbs.",
+        "b": "Naturally low-carb and protein-heavy.",
+        "winner": "b"
+      },
+      {
+        "name": "Beginner-friendly",
+        "a": "The rice makes raw fish feel familiar and approachable.",
+        "b": "Straight raw fish can be a big leap for newcomers.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Balanced bite of rice and fish",
+      "More filling",
+      "Classic sushi experience"
+    ],
+    "pros_b": [
+      "Pure fish flavor",
+      "Low-carb and protein-rich",
+      "Shows off premium cuts"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "coffee-vs-tea",
+    "item_a": "Coffee",
+    "item_b": "Tea",
+    "category": "food",
+    "question": "Coffee or tea: which is better?",
+    "search_query": "coffee vs tea",
+    "search_volume": 16200,
+    "summary": "Coffee wins: bigger flavor and a stronger kick for the mornings that need it, though tea is the gentler all-day sipper.",
+    "winner": "a",
+    "winner_reason": "Coffee delivers more caffeine and a richer, bolder flavor, which is why it owns the morning. Tea is gentler and more varied across the day, but as the one drink to pick, coffee does the job better.",
+    "dimensions": [
+      {
+        "name": "Caffeine",
+        "a": "Typically around two to three times the caffeine of a cup of black tea.",
+        "b": "Gentler lift; plenty of herbal options with none at all.",
+        "winner": "a"
+      },
+      {
+        "name": "Flavor",
+        "a": "Rich, roasty, bitter-sweet, and endlessly customizable.",
+        "b": "Huge range from grassy green to malty black, though subtler.",
+        "winner": "a"
+      },
+      {
+        "name": "Jitters",
+        "a": "Easier to overdo and feel wired.",
+        "b": "Smoother energy for most people, partly thanks to L-theanine.",
+        "winner": "b"
+      },
+      {
+        "name": "Health",
+        "a": "Moderate intake is linked to good outcomes in many studies, if you skip the sugar.",
+        "b": "Also widely studied with positive findings, and easier on some stomachs.",
+        "winner": "tie"
+      },
+      {
+        "name": "Ritual",
+        "a": "Cafe culture, espresso drinks, a whole hobby.",
+        "b": "Calm brewing, afternoon tea, a hobby of its own.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Stronger caffeine kick",
+      "Bold, rich flavor",
+      "Endless drink options"
+    ],
+    "pros_b": [
+      "Gentler, steadier energy",
+      "Huge variety including caffeine-free",
+      "Easier on many stomachs"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "mayo-vs-miracle-whip",
+    "item_a": "Mayo",
+    "item_b": "Miracle Whip",
+    "category": "food",
+    "question": "Mayo or Miracle Whip: which is better?",
+    "search_query": "mayo vs miracle whip",
+    "search_volume": 16200,
+    "summary": "Mayo wins: it is the more versatile base for sandwiches, dressings and dips, while Miracle Whip's sweet tang is an acquired loyalty.",
+    "winner": "a",
+    "winner_reason": "Miracle Whip has its devoted fans, especially in certain family recipes, but mayo's neutral richness works in far more dishes. If a recipe says mayonnaise, mayo is what it means.",
+    "dimensions": [
+      {
+        "name": "The difference",
+        "a": "An emulsion of oil, egg yolk and vinegar or lemon. Rich and neutral.",
+        "b": "A 'dressing' with less oil plus sugar and spices, so it is sweeter, tangier and not technically mayo.",
+        "winner": "tie"
+      },
+      {
+        "name": "Taste",
+        "a": "Creamy, savory and lets other ingredients lead.",
+        "b": "Sweet-tangy and zippy; it changes the flavor of whatever it touches.",
+        "winner": "a"
+      },
+      {
+        "name": "Versatility",
+        "a": "Aioli, dressings, slaw, baking, grilled cheese. Endlessly useful.",
+        "b": "Great in specific things like some potato salads and sandwiches.",
+        "winner": "a"
+      },
+      {
+        "name": "Calories",
+        "a": "Higher in fat and calories per spoonful.",
+        "b": "Lighter, though it adds sugar.",
+        "winner": "b"
+      },
+      {
+        "name": "Recipes",
+        "a": "The default in nearly every recipe.",
+        "b": "Can throw off recipes written for mayo.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Neutral, rich flavor",
+      "Works in almost any recipe",
+      "Great base for sauces"
+    ],
+    "pros_b": [
+      "Sweet-tangy kick",
+      "Lighter than full-fat mayo",
+      "Beloved in classic family recipes"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "gatorade-vs-powerade",
+    "item_a": "Gatorade",
+    "item_b": "Powerade",
+    "category": "food",
+    "question": "Gatorade or Powerade: which is better?",
+    "search_query": "gatorade vs powerade",
+    "search_volume": 16200,
+    "summary": "Gatorade wins: better flavors, a deeper lineup and the sports-science pedigree, though Powerade is often the cheaper grab.",
+    "winner": "a",
+    "winner_reason": "The two are close in what they do: water, sugar and electrolytes. Gatorade edges it on taste, variety and its long history with athletes, while Powerade's best argument is price and some added vitamins.",
+    "dimensions": [
+      {
+        "name": "Taste",
+        "a": "Classic flavors like Glacier Freeze and Fruit Punch are hard to beat.",
+        "b": "Sweeter and a bit more syrupy to many palates.",
+        "winner": "a"
+      },
+      {
+        "name": "Ingredients",
+        "a": "Sweetened mainly with sugar and dextrose.",
+        "b": "Typically uses high-fructose corn syrup, with some added B vitamins.",
+        "winner": "a"
+      },
+      {
+        "name": "Lineup",
+        "a": "Many lines, including zero-sugar, higher-electrolyte and powder options.",
+        "b": "Solid range, including a zero-sugar line, but smaller.",
+        "winner": "a"
+      },
+      {
+        "name": "Value",
+        "a": "Usually priced a little higher.",
+        "b": "Often cheaper or bigger for the money.",
+        "winner": "b"
+      },
+      {
+        "name": "Hydration",
+        "a": "Does the job during long, sweaty exercise.",
+        "b": "Does the same job.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Best-loved flavors",
+      "Wide lineup incl. zero sugar",
+      "Long sports-science track record"
+    ],
+    "pros_b": [
+      "Often cheaper",
+      "Added B vitamins",
+      "Plenty of zero-sugar options"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dominos-vs-pizza-hut",
+    "item_a": "Domino's",
+    "item_b": "Pizza Hut",
+    "category": "food",
+    "question": "Which is better, Domino's or Pizza Hut?",
+    "search_query": "dominos vs pizza hut",
+    "search_volume": 7200,
+    "summary": "Domino's wins for delivery: faster, cheaper and more consistent, though Pizza Hut's pan pizza is still the nostalgia pick.",
+    "winner": "a",
+    "winner_reason": "Domino's has turned ordering, tracking and deals into a science, and its pizza has been reliably decent since its recipe overhaul. Pizza Hut wins on thick, buttery pan crust, but on a regular Tuesday night Domino's is the smarter order.",
+    "dimensions": [
+      {
+        "name": "Pizza",
+        "a": "Garlic-seasoned crust and solid hand-tossed pies. Reliable, if not memorable.",
+        "b": "The Original Pan Pizza, crispy-fried edges and all, is an icon.",
+        "winner": "b"
+      },
+      {
+        "name": "Delivery",
+        "a": "Famously fast, with a great tracker and app.",
+        "b": "Fine, but less polished.",
+        "winner": "a"
+      },
+      {
+        "name": "Value",
+        "a": "Constant deals and carryout specials.",
+        "b": "Deals exist, but menu prices tend to run higher.",
+        "winner": "a"
+      },
+      {
+        "name": "Consistency",
+        "a": "Tastes about the same everywhere.",
+        "b": "More variable from store to store.",
+        "winner": "a"
+      },
+      {
+        "name": "Menu",
+        "a": "Wings, pasta, bread bites, sandwiches.",
+        "b": "Stuffed crust, wings and some bold limited-time ideas.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Fast delivery with great tracking",
+      "Frequent strong deals",
+      "Very consistent"
+    ],
+    "pros_b": [
+      "Legendary pan pizza",
+      "Stuffed crust",
+      "Big nostalgia factor"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "coffee-vs-matcha",
+    "item_a": "Coffee",
+    "item_b": "Matcha",
+    "category": "food",
+    "question": "Is matcha better than coffee?",
+    "search_query": "matcha vs coffee",
+    "search_volume": 7200,
+    "summary": "Coffee still wins for most people: more kick, less cost and easier to make, though matcha gives calmer, smoother energy.",
+    "winner": "a",
+    "winner_reason": "Matcha's steadier lift is real and lovely, but it costs more, takes some technique, and has less caffeine than a strong mug of coffee. For everyday fuel, coffee is the practical champion.",
+    "dimensions": [
+      {
+        "name": "Caffeine",
+        "a": "A typical mug usually carries more caffeine.",
+        "b": "Moderate caffeine, generally less than a big coffee.",
+        "winner": "a"
+      },
+      {
+        "name": "Energy feel",
+        "a": "A fast hit that can come with jitters or a dip.",
+        "b": "Smoother and steadier for many, thanks to L-theanine.",
+        "winner": "b"
+      },
+      {
+        "name": "Taste",
+        "a": "Rich, roasty, endlessly varied.",
+        "b": "Grassy and umami; delicious as a latte, polarizing straight.",
+        "winner": "a"
+      },
+      {
+        "name": "Cost",
+        "a": "Cheap to brew at home.",
+        "b": "Good ceremonial-grade powder is pricey, and cafe lattes add up.",
+        "winner": "a"
+      },
+      {
+        "name": "Ease",
+        "a": "Push a button or pour hot water.",
+        "b": "Needs whisking to avoid clumps.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Bigger caffeine kick",
+      "Cheap and easy at home",
+      "Huge variety of drinks"
+    ],
+    "pros_b": [
+      "Calmer, steadier energy",
+      "You drink the whole tea leaf",
+      "Pretty, creamy lattes"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "kfc-vs-popeyes",
+    "item_a": "KFC",
+    "item_b": "Popeyes",
+    "category": "food",
+    "question": "Which is better, KFC or Popeyes?",
+    "search_query": "kfc vs popeyes",
+    "search_volume": 5800,
+    "summary": "Popeyes wins: crunchier, juicier, better-seasoned chicken, plus biscuits that steal the show.",
+    "winner": "b",
+    "winner_reason": "KFC's original recipe has heritage and its bucket meals are great for families, but Popeyes' Louisiana-style chicken has more crunch and more flavor. Its biscuits and red beans and rice seal it.",
+    "dimensions": [
+      {
+        "name": "Fried chicken",
+        "a": "Herb-and-spice Original Recipe: savory, softer skin.",
+        "b": "Craggy, crunchy batter with a Cajun-leaning kick.",
+        "winner": "b"
+      },
+      {
+        "name": "Chicken sandwich",
+        "a": "Solid, but rarely the one people line up for.",
+        "b": "The sandwich that started a nationwide craze.",
+        "winner": "b"
+      },
+      {
+        "name": "Sides",
+        "a": "Mashed potatoes and gravy, mac and cheese: comfort classics.",
+        "b": "Buttery biscuits, red beans and rice, Cajun fries.",
+        "winner": "b"
+      },
+      {
+        "name": "Family meals",
+        "a": "The bucket is made for feeding a group.",
+        "b": "Family boxes too, but less of a tradition.",
+        "winner": "a"
+      },
+      {
+        "name": "Speed",
+        "a": "Generally quick.",
+        "b": "Lines can be long at busy locations.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Classic Original Recipe flavor",
+      "Great mashed potatoes and gravy",
+      "Bucket meals for groups"
+    ],
+    "pros_b": [
+      "Crunchier, spicier chicken",
+      "Excellent biscuits",
+      "Standout chicken sandwich"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dominos-vs-papa-johns",
+    "item_a": "Domino's",
+    "item_b": "Papa John's",
+    "category": "food",
+    "question": "Which is better, Papa John's or Domino's?",
+    "search_query": "papa johns vs dominos",
+    "search_volume": 5800,
+    "summary": "Domino's wins on variety, deals and delivery, though Papa John's garlic sauce makes a strong case for its crust.",
+    "winner": "a",
+    "winner_reason": "Papa John's softer, slightly sweet crust and garlic dipping sauce have real fans. But Domino's offers more crust options, more of the menu, and steadier deals and delivery, which wins the weeknight order.",
+    "dimensions": [
+      {
+        "name": "Crust",
+        "a": "Garlic-buttery hand-tossed plus thin, pan and other styles.",
+        "b": "Soft, doughy and a little sweet. Simple and satisfying.",
+        "winner": "tie"
+      },
+      {
+        "name": "Sauce and dips",
+        "a": "Decent dips, nothing iconic.",
+        "b": "The garlic sauce is the whole personality, and it is great.",
+        "winner": "b"
+      },
+      {
+        "name": "Menu",
+        "a": "Pizza, wings, pasta, sandwiches and bread bites.",
+        "b": "Tighter menu, mostly pizza and sides.",
+        "winner": "a"
+      },
+      {
+        "name": "Deals",
+        "a": "Frequent, simple and easy to find.",
+        "b": "Good promos, but less consistent.",
+        "winner": "a"
+      },
+      {
+        "name": "Ordering",
+        "a": "Excellent app and tracker.",
+        "b": "Works fine, less polished.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Broad menu and crust choices",
+      "Reliable deals",
+      "Fast, trackable delivery"
+    ],
+    "pros_b": [
+      "Iconic garlic dipping sauce",
+      "Soft, comforting crust",
+      "Simple, focused menu"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "pancakes-vs-waffles",
+    "item_a": "Pancakes",
+    "item_b": "Waffles",
+    "category": "food",
+    "question": "Pancakes or waffles: which is better?",
+    "search_query": "pancakes vs waffles",
+    "search_volume": 4800,
+    "summary": "Waffles win: crisp outside, fluffy inside, and little square pockets designed by genius to hold syrup.",
+    "winner": "b",
+    "winner_reason": "Pancakes are easier and stack beautifully, but waffles have the texture contrast pancakes can't match, and they hold butter and syrup without going soggy.",
+    "dimensions": [
+      {
+        "name": "Texture",
+        "a": "Soft and fluffy all the way through.",
+        "b": "Crisp outside, tender inside.",
+        "winner": "b"
+      },
+      {
+        "name": "Syrup handling",
+        "a": "Absorbs syrup and can turn soggy.",
+        "b": "Pockets hold pools of syrup and butter.",
+        "winner": "b"
+      },
+      {
+        "name": "Ease",
+        "a": "Just a pan. Anyone can make them.",
+        "b": "Needs a waffle iron.",
+        "winner": "a"
+      },
+      {
+        "name": "Feeding a crowd",
+        "a": "Cook several at once on a griddle.",
+        "b": "One at a time in most home irons.",
+        "winner": "a"
+      },
+      {
+        "name": "Versatility",
+        "a": "Great with blueberries or chocolate chips.",
+        "b": "Works sweet or savory, from fruit to fried chicken.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "No special equipment",
+      "Fluffy and comforting",
+      "Easy to batch for groups"
+    ],
+    "pros_b": [
+      "Crisp-fluffy contrast",
+      "Syrup pockets",
+      "Great with savory toppings"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "buffalo-wild-wings-vs-wingstop",
+    "item_a": "Buffalo Wild Wings",
+    "item_b": "Wingstop",
+    "category": "food",
+    "question": "Which is better, Wingstop or Buffalo Wild Wings?",
+    "search_query": "wingstop vs buffalo wild wings",
+    "search_volume": 4800,
+    "summary": "Wingstop wins on the wings themselves: crispier, better-seasoned, and those fries; go to Buffalo Wild Wings for the game, not the chicken.",
+    "winner": "b",
+    "winner_reason": "Buffalo Wild Wings is a sports bar with wings; Wingstop is a wing shop. If the food is the point, Wingstop's lemon pepper, garlic parmesan and seasoned fries win. If you want TVs and a beer, go to B-Dubs.",
+    "dimensions": [
+      {
+        "name": "Wings",
+        "a": "Lots of sauces and dry rubs, but crispness varies.",
+        "b": "Consistently crispy and well-sauced. Lemon pepper is a classic.",
+        "winner": "b"
+      },
+      {
+        "name": "Sides",
+        "a": "Broader menu, including burgers and appetizers.",
+        "b": "Seasoned fries are a cult favorite.",
+        "winner": "b"
+      },
+      {
+        "name": "Vibe",
+        "a": "Full sports bar with screens everywhere.",
+        "b": "Mostly takeout and quick counter service.",
+        "winner": "a"
+      },
+      {
+        "name": "Sauce range",
+        "a": "A huge lineup from mild to very hot.",
+        "b": "Tighter list, nearly all hits.",
+        "winner": "tie"
+      },
+      {
+        "name": "Takeout",
+        "a": "Fine, but the experience is built for dine-in.",
+        "b": "Built for it, and travels well.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Best place to watch the game",
+      "Huge sauce selection",
+      "Full bar and menu"
+    ],
+    "pros_b": [
+      "Crispier, more consistent wings",
+      "Famous seasoned fries",
+      "Great for takeout"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "monster-vs-red-bull",
+    "item_a": "Monster",
+    "item_b": "Red Bull",
+    "category": "food",
+    "question": "Red Bull or Monster: which energy drink is better?",
+    "search_query": "red bull vs monster",
+    "search_volume": 3800,
+    "summary": "Monster wins: a big can, roughly double Red Bull's caffeine per can, and far more flavors for the money.",
+    "winner": "a",
+    "winner_reason": "Red Bull's tangy original is iconic and its small can is a sensible dose. But Monster's larger cans, lower price per ounce and huge flavor range, especially the zero-sugar Ultra line, make it the better buy for most.",
+    "dimensions": [
+      {
+        "name": "Can size",
+        "a": "Standard can is much bigger.",
+        "b": "The classic small, slim can.",
+        "winner": "a"
+      },
+      {
+        "name": "Caffeine per can",
+        "a": "Roughly double a small Red Bull, similar per ounce.",
+        "b": "A modest, manageable dose.",
+        "winner": "tie"
+      },
+      {
+        "name": "Flavors",
+        "a": "Massive range, and the Ultra zero-sugar line is a fan favorite.",
+        "b": "Original plus a rotating set of editions.",
+        "winner": "a"
+      },
+      {
+        "name": "Value",
+        "a": "Usually more drink for less money.",
+        "b": "Pricier per ounce.",
+        "winner": "a"
+      },
+      {
+        "name": "Taste",
+        "a": "Sweeter, more varied, more juice-like options.",
+        "b": "Distinct sweet-tart flavor that many love.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "More drink per dollar",
+      "Huge flavor range",
+      "Popular zero-sugar Ultra line"
+    ],
+    "pros_b": [
+      "Iconic signature taste",
+      "Smaller, controlled dose",
+      "Sugar-free versions too"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "drip-coffee-vs-espresso",
+    "item_a": "Drip coffee",
+    "item_b": "Espresso",
+    "category": "food",
+    "question": "Espresso or drip coffee: which is better?",
+    "search_query": "espresso vs drip coffee",
+    "search_volume": 3800,
+    "summary": "Drip coffee wins for everyday drinking: cheap, easy, a big mug, and often more total caffeine than a single shot of espresso.",
+    "winner": "a",
+    "winner_reason": "Espresso is more intense and is the base for lattes and cappuccinos, but it needs pricey gear and skill at home. For a typical person's daily coffee, drip delivers more cup for less effort.",
+    "dimensions": [
+      {
+        "name": "The difference",
+        "a": "Hot water drips through medium-ground coffee by gravity, making a full mug.",
+        "b": "Hot water is forced through fine, packed coffee under pressure, making a small, concentrated shot.",
+        "winner": "tie"
+      },
+      {
+        "name": "Caffeine",
+        "a": "Less per ounce, but a mug often has more total caffeine than one shot.",
+        "b": "Much more concentrated per ounce, small serving.",
+        "winner": "a"
+      },
+      {
+        "name": "Flavor",
+        "a": "Clean, lighter-bodied, easy to sip.",
+        "b": "Intense, syrupy, with crema on top.",
+        "winner": "b"
+      },
+      {
+        "name": "Home setup",
+        "a": "Inexpensive machine or pour-over cone.",
+        "b": "A good machine and grinder cost a lot and take practice.",
+        "winner": "a"
+      },
+      {
+        "name": "Drinks",
+        "a": "Great black or with milk.",
+        "b": "The foundation for lattes, cappuccinos and Americanos.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost per cup",
+        "a": "Among the cheapest ways to make coffee at home or buy it out.",
+        "b": "Cafe espresso drinks add up, and home gear is an investment.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Cheap and easy at home",
+      "Big mug to sip",
+      "Often more total caffeine"
+    ],
+    "pros_b": [
+      "Rich, intense flavor",
+      "Base for cafe drinks",
+      "Quick to drink"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "burritos-vs-tacos",
+    "item_a": "Burritos",
+    "item_b": "Tacos",
+    "category": "food",
+    "question": "Burritos or tacos: which is better?",
+    "search_query": "burritos vs tacos",
+    "search_volume": 3400,
+    "summary": "Tacos win: every bite is the ideal ratio, and you get to try three fillings instead of committing to one.",
+    "winner": "b",
+    "winner_reason": "Burritos are unbeatable for a portable, filling meal. But tacos keep the meat, salsa and tortilla in perfect proportion and let you mix carnitas, al pastor and fish in one order.",
+    "dimensions": [
+      {
+        "name": "Flavor focus",
+        "a": "Fillings blend together, sometimes rice-heavy.",
+        "b": "Protein and salsa front and center.",
+        "winner": "b"
+      },
+      {
+        "name": "Variety",
+        "a": "One filling per burrito.",
+        "b": "Mix and match several in one meal.",
+        "winner": "b"
+      },
+      {
+        "name": "Portability",
+        "a": "Foil-wrapped, eat-anywhere perfection.",
+        "b": "Drippy; best eaten at a table or a truck.",
+        "winner": "a"
+      },
+      {
+        "name": "Fullness",
+        "a": "One can be a whole day's lunch.",
+        "b": "You need a few, which is half the fun.",
+        "winner": "a"
+      },
+      {
+        "name": "Tortilla",
+        "a": "Big flour tortilla, mostly a wrapper.",
+        "b": "Corn tortillas add flavor of their own.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Super filling",
+      "Portable and tidy",
+      "Everything in one wrap"
+    ],
+    "pros_b": [
+      "Ideal bite ratio",
+      "Try many fillings",
+      "Corn tortilla flavor"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "in-n-out-vs-whataburger",
+    "item_a": "In-N-Out",
+    "item_b": "Whataburger",
+    "category": "food",
+    "question": "Which is better, Whataburger or In-N-Out?",
+    "search_query": "whataburger vs in n out",
+    "search_volume": 3200,
+    "summary": "In-N-Out wins on the burger: fresh, simple and a bargain, though Whataburger has the bigger menu and better late-night game.",
+    "winner": "a",
+    "winner_reason": "Whataburger's big menu, honey butter chicken biscuit and spicy ketchup are real advantages. But In-N-Out's Double-Double, made fresh with a tiny menu and fair prices, is the better burger.",
+    "dimensions": [
+      {
+        "name": "Burger",
+        "a": "Thin, crispy-edged patties, fresh toppings, spread. Ask for animal style.",
+        "b": "Bigger, wider patty, very customizable.",
+        "winner": "a"
+      },
+      {
+        "name": "Fries",
+        "a": "Fresh-cut, but often too limp for many; order them well done.",
+        "b": "Thicker and more reliably satisfying.",
+        "winner": "b"
+      },
+      {
+        "name": "Menu",
+        "a": "Tiny menu plus a 'secret' one.",
+        "b": "Breakfast, chicken, sandwiches and more.",
+        "winner": "b"
+      },
+      {
+        "name": "Value",
+        "a": "Notably affordable for the quality.",
+        "b": "Fair, but runs higher.",
+        "winner": "a"
+      },
+      {
+        "name": "Freshness",
+        "a": "Known for fresh beef, hand-cut potatoes and no freezers or microwaves in the kitchen.",
+        "b": "Cooked to order and solid, but freshness is less of the brand.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Excellent simple burgers",
+      "Great value",
+      "Fun secret menu"
+    ],
+    "pros_b": [
+      "Big, varied menu",
+      "Breakfast and late-night hours",
+      "Spicy ketchup and sauces"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dunkin-vs-krispy-kreme",
+    "item_a": "Dunkin'",
+    "item_b": "Krispy Kreme",
+    "category": "food",
+    "question": "Krispy Kreme or Dunkin': which has better donuts?",
+    "search_query": "krispy kreme vs dunkin",
+    "search_volume": 2600,
+    "summary": "Krispy Kreme wins on donuts: a hot Original Glazed is untouchable; Dunkin' wins your coffee run.",
+    "winner": "b",
+    "winner_reason": "Dunkin' is a coffee chain that sells donuts. Krispy Kreme is a donut shop, and a warm Original Glazed under the Hot Light is about as good as a chain donut gets.",
+    "dimensions": [
+      {
+        "name": "Donuts",
+        "a": "Cakier, denser options and solid classics.",
+        "b": "Light, airy, melt-in-your-mouth glazed.",
+        "winner": "b"
+      },
+      {
+        "name": "Coffee",
+        "a": "The real reason most people go.",
+        "b": "Serviceable, not the draw.",
+        "winner": "a"
+      },
+      {
+        "name": "Experience",
+        "a": "Fast drive-thru stop.",
+        "b": "The Hot Light and watching fresh donuts roll out.",
+        "winner": "b"
+      },
+      {
+        "name": "Food menu",
+        "a": "Breakfast sandwiches, wraps and more.",
+        "b": "Mostly donuts and sweets.",
+        "winner": "a"
+      },
+      {
+        "name": "Dozens",
+        "a": "Mix-and-match variety for the office.",
+        "b": "A dozen glazed is a crowd favorite.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Great coffee run",
+      "Breakfast sandwiches",
+      "Widely available"
+    ],
+    "pros_b": [
+      "Legendary Original Glazed",
+      "Hot Light fresh donuts",
+      "Best for sharing a dozen"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "trader-joes-vs-whole-foods",
+    "item_a": "Trader Joe's",
+    "item_b": "Whole Foods",
+    "category": "food",
+    "question": "Trader Joe's or Whole Foods: which is better?",
+    "search_query": "trader joes vs whole foods",
+    "search_volume": 2600,
+    "summary": "Trader Joe's wins: better prices, fun private-label finds and a friendlier vibe, while Whole Foods is for full selection.",
+    "winner": "a",
+    "winner_reason": "Whole Foods has a bigger range, a strong prepared-foods bar and Prime member deals. But for a weekly shop, Trader Joe's lower prices and quirky store-brand snacks make it the better routine.",
+    "dimensions": [
+      {
+        "name": "Prices",
+        "a": "Generally lower, especially on staples and snacks.",
+        "b": "Typically higher, though Prime deals and the 365 brand help.",
+        "winner": "a"
+      },
+      {
+        "name": "Selection",
+        "a": "Small, curated, mostly store brand.",
+        "b": "Full grocery with many brands and specialty items.",
+        "winner": "b"
+      },
+      {
+        "name": "Fun finds",
+        "a": "Seasonal and frozen items people plan trips around.",
+        "b": "Solid, less of a treasure hunt.",
+        "winner": "a"
+      },
+      {
+        "name": "Prepared food",
+        "a": "Strong frozen meals, no hot bar.",
+        "b": "Hot bar, salad bar and counters.",
+        "winner": "b"
+      },
+      {
+        "name": "Vibe",
+        "a": "Friendly, compact, sometimes crowded.",
+        "b": "Spacious and polished.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Lower prices",
+      "Unique store-brand items",
+      "Friendly, quick shopping"
+    ],
+    "pros_b": [
+      "Bigger selection",
+      "Hot bar and prepared foods",
+      "Prime member deals"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "mcdonalds-vs-wendys",
+    "item_a": "McDonald's",
+    "item_b": "Wendy's",
+    "category": "food",
+    "question": "Which is better, Wendy's or McDonald's?",
+    "search_query": "wendys vs mcdonalds",
+    "search_volume": 2080,
+    "summary": "Wendy's wins for burgers: fresh beef, square patties and a Frosty; McDonald's still has the better fries and breakfast.",
+    "winner": "b",
+    "winner_reason": "McDonald's is the king of consistency, fries and breakfast. But if you are going for a burger, Wendy's never-frozen beef and better build quality win, and dunking fries in a Frosty is a perk.",
+    "dimensions": [
+      {
+        "name": "Burgers",
+        "a": "Iconic but thin; the Quarter Pounder is the best bet.",
+        "b": "Fresh, never-frozen beef in the US and juicier patties.",
+        "winner": "b"
+      },
+      {
+        "name": "Fries",
+        "a": "The gold standard of fast-food fries when fresh.",
+        "b": "Decent, less consistent.",
+        "winner": "a"
+      },
+      {
+        "name": "Chicken",
+        "a": "McNuggets are a classic.",
+        "b": "Spicy chicken sandwich and nuggets have strong fans.",
+        "winner": "b"
+      },
+      {
+        "name": "Dessert",
+        "a": "McFlurry, when the machine works.",
+        "b": "The Frosty, a fast-food legend.",
+        "winner": "b"
+      },
+      {
+        "name": "Breakfast",
+        "a": "The Egg McMuffin is elite.",
+        "b": "Respectable, less beloved.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Best fries in fast food",
+      "Great breakfast",
+      "Everywhere and consistent"
+    ],
+    "pros_b": [
+      "Fresh-beef burgers",
+      "The Frosty",
+      "Strong spicy chicken"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "five-guys-vs-shake-shack",
+    "item_a": "Five Guys",
+    "item_b": "Shake Shack",
+    "category": "food",
+    "question": "Which is better, Shake Shack or Five Guys?",
+    "search_query": "shake shack vs five guys",
+    "search_volume": 2000,
+    "summary": "Shake Shack wins: the ShackBurger is the better burger and the shakes seal it; Five Guys wins only on fries.",
+    "winner": "b",
+    "winner_reason": "Five Guys piles on toppings and serves a mountain of excellent fries. But Shake Shack's buttery bun, crisp-edged patty and ShackSauce make a better-balanced burger, and its frozen custard is a real treat.",
+    "dimensions": [
+      {
+        "name": "Burger",
+        "a": "Big, messy, unlimited free toppings.",
+        "b": "Smash-style patty, potato bun, ShackSauce. Balanced and rich.",
+        "winner": "b"
+      },
+      {
+        "name": "Fries",
+        "a": "Fresh-cut and generous, with a bonus scoop in the bag.",
+        "b": "Crinkle-cuts are fine; cheese fries help.",
+        "winner": "a"
+      },
+      {
+        "name": "Shakes",
+        "a": "Mix-in shakes are fun and indulgent.",
+        "b": "Frozen custard shakes and concretes. The namesake delivers.",
+        "winner": "b"
+      },
+      {
+        "name": "Value",
+        "a": "Pricey for fast casual.",
+        "b": "Also pricey, but portions feel more refined.",
+        "winner": "tie"
+      },
+      {
+        "name": "Customization",
+        "a": "Build it exactly how you want.",
+        "b": "Fewer options, better defaults.",
+        "winner": "a"
+      },
+      {
+        "name": "Sauce",
+        "a": "Classic condiments, plus as many as you like.",
+        "b": "ShackSauce, a tangy mayo-based sauce that makes the burger.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Excellent, generous fries",
+      "Free toppings",
+      "Total customization"
+    ],
+    "pros_b": [
+      "Better-balanced burger",
+      "Frozen custard shakes",
+      "ShackSauce"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "jersey-mikes-vs-jimmy-johns",
+    "item_a": "Jersey Mike's",
+    "item_b": "Jimmy John's",
+    "category": "food",
+    "question": "Jersey Mike's or Jimmy John's: which is better?",
+    "search_query": "jersey mikes vs jimmy johns",
+    "search_volume": 1760,
+    "summary": "Jersey Mike's wins: meat sliced to order and a sub dressed 'Mike's Way' beat Jimmy John's speed.",
+    "winner": "a",
+    "winner_reason": "Jimmy John's is impressively fast and its delivery is a lifesaver. But Jersey Mike's fresh-sliced meats, cheesesteaks and oil-and-vinegar finish make a noticeably better sandwich.",
+    "dimensions": [
+      {
+        "name": "Quality",
+        "a": "Meats and cheeses sliced fresh in front of you.",
+        "b": "Simple and fresh, but thinner on fillings.",
+        "winner": "a"
+      },
+      {
+        "name": "Bread",
+        "a": "Soft sub rolls in white or wheat.",
+        "b": "French bread, or skip it with the Unwich lettuce wrap.",
+        "winner": "tie"
+      },
+      {
+        "name": "Speed",
+        "a": "Fine, but slicing to order takes time.",
+        "b": "Famously fast, especially delivery.",
+        "winner": "b"
+      },
+      {
+        "name": "Menu",
+        "a": "Cold subs plus excellent hot cheesesteaks.",
+        "b": "Mostly cold subs and clubs.",
+        "winner": "a"
+      },
+      {
+        "name": "Value",
+        "a": "Pricier, but more filling.",
+        "b": "Cheaper slim options.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Meat sliced to order",
+      "Mike's Way dressing",
+      "Great hot cheesesteaks"
+    ],
+    "pros_b": [
+      "Very fast",
+      "Reliable delivery",
+      "Low-carb Unwich option"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "7up-vs-sprite",
+    "item_a": "7Up",
+    "item_b": "Sprite",
+    "category": "food",
+    "question": "Sprite or 7Up: which is better?",
+    "search_query": "sprite vs 7up",
+    "search_volume": 1760,
+    "summary": "Sprite wins: crisper, more lime-forward and on nearly every fountain; 7Up is the softer, sweeter-leaning lemon soda.",
+    "winner": "b",
+    "winner_reason": "The two are very close. Sprite's sharper citrus bite and near-universal availability make it the default, while 7Up's mellower lemon flavor has fans, especially as a mixer or for a settled stomach.",
+    "dimensions": [
+      {
+        "name": "Taste",
+        "a": "Softer, more lemon-leaning and mellow.",
+        "b": "Sharper, crisper, with more lime.",
+        "winner": "b"
+      },
+      {
+        "name": "Fizz",
+        "a": "Gentle carbonation.",
+        "b": "Feels a bit more bubbly and bracing.",
+        "winner": "b"
+      },
+      {
+        "name": "Availability",
+        "a": "Easy to find in stores, rarer on fountains.",
+        "b": "On nearly every fast-food fountain.",
+        "winner": "b"
+      },
+      {
+        "name": "Mixing",
+        "a": "Smooth in punches and cocktails.",
+        "b": "Also mixes well.",
+        "winner": "tie"
+      },
+      {
+        "name": "Nostalgia",
+        "a": "The classic 'Un-cola' with a loyal base.",
+        "b": "Famous ad campaigns and pop culture.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Smooth, mellow lemon flavor",
+      "Great in punches",
+      "Gentle fizz"
+    ],
+    "pros_b": [
+      "Crisper citrus bite",
+      "Available almost everywhere",
+      "Refreshing with food"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "bagels-vs-donuts",
+    "item_a": "Bagels",
+    "item_b": "Donuts",
+    "category": "food",
+    "question": "Bagels or donuts: which is the better breakfast?",
+    "search_query": "bagels vs donuts",
+    "search_volume": 1760,
+    "summary": "Bagels win: chewy, versatile and an actual breakfast; donuts are dessert in disguise.",
+    "winner": "a",
+    "winner_reason": "A donut is a perfect treat, but a bagel can be sweet or savory, loaded with lox or egg and cheese, and keeps you full longer. For everyday mornings, the bagel is the better choice.",
+    "dimensions": [
+      {
+        "name": "Versatility",
+        "a": "Cream cheese, lox, egg sandwiches, pizza bagels.",
+        "b": "Sweet only, though in many delicious forms.",
+        "winner": "a"
+      },
+      {
+        "name": "Fullness",
+        "a": "Dense and filling.",
+        "b": "Light and gone in four bites.",
+        "winner": "a"
+      },
+      {
+        "name": "Treat factor",
+        "a": "Satisfying, not exactly indulgent.",
+        "b": "Pure joy, frosting and sprinkles.",
+        "winner": "b"
+      },
+      {
+        "name": "Health",
+        "a": "Starchy, but less sugar and fat than a fried donut.",
+        "b": "Fried and sugary; best as an occasional treat.",
+        "winner": "a"
+      },
+      {
+        "name": "Sharing",
+        "a": "A baker's dozen with spreads works.",
+        "b": "A box of donuts wins any office.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Sweet or savory",
+      "Keeps you full",
+      "Great sandwich base"
+    ],
+    "pros_b": [
+      "Ultimate treat",
+      "Endless flavors",
+      "Office crowd-pleaser"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dennys-vs-ihop",
+    "item_a": "Denny's",
+    "item_b": "IHOP",
+    "category": "food",
+    "question": "IHOP or Denny's: which is better?",
+    "search_query": "ihop vs dennys",
+    "search_volume": 1720,
+    "summary": "IHOP wins: it is in the name, and its pancakes beat anything on Denny's menu, though Denny's has the edge late at night.",
+    "winner": "b",
+    "winner_reason": "Denny's is the dependable diner with a broad menu and many late-night locations. IHOP's fluffy pancakes and syrup caddy make it the better breakfast, and breakfast is why most people go.",
+    "dimensions": [
+      {
+        "name": "Pancakes",
+        "a": "Fine, but not the specialty.",
+        "b": "Fluffy buttermilk stacks and many flavors.",
+        "winner": "b"
+      },
+      {
+        "name": "Breakfast overall",
+        "a": "The Grand Slam is a classic value plate.",
+        "b": "Breakfast is the whole identity, and the menu shows it.",
+        "winner": "b"
+      },
+      {
+        "name": "Lunch and dinner",
+        "a": "Broader diner menu: burgers, skillets, melts.",
+        "b": "Has them, but they are not the draw.",
+        "winner": "a"
+      },
+      {
+        "name": "Late night",
+        "a": "Many locations open very late or around the clock.",
+        "b": "Some late hours, varies more.",
+        "winner": "a"
+      },
+      {
+        "name": "Sweet treats",
+        "a": "Some sweet options.",
+        "b": "Stuffed French toast, crepes and the syrup lineup.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Grand Slam value",
+      "Broad diner menu",
+      "Great late-night option"
+    ],
+    "pros_b": [
+      "Best chain pancakes",
+      "Syrup variety",
+      "Indulgent sweet breakfasts"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "m-ms-vs-skittles",
+    "item_a": "M&M's",
+    "item_b": "Skittles",
+    "category": "food",
+    "question": "M&M's or Skittles: which candy is better?",
+    "search_query": "m&ms vs skittles",
+    "search_volume": 1440,
+    "summary": "M&M's win: chocolate beats fruit chew for most people, and peanut M&M's are a near-perfect snack.",
+    "winner": "a",
+    "winner_reason": "Skittles' bright fruit flavors are great when you want tangy and chewy. But M&M's come in more varieties, work in cookies and trail mix, and chocolate is the crowd favorite.",
+    "dimensions": [
+      {
+        "name": "Flavor",
+        "a": "Milk chocolate in a crisp shell.",
+        "b": "Fruity and tangy, with a chewy bite.",
+        "winner": "a"
+      },
+      {
+        "name": "Varieties",
+        "a": "Peanut, peanut butter, pretzel, crispy and more.",
+        "b": "Original, sour, wild berry and other packs.",
+        "winner": "a"
+      },
+      {
+        "name": "Baking",
+        "a": "Perfect in cookies, brownies and trail mix.",
+        "b": "Not really a baking candy.",
+        "winner": "a"
+      },
+      {
+        "name": "Hot days",
+        "a": "The shell helps, but heat still wins eventually.",
+        "b": "No chocolate to melt.",
+        "winner": "b"
+      },
+      {
+        "name": "Fun factor",
+        "a": "Classic movie-night handful.",
+        "b": "Taste the rainbow, and the sour ones bite back.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Chocolate crowd-pleaser",
+      "Many varieties",
+      "Great for baking"
+    ],
+    "pros_b": [
+      "Bright fruity flavors",
+      "Won't melt",
+      "Sour options"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "outback-vs-texas-roadhouse",
+    "item_a": "Outback",
+    "item_b": "Texas Roadhouse",
+    "category": "food",
+    "question": "Texas Roadhouse or Outback: which steakhouse is better?",
+    "search_query": "texas roadhouse vs outback",
+    "search_volume": 1440,
+    "summary": "Texas Roadhouse wins: better value steaks, a lively room and those warm rolls with cinnamon butter.",
+    "winner": "b",
+    "winner_reason": "Outback's Bloomin' Onion is an all-timer and its menu is broad. But Texas Roadhouse's steaks are a strong value, and the free rolls with cinnamon butter win the table before the entrees land.",
+    "dimensions": [
+      {
+        "name": "Steak",
+        "a": "Seasoned and seared; solid, varies by location.",
+        "b": "Hand-cut steaks with a reputation for value.",
+        "winner": "b"
+      },
+      {
+        "name": "Bread",
+        "a": "Dark bushman bread is tasty.",
+        "b": "Warm rolls with cinnamon honey butter. Legendary.",
+        "winner": "b"
+      },
+      {
+        "name": "Appetizers",
+        "a": "The Bloomin' Onion is an icon.",
+        "b": "Cactus Blossom and fried pickles hold their own.",
+        "winner": "a"
+      },
+      {
+        "name": "Value",
+        "a": "Fair, with frequent promos.",
+        "b": "Generous portions for the price.",
+        "winner": "b"
+      },
+      {
+        "name": "Vibe",
+        "a": "Calmer and easier for conversation.",
+        "b": "Loud, lively, often packed.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Bloomin' Onion",
+      "Quieter dining room",
+      "Broad menu"
+    ],
+    "pros_b": [
+      "Famous rolls and cinnamon butter",
+      "Strong steak value",
+      "Fun, lively atmosphere"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "heinz-vs-hunts",
+    "item_a": "Heinz",
+    "item_b": "Hunt's",
+    "category": "food",
+    "question": "Heinz or Hunt's: which ketchup is better?",
+    "search_query": "heinz vs hunts",
+    "search_volume": 1440,
+    "summary": "Heinz wins: thicker, tangier and the ketchup everyone's taste buds were trained on; Hunt's is the budget pick.",
+    "winner": "a",
+    "winner_reason": "Hunt's is a perfectly good, usually cheaper ketchup. But Heinz's thick body and balanced sweet-tangy flavor are what most people picture when they think ketchup, and it rarely disappoints.",
+    "dimensions": [
+      {
+        "name": "Taste",
+        "a": "Balanced sweet, tangy and savory.",
+        "b": "A bit more tomato-forward and milder to many.",
+        "winner": "a"
+      },
+      {
+        "name": "Texture",
+        "a": "Thick and clingy; it stays on the fry.",
+        "b": "Somewhat thinner.",
+        "winner": "a"
+      },
+      {
+        "name": "Price",
+        "a": "Usually costs more.",
+        "b": "Often the cheaper bottle.",
+        "winner": "b"
+      },
+      {
+        "name": "Availability",
+        "a": "On nearly every restaurant table.",
+        "b": "Easy to find in stores.",
+        "winner": "a"
+      },
+      {
+        "name": "Cooking",
+        "a": "Great in glazes and sauces.",
+        "b": "Works fine in meatloaf and BBQ sauce.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Iconic balanced flavor",
+      "Thick, clingy texture",
+      "Restaurant standard"
+    ],
+    "pros_b": [
+      "Usually cheaper",
+      "Tomato-forward taste",
+      "Fine for cooking"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "costco-vs-sams-club",
+    "item_a": "Costco",
+    "item_b": "Sam's Club",
+    "category": "food",
+    "question": "Costco or Sam's Club: which membership is better?",
+    "search_query": "sams club vs costco",
+    "search_volume": 1360,
+    "summary": "Costco wins: Kirkland quality, the treasure-hunt aisles and the food court make the fee worth it; Sam's Club is cheaper to join.",
+    "winner": "a",
+    "winner_reason": "Sam's Club has a lower membership fee and slick Scan and Go checkout. But Costco's Kirkland Signature quality, fresh food and generous return policy give most households more value back.",
+    "dimensions": [
+      {
+        "name": "Store brand",
+        "a": "Kirkland Signature is widely trusted, often rivaling name brands.",
+        "b": "Member's Mark has improved and is solid.",
+        "winner": "a"
+      },
+      {
+        "name": "Membership fee",
+        "a": "Costs more to join.",
+        "b": "Lower basic fee.",
+        "winner": "b"
+      },
+      {
+        "name": "Checkout",
+        "a": "Lines can be long at peak times.",
+        "b": "Scan and Go lets you skip the line.",
+        "winner": "b"
+      },
+      {
+        "name": "Food court",
+        "a": "The famous hot dog combo and rotisserie chicken.",
+        "b": "Good, budget-friendly too.",
+        "winner": "a"
+      },
+      {
+        "name": "Selection",
+        "a": "Rotating finds, quality meat and produce.",
+        "b": "Broad, with a more conventional mix.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Excellent Kirkland products",
+      "Iconic food court",
+      "Generous returns"
+    ],
+    "pros_b": [
+      "Cheaper membership",
+      "Scan and Go checkout",
+      "Often less crowded"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "celsius-vs-monster",
+    "item_a": "Celsius",
+    "item_b": "Monster",
+    "category": "food",
+    "question": "Celsius or Monster: which energy drink is better?",
+    "search_query": "celsius vs monster",
+    "search_volume": 1360,
+    "summary": "Celsius wins for most: zero sugar across the line and a lighter, sparkling-water taste, while Monster is for flavor variety.",
+    "winner": "a",
+    "winner_reason": "Monster has more flavors and its Ultra line is sugar-free too, but most of its range is sugary. Celsius is sugar-free by default and tastes lighter, which fits the gym and office crowd that drinks it daily.",
+    "dimensions": [
+      {
+        "name": "Sugar",
+        "a": "Sugar-free across the core line.",
+        "b": "Original is very sugary; Ultra and Zero lines skip it.",
+        "winner": "a"
+      },
+      {
+        "name": "Caffeine",
+        "a": "Strong per can; one is plenty.",
+        "b": "Also strong per can.",
+        "winner": "tie"
+      },
+      {
+        "name": "Taste",
+        "a": "Light and sparkling, like fruity seltzer.",
+        "b": "Bolder, sweeter, classic energy-drink flavor.",
+        "winner": "tie"
+      },
+      {
+        "name": "Flavors",
+        "a": "Good range, growing.",
+        "b": "Massive lineup.",
+        "winner": "b"
+      },
+      {
+        "name": "Image",
+        "a": "Marketed as a fitness drink.",
+        "b": "Classic energy-drink brand.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Sugar-free by default",
+      "Light, crisp taste",
+      "Fits a gym routine"
+    ],
+    "pros_b": [
+      "Huge flavor range",
+      "Bigger can",
+      "Zero-sugar Ultra line"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "chipotle-vs-taco-bell",
+    "item_a": "Chipotle",
+    "item_b": "Taco Bell",
+    "category": "food",
+    "question": "Taco Bell or Chipotle: which is better?",
+    "search_query": "taco bell vs chipotle",
+    "search_volume": 1180,
+    "summary": "Chipotle wins for a real meal: fresher ingredients and a bowl that fills you up; Taco Bell wins at 1 a.m. on a budget.",
+    "winner": "a",
+    "winner_reason": "Taco Bell is cheap, fun and endlessly creative, and nothing beats it late at night. But Chipotle's grilled meats, fresh salsas and build-your-own bowls make a more satisfying lunch or dinner.",
+    "dimensions": [
+      {
+        "name": "Ingredients",
+        "a": "Grilled meats, fresh salsas, rice and beans made in-house.",
+        "b": "Processed but tasty, built for craveability.",
+        "winner": "a"
+      },
+      {
+        "name": "Value",
+        "a": "Pricier, but a bowl is a full meal.",
+        "b": "Cheap, with a value menu that stretches dollars.",
+        "winner": "b"
+      },
+      {
+        "name": "Menu creativity",
+        "a": "Focused and rarely changes.",
+        "b": "Wild mashups and fan-favorite returns.",
+        "winner": "b"
+      },
+      {
+        "name": "Fullness",
+        "a": "A burrito bowl keeps you going for hours.",
+        "b": "You will be back hungry, or ordering more.",
+        "winner": "a"
+      },
+      {
+        "name": "Healthier options",
+        "a": "Easy to build a balanced bowl.",
+        "b": "Lighter options exist if you customize.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Fresher ingredients",
+      "Filling bowls",
+      "Easy to customize healthier"
+    ],
+    "pros_b": [
+      "Very cheap",
+      "Late-night hours",
+      "Creative menu"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "cake-vs-pie",
+    "item_a": "Cake",
+    "item_b": "Pie",
+    "category": "food",
+    "question": "Cake or pie: which is better?",
+    "search_query": "cake vs pie",
+    "search_volume": 1180,
+    "summary": "Pie wins: a flaky crust and a real filling give it more texture and flavor than frosting-on-sponge.",
+    "winner": "b",
+    "winner_reason": "Cake owns birthdays and weddings for good reason. But as dessert you actually want to eat, pie's crust-and-filling contrast, from fruit to custard to pecan, delivers more in every forkful.",
+    "dimensions": [
+      {
+        "name": "Texture",
+        "a": "Soft crumb and creamy frosting.",
+        "b": "Flaky crust with gooey, creamy or fruity filling.",
+        "winner": "b"
+      },
+      {
+        "name": "Flavor range",
+        "a": "Chocolate, vanilla, carrot, red velvet and more.",
+        "b": "Fruit, cream, custard, nut, even savory.",
+        "winner": "b"
+      },
+      {
+        "name": "Celebrations",
+        "a": "Candles, writing and tiers. The party dessert.",
+        "b": "The holiday dessert, less so for birthdays.",
+        "winner": "a"
+      },
+      {
+        "name": "Sweetness",
+        "a": "Frosting can be cloying.",
+        "b": "Fruit pies balance sweet and tart.",
+        "winner": "b"
+      },
+      {
+        "name": "Serving",
+        "a": "Slices cleanly for a crowd.",
+        "b": "First slice is always a mess.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Perfect for celebrations",
+      "Easy to decorate",
+      "Slices cleanly"
+    ],
+    "pros_b": [
+      "Flaky crust contrast",
+      "Huge range of fillings",
+      "Less cloying"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dutch-bros-vs-starbucks",
+    "item_a": "Dutch Bros",
+    "item_b": "Starbucks",
+    "category": "food",
+    "question": "Dutch Bros or Starbucks: which is better?",
+    "search_query": "dutch bros vs starbucks",
+    "search_volume": 1110,
+    "summary": "Dutch Bros wins for the drive-thru treat: upbeat service and fun, sweet drinks; Starbucks wins on coverage and coffee range.",
+    "winner": "a",
+    "winner_reason": "Starbucks is everywhere, has cafes to sit in and a deeper coffee lineup. But where both exist, Dutch Bros' friendly, fast drive-thru and playful drinks make the stop more enjoyable.",
+    "dimensions": [
+      {
+        "name": "Service",
+        "a": "Famously cheerful staff; the order feels like a chat.",
+        "b": "Efficient, varies by store and rush.",
+        "winner": "a"
+      },
+      {
+        "name": "Drinks",
+        "a": "Sweet, creative and playful, including energy-drink Rebels and fun seasonal specials.",
+        "b": "Broad range from black coffee to seasonal lattes.",
+        "winner": "a"
+      },
+      {
+        "name": "Coffee",
+        "a": "Built mostly for mixed drinks.",
+        "b": "More roasts and better for straight coffee.",
+        "winner": "b"
+      },
+      {
+        "name": "Availability",
+        "a": "Mostly western and southern US, expanding.",
+        "b": "Nearly everywhere, worldwide.",
+        "winner": "b"
+      },
+      {
+        "name": "Value",
+        "a": "Generally a bit cheaper for big drinks.",
+        "b": "Often pricier.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Upbeat, friendly service",
+      "Fun sweet drinks",
+      "Often better value"
+    ],
+    "pros_b": [
+      "Everywhere",
+      "Cafes to sit and work",
+      "Stronger straight-coffee range"
+    ],
+    "as_of": "2026-11-04"
+  }
+]

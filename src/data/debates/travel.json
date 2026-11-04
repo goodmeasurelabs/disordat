@@ -1,0 +1,1926 @@
+[
+  {
+    "slug": "portugal-vs-spain",
+    "item_a": "Portugal",
+    "item_b": "Spain",
+    "category": "travel",
+    "question": "Should you visit Portugal or Spain?",
+    "search_query": "spain vs portugal",
+    "search_volume": 330000,
+    "summary": "Spain wins: more cities, more regions and more food styles than you can fit in one trip, though Portugal is the better-value, easier-paced pick.",
+    "winner": "b",
+    "winner_reason": "Judged as a place to visit, not a football match. Spain's sheer range, from Barcelona and Madrid to Andalusia's Moorish palaces and the Basque food scene, gives a first-timer more to love, while Portugal is the smarter choice if you want a compact, calmer, cheaper trip.",
+    "dimensions": [
+      {
+        "name": "Variety",
+        "a": "Lisbon, Porto, the Algarve and the Douro Valley cover a lot in a small, easy-to-cross country.",
+        "b": "Huge diversity: Gaudí in Barcelona, art in Madrid, the Alhambra in Granada, Basque pintxos and island escapes.",
+        "winner": "b"
+      },
+      {
+        "name": "Food",
+        "a": "Grilled sardines, bacalhau, pastéis de nata and great seafood at friendly prices.",
+        "b": "Tapas culture, jamón, paella in Valencia and some of Europe's most celebrated restaurant scenes.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Usually one of the more affordable trips in Western Europe for food, wine and hotels.",
+        "b": "Still good value outside the big hotspots, but Barcelona and the islands can get pricey.",
+        "winner": "a"
+      },
+      {
+        "name": "Pace",
+        "a": "Relaxed and manageable; one week covers the highlights without rushing.",
+        "b": "Big distances and late nights; dinner at 10pm takes some getting used to.",
+        "winner": "a"
+      },
+      {
+        "name": "Culture",
+        "a": "Fado, azulejo tiles and a deep seafaring history.",
+        "b": "Flamenco, world-class art museums like the Prado and layered Roman, Moorish and Catholic heritage.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Excellent value for Western Europe",
+      "Compact and easy for a one-week trip",
+      "Gorgeous Algarve coastline"
+    ],
+    "pros_b": [
+      "Enormous variety of cities and regions",
+      "Legendary tapas and food culture",
+      "World-class art and architecture"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "barcelona-vs-madrid",
+    "item_a": "Barcelona",
+    "item_b": "Madrid",
+    "category": "travel",
+    "question": "Should you visit Barcelona or Madrid?",
+    "search_query": "madrid vs barcelona",
+    "search_volume": 121000,
+    "summary": "Barcelona for a first trip: Gaudí, the Gothic Quarter and a city beach in one place is hard to beat, even if Madrid eats and parties better.",
+    "winner": "a",
+    "winner_reason": "Judged as places to visit, not El Clásico. Barcelona packs instantly iconic sights, sea air and beach time into a walkable city, which makes it the better first taste of Spain; Madrid rewards repeat visitors who want art, food and nightlife without the crowds of tourists.",
+    "dimensions": [
+      {
+        "name": "Iconic sights",
+        "a": "Sagrada Família, Park Güell, Casa Batlló and the Gothic Quarter are bucket-list material.",
+        "b": "Royal Palace, Retiro Park and grand boulevards; elegant, but fewer jaw-drop landmarks.",
+        "winner": "a"
+      },
+      {
+        "name": "Beach",
+        "a": "City beaches a short walk or metro ride from the old town.",
+        "b": "Landlocked and hot in summer; the nearest sea is hours away.",
+        "winner": "a"
+      },
+      {
+        "name": "Art museums",
+        "a": "Picasso Museum and Fundació Joan Miró are excellent.",
+        "b": "The Prado, Reina Sofía and Thyssen form one of the world's great art clusters.",
+        "winner": "b"
+      },
+      {
+        "name": "Food & nightlife",
+        "a": "Great seafood and vermouth culture, though touristy areas can disappoint.",
+        "b": "Tapas crawls in La Latina and famously late, lively nights feel more local.",
+        "winner": "b"
+      },
+      {
+        "name": "Weather",
+        "a": "Mediterranean sea breezes keep it milder in summer and winter.",
+        "b": "Scorching summers and chilly winters on the high central plateau.",
+        "winner": "a"
+      },
+      {
+        "name": "Day trips",
+        "a": "Montserrat, Sitges and the Costa Brava are easy escapes.",
+        "b": "Toledo and Segovia are superb and close by fast train.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Gaudí architecture you can't see anywhere else",
+      "Beach and city in one trip",
+      "Very walkable old town"
+    ],
+    "pros_b": [
+      "One of Europe's best art museum trios",
+      "Authentic tapas and late-night energy",
+      "Fewer tourist crowds"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "disney-world-vs-disneyland",
+    "item_a": "Disney World",
+    "item_b": "Disneyland",
+    "category": "travel",
+    "question": "Is Disney World or Disneyland better?",
+    "search_query": "disneyland vs disney world",
+    "search_volume": 36200,
+    "summary": "Disney World for a proper week-long Disney vacation: four parks, resort hotels and water parks; Disneyland is better for a short, walkable 2-3 day trip.",
+    "winner": "a",
+    "winner_reason": "For a family planning a dedicated Disney vacation, Disney World's scale is the point: four distinct parks, dozens of themed resorts and enough to fill a week. Disneyland wins on charm, nostalgia and convenience, and is the better choice if you only have a long weekend.",
+    "dimensions": [
+      {
+        "name": "Size",
+        "a": "Four theme parks, two water parks and Disney Springs across a huge resort area.",
+        "b": "Two parks side by side, walkable from many hotels.",
+        "winner": "a"
+      },
+      {
+        "name": "Short trips",
+        "a": "Needs transport planning and several days to feel worth it.",
+        "b": "Two or three days covers a lot; you can walk between both parks.",
+        "winner": "b"
+      },
+      {
+        "name": "Resort stay",
+        "a": "Many themed Disney hotels at different price levels with transport to the parks.",
+        "b": "Only a few Disney hotels; most guests stay at nearby non-Disney hotels.",
+        "winner": "a"
+      },
+      {
+        "name": "Nostalgia",
+        "a": "Magic Kingdom is grand, with a bigger castle.",
+        "b": "Walt's original park, with classic rides and a cozy, historic feel.",
+        "winner": "b"
+      },
+      {
+        "name": "Unique lands",
+        "a": "EPCOT's World Showcase and Animal Kingdom have no West Coast equivalent.",
+        "b": "Cars Land and Avengers Campus at California Adventure are standouts.",
+        "winner": "a"
+      },
+      {
+        "name": "Weather",
+        "a": "Florida heat, humidity and afternoon storms in summer.",
+        "b": "Southern California is milder and drier most of the year.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Enough parks for a full week",
+      "Immersive on-site resort experience",
+      "EPCOT and Animal Kingdom are unique"
+    ],
+    "pros_b": [
+      "Compact and walkable",
+      "Original Walt Disney park charm",
+      "Milder weather year-round"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "thailand-vs-vietnam",
+    "item_a": "Thailand",
+    "item_b": "Vietnam",
+    "category": "travel",
+    "question": "Should you visit Thailand or Vietnam?",
+    "search_query": "thailand vs vietnam",
+    "search_volume": 19800,
+    "summary": "Thailand for a first Southeast Asia trip: easier logistics and better islands, while Vietnam is the adventurous pick with arguably even better street food.",
+    "winner": "a",
+    "winner_reason": "For a first-timer, Thailand's well-oiled tourist infrastructure, short hops between Bangkok, Chiang Mai and the islands, and world-famous beaches make it the smoother, more varied trip. Vietnam is a brilliant second trip for travellers who want dramatic landscapes and a bit more adventure.",
+    "dimensions": [
+      {
+        "name": "Beaches",
+        "a": "Phuket, Krabi, Koh Samui and Koh Phi Phi make Thailand an island-hopping classic.",
+        "b": "Nice spots like Da Nang and Phu Quoc, but beaches aren't the main draw.",
+        "winner": "a"
+      },
+      {
+        "name": "Food",
+        "a": "Pad kra pao, curries, som tam and night markets everywhere.",
+        "b": "Pho, bánh mì, bún chả and fresh-herb everything; cheap and astonishingly good.",
+        "winner": "b"
+      },
+      {
+        "name": "First-timers",
+        "a": "Very easy: well-trodden routes, plenty of English and lots of tour options.",
+        "b": "Manageable but a step more challenging, especially for long north-south travel.",
+        "winner": "a"
+      },
+      {
+        "name": "Landscapes",
+        "a": "Limestone karsts in Krabi and northern mountains around Chiang Mai.",
+        "b": "Ha Long Bay, Ninh Binh and the northern rice terraces are spectacular.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Affordable, though island resorts and Bangkok hotspots add up.",
+        "b": "Often even cheaper day to day, especially food and local transport.",
+        "winner": "b"
+      },
+      {
+        "name": "Getting around",
+        "a": "Cheap domestic flights, buses and ferries link the main spots easily.",
+        "b": "A long, narrow country; you'll likely need domestic flights or long train rides.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "World-class island hopping",
+      "Easiest Southeast Asia starter",
+      "Buzzing Bangkok and laid-back Chiang Mai"
+    ],
+    "pros_b": [
+      "Incredible street food",
+      "Dramatic scenery like Ha Long Bay",
+      "Excellent value"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "chicago-vs-new-york",
+    "item_a": "Chicago",
+    "item_b": "New York",
+    "category": "travel",
+    "question": "Should you visit Chicago or New York?",
+    "search_query": "chicago vs new york",
+    "search_volume": 19800,
+    "summary": "New York for a first visit: nothing matches its density of museums, Broadway, neighborhoods and food, though Chicago is cleaner, cheaper and wildly underrated.",
+    "winner": "b",
+    "winner_reason": "Judged as a place to visit, not a sports rivalry. New York is the most packed travel city in the US, and a first trip there is a rite of passage. Chicago is the smarter pick if you want great architecture and food with less chaos and lower hotel prices.",
+    "dimensions": [
+      {
+        "name": "Attractions",
+        "a": "Art Institute, Millennium Park, the Riverwalk and the architecture boat tour.",
+        "b": "The Met, MoMA, Central Park, Broadway, the Statue of Liberty and endless neighborhoods.",
+        "winner": "b"
+      },
+      {
+        "name": "Architecture",
+        "a": "The birthplace of the skyscraper, with a stunning lakefront skyline.",
+        "b": "Iconic towers and brownstones, but harder to appreciate at street level.",
+        "winner": "a"
+      },
+      {
+        "name": "Food",
+        "a": "Deep dish, Italian beef, great steakhouses and a serious fine-dining scene.",
+        "b": "Every cuisine on earth, from dollar slices to legendary delis and top-tier restaurants.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Hotels and dining are usually noticeably cheaper.",
+        "b": "One of the most expensive US cities to visit.",
+        "winner": "a"
+      },
+      {
+        "name": "Getting around",
+        "a": "The L and walkable downtown work well.",
+        "b": "24-hour subway reaches almost everything; no car needed at all.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "World-class architecture tour",
+      "Better value hotels",
+      "Beautiful lakefront in summer"
+    ],
+    "pros_b": [
+      "Unmatched museums and Broadway",
+      "Food from every corner of the world",
+      "Subway that never sleeps"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "san-francisco-vs-seattle",
+    "item_a": "San Francisco",
+    "item_b": "Seattle",
+    "category": "travel",
+    "question": "Should you visit San Francisco or Seattle?",
+    "search_query": "san francisco vs seattle",
+    "search_volume": 13200,
+    "summary": "San Francisco wins: the Golden Gate, cable cars, Wine Country next door and a more postcard-ready city make it the stronger first trip.",
+    "winner": "a",
+    "winner_reason": "For a typical visitor, San Francisco's iconic sights and easy day trips to Napa, Sonoma and the coast give it the edge. Seattle shines for coffee, seafood and mountain-and-water scenery, especially if you add the Olympic Peninsula or Mount Rainier.",
+    "dimensions": [
+      {
+        "name": "Icons",
+        "a": "Golden Gate Bridge, cable cars, Alcatraz and painted Victorians.",
+        "b": "Space Needle and Pike Place Market; fewer instantly famous sights.",
+        "winner": "a"
+      },
+      {
+        "name": "Day trips",
+        "a": "Napa, Sonoma, Muir Woods and Highway 1 are all close.",
+        "b": "Mount Rainier, the San Juan Islands and Olympic National Park are nearby, but take longer.",
+        "winner": "a"
+      },
+      {
+        "name": "Food",
+        "a": "Mission burritos, sourdough, Chinatown and a deep fine-dining bench.",
+        "b": "Superb seafood, oysters and the coffee culture of a city that takes beans seriously.",
+        "winner": "tie"
+      },
+      {
+        "name": "Weather",
+        "a": "Mild but famously foggy; summer can be surprisingly chilly.",
+        "b": "Grey and drizzly much of the year, but summers are dry and lovely.",
+        "winner": "a"
+      },
+      {
+        "name": "Nature",
+        "a": "Coastal bluffs and redwoods within reach.",
+        "b": "Mountains, islands and forests all visible from downtown on a clear day.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Postcard landmarks everywhere",
+      "Wine Country day trips",
+      "Walkable, photogenic neighborhoods"
+    ],
+    "pros_b": [
+      "Great seafood and coffee",
+      "Stunning mountain and water scenery",
+      "Gorgeous dry summers"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "carnival-vs-royal-caribbean",
+    "item_a": "Carnival",
+    "item_b": "Royal Caribbean",
+    "category": "travel",
+    "question": "Is Carnival or Royal Caribbean better?",
+    "search_query": "carnival vs royal caribbean",
+    "search_volume": 13200,
+    "summary": "Royal Caribbean wins: its giant ships are floating theme parks with more to do, while Carnival is the cheaper, more casual party option.",
+    "winner": "b",
+    "winner_reason": "For most families and first-time cruisers who want the ship itself to be the destination, Royal Caribbean's onboard attractions, shows and private island experience justify the usually higher fares. Carnival is the right call for budget-minded groups who just want a fun, relaxed few days at sea.",
+    "dimensions": [
+      {
+        "name": "Onboard fun",
+        "a": "Waterslides, comedy clubs and lively deck parties.",
+        "b": "Huge ships with surf simulators, climbing walls, big production shows and more.",
+        "winner": "b"
+      },
+      {
+        "name": "Price",
+        "a": "Usually among the cheapest mainstream cruise fares.",
+        "b": "Typically pricier, especially on the newest ships.",
+        "winner": "a"
+      },
+      {
+        "name": "Vibe",
+        "a": "Casual, social and party-friendly.",
+        "b": "Energetic but a touch more polished; strong family focus.",
+        "winner": "tie"
+      },
+      {
+        "name": "Food",
+        "a": "Fan-favorite casual spots like Guy's Burger Joint.",
+        "b": "Solid main dining plus more specialty restaurant choices.",
+        "winner": "b"
+      },
+      {
+        "name": "Private island",
+        "a": "Has its own private destinations in the Caribbean.",
+        "b": "Perfect Day at CocoCay is one of the most popular private-island stops in cruising.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Usually the lowest fares",
+      "Laid-back, fun atmosphere",
+      "Many short sailings from US ports"
+    ],
+    "pros_b": [
+      "Ships packed with attractions",
+      "Great for families",
+      "Popular private island CocoCay"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "greece-vs-italy",
+    "item_a": "Greece",
+    "item_b": "Italy",
+    "category": "travel",
+    "question": "Should you visit Greece or Italy?",
+    "search_query": "greece vs italy",
+    "search_volume": 10900,
+    "summary": "Italy for a first trip: Rome, Florence and Venice deliver more art, food and history per day, while Greece is the pick for island-hopping and swimming.",
+    "winner": "b",
+    "winner_reason": "For a typical first visit to Europe's south, Italy's density of world-famous cities, museums and food is unmatched, and fast trains link it all. Choose Greece if your dream trip is about turquoise water, beaches and lazy island days rather than galleries.",
+    "dimensions": [
+      {
+        "name": "Food",
+        "a": "Fresh, simple and delicious: grilled fish, souvlaki, salads and great olive oil.",
+        "b": "Regional cuisines from Roman pasta to Neapolitan pizza and Florentine steak; a pilgrimage in itself.",
+        "winner": "b"
+      },
+      {
+        "name": "Beaches",
+        "a": "Island beaches and clear water are the whole point; hard to beat.",
+        "b": "Lovely coasts like Amalfi and Sardinia, but often rocky or crowded.",
+        "winner": "a"
+      },
+      {
+        "name": "History & art",
+        "a": "The Acropolis, Delphi and ancient sites galore.",
+        "b": "Colosseum, Vatican, Uffizi, Pompeii and Renaissance masterpieces everywhere.",
+        "winner": "b"
+      },
+      {
+        "name": "Getting around",
+        "a": "Ferries and short flights; fun but schedules need planning.",
+        "b": "High-speed trains link the major cities quickly and easily.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Often a bit cheaper, especially off the most famous islands.",
+        "b": "Can be pricey in Venice, Florence and on the Amalfi Coast.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "World-class island hopping",
+      "Crystal-clear swimming water",
+      "Often better value"
+    ],
+    "pros_b": [
+      "Unbeatable food culture",
+      "Art and history on every corner",
+      "Easy fast trains between cities"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "delta-vs-united",
+    "item_a": "Delta",
+    "item_b": "United",
+    "category": "travel",
+    "question": "Which is better, Delta or United?",
+    "search_query": "delta vs united",
+    "search_volume": 10800,
+    "summary": "Delta wins for most flyers: a strong reputation for reliability and service, though United's global route network is hard to top.",
+    "winner": "a",
+    "winner_reason": "For the typical US traveller, Delta's consistent operations, polished service and well-regarded hubs like Atlanta make for fewer headaches. United is the better pick if you live near one of its hubs or fly to a lot of international destinations, especially across the Pacific.",
+    "dimensions": [
+      {
+        "name": "Reliability",
+        "a": "Widely regarded as one of the most operationally reliable US airlines.",
+        "b": "Has improved, but generally doesn't carry the same reputation.",
+        "winner": "a"
+      },
+      {
+        "name": "Network",
+        "a": "Huge domestic network with strong partners in Europe and Asia.",
+        "b": "Arguably the broadest international network of any US airline.",
+        "winner": "b"
+      },
+      {
+        "name": "Service",
+        "a": "Consistently praised for friendly crews and a polished feel.",
+        "b": "Solid and improving, with mixed reviews depending on route.",
+        "winner": "a"
+      },
+      {
+        "name": "Loyalty",
+        "a": "SkyMiles is easy to use, but award prices can be high and variable.",
+        "b": "MileagePlus is part of Star Alliance, offering wide partner redemption options.",
+        "winner": "b"
+      },
+      {
+        "name": "Comfort",
+        "a": "Well-regarded premium cabins and seatback screens on many planes.",
+        "b": "Polaris business class is strong and seatback screens are spreading.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Strong reliability reputation",
+      "Consistently good service",
+      "Atlanta hub connects almost everywhere"
+    ],
+    "pros_b": [
+      "Massive international network",
+      "Star Alliance partner options",
+      "Excellent Polaris business class"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "american-airlines-vs-delta",
+    "item_a": "American Airlines",
+    "item_b": "Delta",
+    "category": "travel",
+    "question": "Which is better, American Airlines or Delta?",
+    "search_query": "american airlines vs delta",
+    "search_volume": 10800,
+    "summary": "Delta wins: it's generally the smoother, more reliable experience, while American earns its keep mainly through its huge network and oneworld partners.",
+    "winner": "b",
+    "winner_reason": "For most travellers who just want to get there with fewer surprises, Delta's operations and service reputation give it the edge. American makes more sense if you live near Dallas, Charlotte or Miami, or want oneworld partners like British Airways and Qantas.",
+    "dimensions": [
+      {
+        "name": "Reliability",
+        "a": "Large and busy, with a more mixed reputation for disruptions.",
+        "b": "Known for strong operational reliability.",
+        "winner": "b"
+      },
+      {
+        "name": "Network",
+        "a": "One of the world's biggest airlines, with excellent Latin America coverage.",
+        "b": "Huge domestic reach and strong transatlantic partnerships.",
+        "winner": "a"
+      },
+      {
+        "name": "Service",
+        "a": "Varies a lot by route and crew.",
+        "b": "Consistently rated well for friendliness and polish.",
+        "winner": "b"
+      },
+      {
+        "name": "Loyalty",
+        "a": "AAdvantage plus oneworld partners can offer good-value awards.",
+        "b": "SkyMiles is simple to use, but awards are often pricey.",
+        "winner": "a"
+      },
+      {
+        "name": "Comfort",
+        "a": "Fewer seatback screens on many domestic planes.",
+        "b": "Seatback screens are common and cabins feel well kept.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Massive route network",
+      "oneworld partner flexibility",
+      "Strong in Latin America"
+    ],
+    "pros_b": [
+      "More reliable reputation",
+      "Consistently good service",
+      "Comfortable, well-equipped cabins"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "kauai-vs-maui",
+    "item_a": "Kauai",
+    "item_b": "Maui",
+    "category": "travel",
+    "question": "Is Kauai or Maui better for a first trip to Hawaii?",
+    "search_query": "maui vs kauai",
+    "search_volume": 8800,
+    "summary": "Maui for a first trip: beaches, great resorts, the Road to Hana and Haleakala sunrise in one island; Kauai is the wilder, quieter pick for hikers.",
+    "winner": "b",
+    "winner_reason": "For a typical first-time Hawaii visitor, Maui balances classic beach-resort time with big-ticket adventures and more dining choice. Kauai is better if you want dramatic green cliffs, serious hiking and a slower, small-town feel.",
+    "dimensions": [
+      {
+        "name": "Beaches",
+        "a": "Beautiful, but surf and seasonal conditions can limit swimming in places.",
+        "b": "Long, golden, often calm beaches in Kaanapali, Wailea and Kapalua.",
+        "winner": "b"
+      },
+      {
+        "name": "Scenery",
+        "a": "Na Pali Coast and Waimea Canyon are jaw-dropping and lushly green.",
+        "b": "Haleakala and the Road to Hana are spectacular too.",
+        "winner": "a"
+      },
+      {
+        "name": "Hiking",
+        "a": "Some of Hawaii's best trails, including the Kalalau Trail.",
+        "b": "Good hikes, though fewer truly epic ones.",
+        "winner": "a"
+      },
+      {
+        "name": "Resorts & dining",
+        "a": "Fewer big resorts and a more limited restaurant scene.",
+        "b": "Wide range of resorts and restaurants at every level.",
+        "winner": "b"
+      },
+      {
+        "name": "Crowds",
+        "a": "Quiet and rural; it feels like an escape.",
+        "b": "Busier, especially in resort areas and on the Hana road.",
+        "winner": "a"
+      },
+      {
+        "name": "Weather",
+        "a": "Wetter overall, especially on the north shore in winter.",
+        "b": "Sunnier and drier on the leeward resort coasts.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Dramatic Na Pali Coast",
+      "World-class hiking",
+      "Peaceful, uncrowded vibe"
+    ],
+    "pros_b": [
+      "Classic Hawaii beaches",
+      "Haleakala and Road to Hana",
+      "Best mix of resorts and dining"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "austin-vs-nashville",
+    "item_a": "Austin",
+    "item_b": "Nashville",
+    "category": "travel",
+    "question": "Is it better to live in Austin or Nashville?",
+    "search_query": "austin vs nashville",
+    "search_volume": 8800,
+    "summary": "Austin edges it for living: a bigger job market, outdoor life on the water and great Tex-Mex, while Nashville wins for a weekend of live music.",
+    "winner": "a",
+    "winner_reason": "Judged as a place to live, since that's the usual question here. Austin's larger tech-driven job market, swimming holes and greenbelt trails give it more day-to-day appeal; Nashville is the better visit, with its honky-tonks and music history, and has a milder summer.",
+    "dimensions": [
+      {
+        "name": "Jobs",
+        "a": "Large tech and startup scene alongside government and university jobs.",
+        "b": "Strong in healthcare, music and a growing corporate presence.",
+        "winner": "a"
+      },
+      {
+        "name": "Outdoors",
+        "a": "Barton Springs, Lady Bird Lake and the Hill Country nearby.",
+        "b": "Rolling hills, lakes and parks; pleasant but less central to daily life.",
+        "winner": "a"
+      },
+      {
+        "name": "Music",
+        "a": "Live Music Capital branding, with an eclectic indie scene.",
+        "b": "Music City: country, the Ryman and live bands on every corner.",
+        "winner": "b"
+      },
+      {
+        "name": "Climate",
+        "a": "Very hot, long summers.",
+        "b": "Humid summers but four real seasons and milder heat.",
+        "winner": "b"
+      },
+      {
+        "name": "Food",
+        "a": "Brisket, breakfast tacos and serious Tex-Mex.",
+        "b": "Hot chicken, meat-and-threes and a booming restaurant scene.",
+        "winner": "tie"
+      },
+      {
+        "name": "Taxes",
+        "a": "No state income tax in Texas.",
+        "b": "No state income tax on wages in Tennessee either.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Big, dynamic job market",
+      "Great outdoor lifestyle",
+      "Tacos and barbecue everywhere"
+    ],
+    "pros_b": [
+      "Unbeatable live music scene",
+      "Four seasons, milder summers",
+      "Warm, welcoming vibe"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "costa-rica-vs-mexico",
+    "item_a": "Costa Rica",
+    "item_b": "Mexico",
+    "category": "travel",
+    "question": "Should you visit Costa Rica or Mexico?",
+    "search_query": "mexico vs costa rica",
+    "search_volume": 8800,
+    "summary": "Mexico wins for most travellers: better food, more variety and usually better value, while Costa Rica is the pick for wildlife and rainforest adventure.",
+    "winner": "b",
+    "winner_reason": "For a typical vacation, Mexico offers beaches, ancient ruins, colonial cities and one of the world's great cuisines, often for less money and with more flight options. Costa Rica wins if your dream is sloths, volcanoes, zip lines and eco-lodges.",
+    "dimensions": [
+      {
+        "name": "Food",
+        "a": "Hearty, simple comfort food like gallo pinto and casados.",
+        "b": "A world-class cuisine, from street tacos to mole and fine dining in Mexico City.",
+        "winner": "b"
+      },
+      {
+        "name": "Nature",
+        "a": "Rainforests, cloud forests, volcanoes and incredible wildlife.",
+        "b": "Cenotes, deserts and reefs, but less wildlife-focused.",
+        "winner": "a"
+      },
+      {
+        "name": "Culture",
+        "a": "Relaxed pura vida lifestyle, but fewer major historic sites.",
+        "b": "Maya and Aztec ruins, colonial towns and big-city museums.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Often pricier than travellers expect for Central America.",
+        "b": "Wide range, with lots of good-value options.",
+        "winner": "b"
+      },
+      {
+        "name": "Adventure",
+        "a": "Zip lining, rafting and surfing are a national pastime.",
+        "b": "Plenty on offer, from diving to cenote swimming.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Spectacular wildlife",
+      "Eco-adventure capital",
+      "Laid-back pura vida vibe"
+    ],
+    "pros_b": [
+      "One of the world's great cuisines",
+      "Ruins, cities and beaches in one country",
+      "Usually better value"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "japan-vs-south-korea",
+    "item_a": "Japan",
+    "item_b": "South Korea",
+    "category": "travel",
+    "question": "Should you visit Japan or South Korea?",
+    "search_query": "japan vs korea",
+    "search_volume": 7200,
+    "summary": "Japan wins for a first trip: more variety, from Tokyo's neon to Kyoto's temples and the Alps, though Korea is cheaper, closer-knit and loads of fun.",
+    "winner": "a",
+    "winner_reason": "For most first-time visitors to East Asia, Japan's mix of ultra-modern cities, deep traditional culture, food and easy rail travel is hard to rival. South Korea is a fantastic, often cheaper pick, especially for fans of K-culture, nightlife, skincare shopping and Korean barbecue.",
+    "dimensions": [
+      {
+        "name": "Variety",
+        "a": "Tokyo, Kyoto, Osaka, Hokkaido, onsen towns and mountain villages.",
+        "b": "Seoul, Busan and Jeju are great, but the range is smaller.",
+        "winner": "a"
+      },
+      {
+        "name": "Food",
+        "a": "Sushi, ramen, izakaya and some of the world's most acclaimed dining.",
+        "b": "Korean barbecue, fried chicken, street food and lively markets.",
+        "winner": "a"
+      },
+      {
+        "name": "Cost",
+        "a": "Has become better value, but can still add up.",
+        "b": "Usually more affordable for food and hotels.",
+        "winner": "b"
+      },
+      {
+        "name": "Getting around",
+        "a": "World-famous trains, including the Shinkansen.",
+        "b": "Excellent metro and fast KTX trains; very easy too.",
+        "winner": "tie"
+      },
+      {
+        "name": "Nightlife",
+        "a": "Fun izakaya and bar alleys, but some areas quiet down early.",
+        "b": "Seoul goes late, with a big, energetic nightlife scene.",
+        "winner": "b"
+      },
+      {
+        "name": "Tradition",
+        "a": "Thousands of temples and shrines, gardens, onsen and ryokan stays.",
+        "b": "Royal palaces and hanok villages in Seoul and Jeonju; fewer of them.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Incredible variety in one country",
+      "Legendary food scene",
+      "Temples, gardens and onsen"
+    ],
+    "pros_b": [
+      "Often better value",
+      "Late-night Seoul energy",
+      "Fewer tourist crowds than Kyoto or Tokyo"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dominican-republic-vs-puerto-rico",
+    "item_a": "Dominican Republic",
+    "item_b": "Puerto Rico",
+    "category": "travel",
+    "question": "Should you visit the Dominican Republic or Puerto Rico?",
+    "search_query": "puerto rico vs dominican republic",
+    "search_volume": 7200,
+    "summary": "Puerto Rico wins for US travellers: no passport, easy to explore beyond the resort, with Old San Juan, rainforest and bioluminescent bays.",
+    "winner": "b",
+    "winner_reason": "For a typical US traveller, Puerto Rico is easier and more varied: no passport needed, US dollars, and a trip that mixes history, nature and beaches. The Dominican Republic is the pick if you want a great-value all-inclusive and plan to stay put by the pool.",
+    "dimensions": [
+      {
+        "name": "Ease",
+        "a": "Passport required; most visitors stay inside resorts.",
+        "b": "No passport needed for US citizens; uses the US dollar.",
+        "winner": "b"
+      },
+      {
+        "name": "All-inclusives",
+        "a": "Huge choice of all-inclusive resorts, especially in Punta Cana.",
+        "b": "Fewer all-inclusives; more traditional hotels.",
+        "winner": "a"
+      },
+      {
+        "name": "Things to do",
+        "a": "Great beaches, Santo Domingo's colonial zone and Samaná.",
+        "b": "Old San Juan, El Yunque rainforest and bioluminescent bays.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Often cheaper for an all-in beach week.",
+        "b": "Can be pricier, especially in San Juan hotels.",
+        "winner": "a"
+      },
+      {
+        "name": "Getting around",
+        "a": "Distances are big; driving can be challenging.",
+        "b": "Rental cars make the island easy to explore.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Great-value all-inclusives",
+      "Long white-sand beaches",
+      "Historic Santo Domingo"
+    ],
+    "pros_b": [
+      "No passport for US citizens",
+      "Old San Juan charm",
+      "Rainforest and bioluminescent bays"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "portland-vs-seattle",
+    "item_a": "Portland",
+    "item_b": "Seattle",
+    "category": "travel",
+    "question": "Should you visit Portland or Seattle?",
+    "search_query": "seattle vs portland",
+    "search_volume": 7200,
+    "summary": "Seattle for a visit: a bigger city with more landmarks, waterfront and mountain views, while Portland is the cozier spot for food carts and beer.",
+    "winner": "b",
+    "winner_reason": "For a typical visitor, Seattle has more to see, from Pike Place Market to ferries across Puget Sound and day trips to Mount Rainier. Portland is a lovely, laid-back alternative for food, craft beer and quick trips to the Columbia River Gorge and Oregon coast.",
+    "dimensions": [
+      {
+        "name": "Sights",
+        "a": "Powell's Books, Japanese Garden and quirky neighborhoods.",
+        "b": "Space Needle, Pike Place Market, waterfront and ferries.",
+        "winner": "b"
+      },
+      {
+        "name": "Food & drink",
+        "a": "Food carts, craft breweries and an inventive, affordable dining scene.",
+        "b": "Excellent seafood, coffee and a broad restaurant scene.",
+        "winner": "a"
+      },
+      {
+        "name": "Day trips",
+        "a": "Columbia River Gorge, Mount Hood and the Oregon coast.",
+        "b": "Mount Rainier, the San Juan Islands and Olympic National Park.",
+        "winner": "tie"
+      },
+      {
+        "name": "Cost",
+        "a": "Usually cheaper for hotels and dining.",
+        "b": "More expensive overall.",
+        "winner": "a"
+      },
+      {
+        "name": "Big-city feel",
+        "a": "Smaller, mellow and easy to navigate.",
+        "b": "Bustling, with a dramatic skyline and water views.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Food carts and craft beer",
+      "Friendly, quirky vibe",
+      "Columbia River Gorge nearby"
+    ],
+    "pros_b": [
+      "More iconic sights",
+      "Ferries and waterfront views",
+      "Mount Rainier day trips"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "ireland-vs-scotland",
+    "item_a": "Ireland",
+    "item_b": "Scotland",
+    "category": "travel",
+    "question": "Should you visit Ireland or Scotland?",
+    "search_query": "scotland vs ireland",
+    "search_volume": 7200,
+    "summary": "Ireland edges it for a first trip: easy road-trip loops, the Wild Atlantic Way and the best pub culture going, though Scotland's Highlands are wilder.",
+    "winner": "a",
+    "winner_reason": "For a typical first-timer, Ireland's compact distances, friendly small towns and lively pubs make for an easy, joyful trip. Scotland wins if you want rugged, dramatic Highland scenery, castles and the finest capital city of the two in Edinburgh.",
+    "dimensions": [
+      {
+        "name": "Scenery",
+        "a": "Green coasts, Cliffs of Moher and the Ring of Kerry.",
+        "b": "The Highlands, Glencoe and Skye are moodier and more dramatic.",
+        "winner": "b"
+      },
+      {
+        "name": "Pubs & music",
+        "a": "Traditional music sessions and pub life are a national treasure.",
+        "b": "Great pubs and whisky bars, but less of a music-session culture.",
+        "winner": "a"
+      },
+      {
+        "name": "Capital city",
+        "a": "Dublin is fun, but can feel expensive and busy.",
+        "b": "Edinburgh is stunning, with its castle and Old Town.",
+        "winner": "b"
+      },
+      {
+        "name": "Road trips",
+        "a": "Easy loops with towns close together.",
+        "b": "Longer distances and many single-track roads in the Highlands.",
+        "winner": "a"
+      },
+      {
+        "name": "Signature drink",
+        "a": "Guinness and Irish whiskey.",
+        "b": "Scotch whisky distilleries are a pilgrimage for fans.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Best pub and music culture",
+      "Easy road-trip loops",
+      "Wild Atlantic Way coastline"
+    ],
+    "pros_b": [
+      "Dramatic Highland scenery",
+      "Beautiful Edinburgh",
+      "Scotch whisky trail"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "los-angeles-vs-new-york",
+    "item_a": "Los Angeles",
+    "item_b": "New York",
+    "category": "travel",
+    "question": "Should you visit Los Angeles or New York?",
+    "search_query": "new york vs los angeles",
+    "search_volume": 5800,
+    "summary": "New York for a visit: it's walkable, endlessly dense with sights and you never need a car, while LA rewards those who come for beaches and sunshine.",
+    "winner": "b",
+    "winner_reason": "Judged as a place to visit, not a sports rivalry. New York lets you see world-class museums, Broadway and iconic neighborhoods on foot or by subway. LA is fantastic if you love beaches, mountains and great tacos, but its sprawl and traffic make a short trip harder.",
+    "dimensions": [
+      {
+        "name": "Getting around",
+        "a": "Sprawling; a car or lots of rideshares is usually needed.",
+        "b": "Walkable with a 24-hour subway.",
+        "winner": "b"
+      },
+      {
+        "name": "Weather",
+        "a": "Sunny and mild most of the year.",
+        "b": "Hot summers, cold winters.",
+        "winner": "a"
+      },
+      {
+        "name": "Attractions",
+        "a": "Hollywood, Griffith Observatory, the Getty and theme parks.",
+        "b": "The Met, Central Park, Broadway, Statue of Liberty and more.",
+        "winner": "b"
+      },
+      {
+        "name": "Beaches",
+        "a": "Santa Monica, Venice and Malibu are right there.",
+        "b": "Coney Island and Rockaway exist, but it's not a beach trip.",
+        "winner": "a"
+      },
+      {
+        "name": "Food",
+        "a": "Tacos, Koreatown and amazing produce-driven cooking.",
+        "b": "Unmatched variety and density of great restaurants.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Year-round sunshine",
+      "Beaches and mountains nearby",
+      "Fantastic tacos and Koreatown"
+    ],
+    "pros_b": [
+      "No car needed",
+      "Unmatched museums and theater",
+      "Iconic sights on every block"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "toronto-vs-vancouver",
+    "item_a": "Toronto",
+    "item_b": "Vancouver",
+    "category": "travel",
+    "question": "Should you visit Toronto or Vancouver?",
+    "search_query": "toronto vs vancouver",
+    "search_volume": 5800,
+    "summary": "Vancouver for a visit: mountains meet ocean right at the city's edge, while Toronto wins on big-city culture, food diversity and nearby Niagara Falls.",
+    "winner": "b",
+    "winner_reason": "For a typical visitor, Vancouver's setting is the showstopper: Stanley Park, beaches, ski hills and day trips to Whistler. Toronto is better for museums, multicultural food and city energy, plus an easy trip to Niagara Falls.",
+    "dimensions": [
+      {
+        "name": "Scenery",
+        "a": "Lakefront and islands, but a mostly flat setting.",
+        "b": "Mountains, ocean and rainforest all within view.",
+        "winner": "b"
+      },
+      {
+        "name": "Food",
+        "a": "Hugely diverse, with neighborhoods from every corner of the world.",
+        "b": "Excellent seafood and some of North America's best Asian food.",
+        "winner": "tie"
+      },
+      {
+        "name": "Culture",
+        "a": "Major museums, theatre and a big arts scene.",
+        "b": "Smaller cultural scene; the outdoors is the main draw.",
+        "winner": "a"
+      },
+      {
+        "name": "Outdoors",
+        "a": "Toronto Islands and ravine trails.",
+        "b": "Stanley Park, Grouse Mountain and Whistler nearby.",
+        "winner": "b"
+      },
+      {
+        "name": "Weather",
+        "a": "Cold winters, hot humid summers.",
+        "b": "Mild but rainy winters, gorgeous summers.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Big-city culture and museums",
+      "Incredibly diverse food",
+      "Niagara Falls day trip"
+    ],
+    "pros_b": [
+      "Stunning mountain and ocean setting",
+      "Outdoor adventures everywhere",
+      "Milder winters"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "mykonos-vs-santorini",
+    "item_a": "Mykonos",
+    "item_b": "Santorini",
+    "category": "travel",
+    "question": "Is Mykonos or Santorini better?",
+    "search_query": "santorini vs mykonos",
+    "search_volume": 4800,
+    "summary": "Santorini wins for most: those caldera sunsets and cliffside villages are unforgettable, while Mykonos is for beach clubs and nightlife.",
+    "winner": "b",
+    "winner_reason": "For couples and first-time Greek island visitors, Santorini's dramatic volcanic scenery, wineries and sunset views are the reason people come. Mykonos is the better pick if you want sandy beaches and a party scene that runs till sunrise.",
+    "dimensions": [
+      {
+        "name": "Scenery",
+        "a": "Whitewashed Chora, windmills and Little Venice are charming.",
+        "b": "Cliffside villages over a volcanic caldera; truly iconic.",
+        "winner": "b"
+      },
+      {
+        "name": "Beaches",
+        "a": "Sandy beaches with clear water and lively beach clubs.",
+        "b": "Volcanic black and red sand beaches; striking but less classic.",
+        "winner": "a"
+      },
+      {
+        "name": "Nightlife",
+        "a": "One of the Mediterranean's legendary party islands.",
+        "b": "Romantic bars and sunset drinks; quieter nights.",
+        "winner": "a"
+      },
+      {
+        "name": "Romance",
+        "a": "Stylish, but the vibe leans social and energetic.",
+        "b": "Honeymoon central, with caldera-view suites and sunsets.",
+        "winner": "b"
+      },
+      {
+        "name": "Food & wine",
+        "a": "Trendy restaurants and beachside dining.",
+        "b": "Unique local wineries plus great tavernas.",
+        "winner": "b"
+      },
+      {
+        "name": "Crowds",
+        "a": "Busy in peak summer, especially at beach clubs.",
+        "b": "Very crowded at sunset spots like Oia, especially on cruise days.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Better sandy beaches",
+      "Legendary nightlife",
+      "Charming Chora town"
+    ],
+    "pros_b": [
+      "Iconic caldera views",
+      "Unforgettable sunsets",
+      "Distinctive local wineries"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "maui-vs-oahu",
+    "item_a": "Maui",
+    "item_b": "Oahu",
+    "category": "travel",
+    "question": "Is Maui or Oahu better for a vacation?",
+    "search_query": "maui vs oahu",
+    "search_volume": 4800,
+    "summary": "Maui for a relaxing Hawaii vacation: better resort beaches and a slower pace, while Oahu wins on budget, history and city life in Honolulu.",
+    "winner": "a",
+    "winner_reason": "For a typical couple or family wanting the classic beach-and-resort Hawaii, Maui delivers more of that dream. Oahu is the better pick for budget travellers, history buffs visiting Pearl Harbor, and anyone who likes having a city's restaurants and nightlife nearby.",
+    "dimensions": [
+      {
+        "name": "Beaches",
+        "a": "Wide, calm resort beaches in Wailea and Kaanapali.",
+        "b": "Waikiki is fun but busy; the North Shore is stunning in summer.",
+        "winner": "a"
+      },
+      {
+        "name": "Relaxation",
+        "a": "Slower pace and spread-out resort areas.",
+        "b": "Honolulu is a real city with traffic and crowds.",
+        "winner": "a"
+      },
+      {
+        "name": "Things to do",
+        "a": "Road to Hana, Haleakala and snorkeling at Molokini.",
+        "b": "Pearl Harbor, Diamond Head, North Shore surf and city life.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Resorts and dining tend to be pricier.",
+        "b": "More flights and hotel choices often mean better deals.",
+        "winner": "b"
+      },
+      {
+        "name": "Scenery",
+        "a": "Volcanic summit, lush rainforest and rugged coasts.",
+        "b": "Beautiful mountains and coastline, but more developed.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Classic resort beaches",
+      "Haleakala and Road to Hana",
+      "Slower, relaxing pace"
+    ],
+    "pros_b": [
+      "Usually more affordable",
+      "Pearl Harbor and city life",
+      "North Shore surf culture"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "cabo-vs-cancun",
+    "item_a": "Cabo",
+    "item_b": "Cancun",
+    "category": "travel",
+    "question": "Is Cabo or Cancun better for a beach vacation?",
+    "search_query": "cabo vs cancun",
+    "search_volume": 4800,
+    "summary": "Cancun wins: warm, swimmable Caribbean water plus Maya ruins and cenotes nearby, while Cabo is gorgeous but many of its beaches aren't safe for swimming.",
+    "winner": "b",
+    "winner_reason": "For a typical beach vacation, Cancun's turquoise water, huge resort choice and day trips to Tulum, Chichen Itza and the cenotes give it more to do. Cabo is a stunning, upscale desert-meets-ocean escape, ideal for sportfishing, golf and whale watching in season.",
+    "dimensions": [
+      {
+        "name": "Swimming",
+        "a": "Dramatic Pacific surf; many beaches have dangerous currents.",
+        "b": "Calm, warm Caribbean water at many beaches.",
+        "winner": "b"
+      },
+      {
+        "name": "Scenery",
+        "a": "Desert mountains meet the sea; El Arco is iconic.",
+        "b": "Classic white sand and turquoise water.",
+        "winner": "a"
+      },
+      {
+        "name": "Day trips",
+        "a": "Todos Santos, boat tours and seasonal whale watching.",
+        "b": "Chichen Itza, Tulum, Isla Mujeres and cenotes.",
+        "winner": "b"
+      },
+      {
+        "name": "Seaweed",
+        "a": "Sargassum isn't a real issue on the Pacific side.",
+        "b": "Seasonal sargassum can affect beaches in warmer months.",
+        "winner": "a"
+      },
+      {
+        "name": "Value",
+        "a": "Tends to be more upscale and pricier.",
+        "b": "Huge range of resorts, including many good-value all-inclusives.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Dramatic desert-and-sea scenery",
+      "Upscale, polished feel",
+      "Whale watching in season"
+    ],
+    "pros_b": [
+      "Swimmable turquoise water",
+      "Ruins and cenotes nearby",
+      "Wide range of resorts"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "montreal-vs-quebec-city",
+    "item_a": "Montreal",
+    "item_b": "Quebec City",
+    "category": "travel",
+    "question": "Should you visit Montreal or Quebec City?",
+    "search_query": "montreal vs quebec city",
+    "search_volume": 4800,
+    "summary": "Montreal for a first visit: a bigger food scene, festivals and nightlife, though Quebec City's walled old town is the more fairytale-pretty weekend.",
+    "winner": "a",
+    "winner_reason": "For a typical visitor, Montreal offers more to eat, do and explore, with bagels, smoked meat, lively neighborhoods and summer festivals. Quebec City wins for romance and history; if you can, do both, as they're an easy trip apart.",
+    "dimensions": [
+      {
+        "name": "Food",
+        "a": "Bagels, smoked meat, poutine and an excellent restaurant scene.",
+        "b": "Charming bistros and French cuisine, but fewer options.",
+        "winner": "a"
+      },
+      {
+        "name": "Charm",
+        "a": "Old Montreal is lovely, but it's a big modern city.",
+        "b": "Walled Old Town and Château Frontenac feel like Europe.",
+        "winner": "b"
+      },
+      {
+        "name": "Nightlife",
+        "a": "Lively bars, clubs and live music.",
+        "b": "Cozy and quieter.",
+        "winner": "a"
+      },
+      {
+        "name": "Festivals",
+        "a": "Big summer festivals, including jazz and comedy.",
+        "b": "The Winter Carnival is a classic.",
+        "winner": "a"
+      },
+      {
+        "name": "Walkability",
+        "a": "Neighborhoods spread out; the metro helps.",
+        "b": "Compact and walkable, though hilly.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Outstanding food scene",
+      "Lively nightlife and festivals",
+      "Diverse neighborhoods"
+    ],
+    "pros_b": [
+      "Fairytale walled old town",
+      "Romantic and compact",
+      "Rich colonial history"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "airbnb-vs-hotel",
+    "item_a": "Airbnb",
+    "item_b": "Hotel",
+    "category": "travel",
+    "question": "Airbnb or hotel: which is better?",
+    "search_query": "airbnb vs hotel",
+    "search_volume": 4800,
+    "summary": "Hotel for most short trips: no cleaning fees or checkout chores, consistent quality and a front desk when things go wrong; Airbnb wins for groups and long stays.",
+    "winner": "b",
+    "winner_reason": "For a typical couple or solo traveller on a trip of a few nights, hotels are simpler and often similarly priced once fees are counted. An Airbnb makes more sense for families, groups and longer stays where a kitchen, extra bedrooms and laundry really pay off.",
+    "dimensions": [
+      {
+        "name": "Cost",
+        "a": "Cleaning and service fees can make short stays pricey.",
+        "b": "Rates are often comparable for short stays, with fewer add-on surprises.",
+        "winner": "b"
+      },
+      {
+        "name": "Space",
+        "a": "Whole homes with kitchens and multiple bedrooms.",
+        "b": "Usually one room; suites cost extra.",
+        "winner": "a"
+      },
+      {
+        "name": "Consistency",
+        "a": "Quality varies a lot by host and listing.",
+        "b": "Standards are more predictable, especially at chains.",
+        "winner": "b"
+      },
+      {
+        "name": "Service",
+        "a": "Depends on the host's responsiveness.",
+        "b": "24-hour front desk, housekeeping and help on demand.",
+        "winner": "b"
+      },
+      {
+        "name": "Local feel",
+        "a": "Stay in real neighborhoods like a local.",
+        "b": "Often in tourist or business districts.",
+        "winner": "a"
+      },
+      {
+        "name": "Perks",
+        "a": "Kitchens, laundry and private outdoor space.",
+        "b": "Loyalty points, pools, gyms and daily cleaning.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "More space for groups",
+      "Kitchen and laundry",
+      "Neighborhood living"
+    ],
+    "pros_b": [
+      "No cleaning chores or fees",
+      "Consistent quality",
+      "Front desk help any time"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "bora-bora-vs-maldives",
+    "item_a": "Bora Bora",
+    "item_b": "Maldives",
+    "category": "travel",
+    "question": "Is Bora Bora or the Maldives better for a honeymoon?",
+    "search_query": "maldives vs bora bora",
+    "search_volume": 3800,
+    "summary": "The Maldives wins: far more resort choices at more price points and outstanding snorkeling, though Bora Bora's mountain backdrop is unforgettable.",
+    "winner": "b",
+    "winner_reason": "For a typical honeymoon, the Maldives offers more overwater villas, a wider range of budgets and superb reef life, and it's easier to reach from Europe, the Middle East and Asia. Bora Bora is worth it for its dramatic Mount Otemanu views, and can be easier from the US West Coast via Tahiti.",
+    "dimensions": [
+      {
+        "name": "Scenery",
+        "a": "A lush volcanic peak rising over a turquoise lagoon.",
+        "b": "Flat islands with endless blue; stunning but less dramatic.",
+        "winner": "a"
+      },
+      {
+        "name": "Resort choice",
+        "a": "A smaller collection of resorts.",
+        "b": "A huge range of resorts, from mid-range to ultra-luxury.",
+        "winner": "b"
+      },
+      {
+        "name": "Snorkeling",
+        "a": "Good lagoon snorkeling with rays and sharks.",
+        "b": "Exceptional house reefs and marine life at many resorts.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Generally very expensive across the board.",
+        "b": "Also pricey, but more options at different levels.",
+        "winner": "b"
+      },
+      {
+        "name": "Getting there",
+        "a": "Fly to Tahiti then a short hop; better for the US West Coast.",
+        "b": "Easier for Europe and Asia; long haul from the Americas.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Dramatic mountain backdrop",
+      "Iconic overwater bungalows",
+      "Polynesian culture"
+    ],
+    "pros_b": [
+      "Huge choice of resorts",
+      "World-class snorkeling and diving",
+      "More price points"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "california-vs-texas",
+    "item_a": "California",
+    "item_b": "Texas",
+    "category": "travel",
+    "question": "Is it better to live in California or Texas?",
+    "search_query": "texas vs california",
+    "search_volume": 3800,
+    "summary": "Texas wins for most movers: your paycheck stretches much further with cheaper homes and no state income tax, though California's weather and scenery are hard to give up.",
+    "winner": "b",
+    "winner_reason": "Judged as a place to live, since that's what most people searching mean. For a typical household, Texas's lower housing costs and lack of state income tax make daily life far more affordable. California wins on climate, coastline and nature, if your budget can carry it.",
+    "dimensions": [
+      {
+        "name": "Cost of living",
+        "a": "Among the most expensive states, especially for housing.",
+        "b": "Generally much more affordable, though big metros are rising.",
+        "winner": "b"
+      },
+      {
+        "name": "Taxes",
+        "a": "High state income tax for many earners.",
+        "b": "No state income tax, though property taxes can be high.",
+        "winner": "b"
+      },
+      {
+        "name": "Weather",
+        "a": "Mild, dry coastal climate in much of the state.",
+        "b": "Hot summers, plus storms and occasional freezes.",
+        "winner": "a"
+      },
+      {
+        "name": "Nature",
+        "a": "Beaches, mountains, deserts and redwoods.",
+        "b": "Hill Country and Gulf coast, but less dramatic variety.",
+        "winner": "a"
+      },
+      {
+        "name": "Jobs",
+        "a": "Huge tech, entertainment and agriculture sectors.",
+        "b": "Strong, growing economy in energy, tech and healthcare.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Beautiful mild weather",
+      "Incredible natural variety",
+      "Major job hubs"
+    ],
+    "pros_b": [
+      "Much more affordable housing",
+      "No state income tax",
+      "Growing job market"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "boston-vs-philadelphia",
+    "item_a": "Boston",
+    "item_b": "Philadelphia",
+    "category": "travel",
+    "question": "Should you visit Boston or Philadelphia?",
+    "search_query": "boston vs philadelphia",
+    "search_volume": 3800,
+    "summary": "Philadelphia edges it: the birthplace of the nation, a superb food scene and noticeably better value than Boston for the same history fix.",
+    "winner": "b",
+    "winner_reason": "For a typical history-minded visitor, Philadelphia offers Independence Hall, the Liberty Bell, great museums and a vibrant food scene, usually for less money. Boston is prettier and more walkable, with the Freedom Trail and harbor charm, but its hotels can be steep.",
+    "dimensions": [
+      {
+        "name": "History",
+        "a": "The Freedom Trail links Revolutionary sites beautifully.",
+        "b": "Independence Hall and the Liberty Bell; where the nation was founded.",
+        "winner": "b"
+      },
+      {
+        "name": "Food",
+        "a": "Seafood, chowder and the North End's Italian spots.",
+        "b": "Reading Terminal Market, cheesesteaks and a strong restaurant scene.",
+        "winner": "b"
+      },
+      {
+        "name": "Cost",
+        "a": "Hotels are among the priciest in the US.",
+        "b": "Usually much better value.",
+        "winner": "b"
+      },
+      {
+        "name": "Walkability",
+        "a": "Compact, charming and very walkable.",
+        "b": "Walkable center city, but more spread out.",
+        "winner": "a"
+      },
+      {
+        "name": "Museums",
+        "a": "Museum of Fine Arts and Isabella Stewart Gardner Museum.",
+        "b": "Philadelphia Museum of Art, the Barnes and more.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Freedom Trail walk",
+      "Charming harbor and neighborhoods",
+      "Very walkable"
+    ],
+    "pros_b": [
+      "Birthplace of the nation",
+      "Great food and markets",
+      "Better value hotels"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "yellowstone-vs-yosemite",
+    "item_a": "Yellowstone",
+    "item_b": "Yosemite",
+    "category": "travel",
+    "question": "Should you visit Yellowstone or Yosemite?",
+    "search_query": "yosemite vs yellowstone",
+    "search_volume": 3800,
+    "summary": "Yellowstone for a once-in-a-lifetime trip: geysers, hot springs and bison herds you can't see anywhere else, while Yosemite wins on granite grandeur and ease of access.",
+    "winner": "a",
+    "winner_reason": "For a typical bucket-list trip, Yellowstone's geothermal wonders and wildlife are truly unique. Yosemite is spectacular too, and easier to reach from San Francisco, so it's the better pick for a shorter trip or for hikers and climbers. Check each park's current entry rules before going.",
+    "dimensions": [
+      {
+        "name": "Uniqueness",
+        "a": "Old Faithful and Grand Prismatic Spring are one of a kind.",
+        "b": "Half Dome and El Capitan are iconic, but granite valleys exist elsewhere.",
+        "winner": "a"
+      },
+      {
+        "name": "Wildlife",
+        "a": "Bison, elk, wolves and bears; often seen from the road.",
+        "b": "Deer and black bears, but less wildlife spotting.",
+        "winner": "a"
+      },
+      {
+        "name": "Hiking",
+        "a": "Good hikes, but most visitors drive between sights.",
+        "b": "World-class hikes like Mist Trail and Half Dome.",
+        "winner": "b"
+      },
+      {
+        "name": "Access",
+        "a": "Remote; needs several days and a long drive or flight.",
+        "b": "A few hours' drive from the Bay Area.",
+        "winner": "b"
+      },
+      {
+        "name": "Scale",
+        "a": "Huge park with very varied regions.",
+        "b": "Yosemite Valley is compact and easy to explore.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Geysers and hot springs",
+      "Incredible wildlife viewing",
+      "Vast, varied landscapes"
+    ],
+    "pros_b": [
+      "Iconic granite cliffs",
+      "Superb waterfalls and hiking",
+      "Easy access from San Francisco"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "melbourne-vs-sydney",
+    "item_a": "Melbourne",
+    "item_b": "Sydney",
+    "category": "travel",
+    "question": "Should you visit Melbourne or Sydney?",
+    "search_query": "sydney vs melbourne",
+    "search_volume": 3800,
+    "summary": "Sydney for a first trip: the Opera House, Harbour Bridge and Bondi make it Australia's postcard, while Melbourne wins on coffee, laneways and food.",
+    "winner": "b",
+    "winner_reason": "For a typical first-time visitor to Australia, Sydney's harbour, beaches and icons are the essential experience. Melbourne is the better pick for food lovers, sports fans and culture seekers, and it's the gateway to the Great Ocean Road.",
+    "dimensions": [
+      {
+        "name": "Icons",
+        "a": "Laneways, street art and the MCG.",
+        "b": "Opera House and Harbour Bridge are world-famous.",
+        "winner": "b"
+      },
+      {
+        "name": "Beaches",
+        "a": "St Kilda is fun, but not a beach city.",
+        "b": "Bondi, Manly and many harbor beaches.",
+        "winner": "b"
+      },
+      {
+        "name": "Food & coffee",
+        "a": "A world-class café and dining culture.",
+        "b": "Great dining, but Melbourne edges it.",
+        "winner": "a"
+      },
+      {
+        "name": "Weather",
+        "a": "Famously changeable; four seasons in a day.",
+        "b": "Warmer and sunnier on average.",
+        "winner": "b"
+      },
+      {
+        "name": "Day trips",
+        "a": "Great Ocean Road, Yarra Valley wineries and Phillip Island.",
+        "b": "Blue Mountains and Hunter Valley wineries.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Outstanding coffee and food",
+      "Laneways and street art",
+      "Great Ocean Road access"
+    ],
+    "pros_b": [
+      "Iconic harbour sights",
+      "Famous beaches",
+      "Sunnier weather"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "london-vs-new-york",
+    "item_a": "London",
+    "item_b": "New York",
+    "category": "travel",
+    "question": "Should you visit London or New York?",
+    "search_query": "new york vs london",
+    "search_volume": 3200,
+    "summary": "London edges it: centuries of history, many world-class museums that are free to enter and easy day trips, while New York wins on raw energy and food.",
+    "winner": "a",
+    "winner_reason": "For a typical sightseer, London's layers of history, royal sites and free major museums like the British Museum give it the edge, plus quick trips to Oxford, Bath or Paris. New York is better for nonstop city buzz, late nights and an unmatched food scene.",
+    "dimensions": [
+      {
+        "name": "History",
+        "a": "Tower of London, Westminster Abbey and 2,000 years of layers.",
+        "b": "Rich, but comparatively recent history.",
+        "winner": "a"
+      },
+      {
+        "name": "Museums",
+        "a": "Many top museums, like the British Museum, are free.",
+        "b": "World-class, but most charge admission.",
+        "winner": "a"
+      },
+      {
+        "name": "Food",
+        "a": "Much improved, with great markets and global dining.",
+        "b": "Unmatched variety, from pizza and bagels to top restaurants.",
+        "winner": "b"
+      },
+      {
+        "name": "Energy",
+        "a": "Lively, but quieter late at night.",
+        "b": "Famously the city that never sleeps.",
+        "winner": "b"
+      },
+      {
+        "name": "Day trips",
+        "a": "Oxford, Bath, Stonehenge and even Paris by train.",
+        "b": "Hudson Valley and beaches, but fewer marquee trips.",
+        "winner": "a"
+      },
+      {
+        "name": "Theater",
+        "a": "The West End is world-class and often cheaper.",
+        "b": "Broadway is iconic.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Free world-class museums",
+      "Deep history everywhere",
+      "Easy day trips"
+    ],
+    "pros_b": [
+      "Unbeatable food variety",
+      "Nonstop energy",
+      "Iconic skyline"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "california-vs-florida",
+    "item_a": "California",
+    "item_b": "Florida",
+    "category": "travel",
+    "question": "Is it better to live in California or Florida?",
+    "search_query": "florida vs california",
+    "search_volume": 3200,
+    "summary": "Florida wins for most movers: no state income tax and cheaper homes, though rising insurance costs and hurricanes are real trade-offs against California's climate.",
+    "winner": "b",
+    "winner_reason": "Judged as a place to live. For a typical household, Florida's lower taxes and housing costs leave more money in your pocket. California wins on dry, mild weather and natural variety, but its cost of living is hard to justify unless your job or lifestyle depends on it.",
+    "dimensions": [
+      {
+        "name": "Cost of living",
+        "a": "Very expensive, especially housing in coastal metros.",
+        "b": "Generally cheaper, though insurance costs have risen sharply.",
+        "winner": "b"
+      },
+      {
+        "name": "Taxes",
+        "a": "High state income tax.",
+        "b": "No state income tax.",
+        "winner": "b"
+      },
+      {
+        "name": "Weather",
+        "a": "Mild and dry along much of the coast.",
+        "b": "Hot, humid summers with hurricane season.",
+        "winner": "a"
+      },
+      {
+        "name": "Nature",
+        "a": "Mountains, deserts, redwoods and coastline.",
+        "b": "Beaches, springs and the Everglades.",
+        "winner": "a"
+      },
+      {
+        "name": "Natural risks",
+        "a": "Earthquakes and wildfires.",
+        "b": "Hurricanes and flooding.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Mild, dry climate",
+      "Huge natural variety",
+      "Strong job markets"
+    ],
+    "pros_b": [
+      "No state income tax",
+      "Cheaper housing",
+      "Warm beaches year-round"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "charleston-vs-savannah",
+    "item_a": "Charleston",
+    "item_b": "Savannah",
+    "category": "travel",
+    "question": "Should you visit Charleston or Savannah?",
+    "search_query": "charleston vs savannah",
+    "search_volume": 3200,
+    "summary": "Charleston edges it: a stronger food scene, nearby beaches and more to do, though Savannah's mossy squares are pure Southern magic.",
+    "winner": "a",
+    "winner_reason": "For a typical long weekend, Charleston offers a celebrated restaurant scene, historic homes, plantations and beaches close by. Savannah is the better pick for a slower, more affordable and walkable escape with its famous squares and laid-back vibe.",
+    "dimensions": [
+      {
+        "name": "Food",
+        "a": "A nationally celebrated dining scene.",
+        "b": "Great Southern cooking, but a smaller scene.",
+        "winner": "a"
+      },
+      {
+        "name": "Charm",
+        "a": "Rainbow Row, the Battery and elegant historic streets.",
+        "b": "Oak-lined squares draped in Spanish moss.",
+        "winner": "b"
+      },
+      {
+        "name": "Beaches",
+        "a": "Folly Beach and Sullivan's Island nearby.",
+        "b": "Tybee Island is a short drive away.",
+        "winner": "a"
+      },
+      {
+        "name": "Cost",
+        "a": "Hotels can be pricey.",
+        "b": "Usually more affordable.",
+        "winner": "b"
+      },
+      {
+        "name": "Things to do",
+        "a": "Fort Sumter, plantations, beaches and shopping.",
+        "b": "Historic squares, ghost tours and riverfront strolls.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Top-tier food scene",
+      "Nearby beaches",
+      "Elegant historic district"
+    ],
+    "pros_b": [
+      "Iconic moss-draped squares",
+      "Better value",
+      "Laid-back walkability"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "hilton-vs-marriott",
+    "item_a": "Hilton",
+    "item_b": "Marriott",
+    "category": "travel",
+    "question": "Which is better, Hilton or Marriott?",
+    "search_query": "marriott vs hilton",
+    "search_volume": 3200,
+    "summary": "Marriott wins: the biggest hotel footprint and luxury portfolio on earth, while Hilton is simpler to earn status with and very consistent.",
+    "winner": "b",
+    "winner_reason": "For a typical traveller who wants options everywhere, Marriott's massive range of brands and locations is hard to beat, especially at the luxury end. Hilton is a great choice if you value consistency and easier elite status through co-branded cards.",
+    "dimensions": [
+      {
+        "name": "Footprint",
+        "a": "Huge global presence.",
+        "b": "The largest hotel company by number of properties.",
+        "winner": "b"
+      },
+      {
+        "name": "Luxury",
+        "a": "Waldorf Astoria and Conrad are strong.",
+        "b": "Ritz-Carlton, St. Regis, Edition and more.",
+        "winner": "b"
+      },
+      {
+        "name": "Loyalty",
+        "a": "Hilton Honors points are easy to earn, and status is easy via cards.",
+        "b": "Bonvoy is huge, with many ways to earn and redeem.",
+        "winner": "tie"
+      },
+      {
+        "name": "Consistency",
+        "a": "Hampton and Hilton Garden Inn are reliably consistent.",
+        "b": "More brands can mean more variability.",
+        "winner": "a"
+      },
+      {
+        "name": "Brands",
+        "a": "A clear, well-defined lineup.",
+        "b": "Dozens of brands covering every niche.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Consistent quality",
+      "Easy elite status via cards",
+      "Strong mid-range brands"
+    ],
+    "pros_b": [
+      "Largest global footprint",
+      "Top luxury portfolio",
+      "Brands for every budget"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "los-angeles-vs-san-diego",
+    "item_a": "Los Angeles",
+    "item_b": "San Diego",
+    "category": "travel",
+    "question": "Should you visit Los Angeles or San Diego?",
+    "search_query": "san diego vs los angeles",
+    "search_volume": 3200,
+    "summary": "San Diego for a relaxing trip: great beaches, perfect weather and easy-going neighborhoods, while LA is for Hollywood, culture and big-city energy.",
+    "winner": "b",
+    "winner_reason": "For a typical beach or family vacation, San Diego's mild weather, walkable beach towns, zoo and laid-back vibe make it easier and more relaxing. Los Angeles wins for entertainment, museums and nightlife, but traffic and sprawl take some planning.",
+    "dimensions": [
+      {
+        "name": "Beaches",
+        "a": "Santa Monica, Venice and Malibu are famous.",
+        "b": "La Jolla, Coronado and Pacific Beach are easier to enjoy.",
+        "winner": "b"
+      },
+      {
+        "name": "Things to do",
+        "a": "Hollywood, Universal Studios, the Getty and more.",
+        "b": "San Diego Zoo, Balboa Park and Old Town.",
+        "winner": "a"
+      },
+      {
+        "name": "Traffic",
+        "a": "Notorious traffic and sprawl.",
+        "b": "Easier to get around.",
+        "winner": "b"
+      },
+      {
+        "name": "Vibe",
+        "a": "Fast-paced and glamorous.",
+        "b": "Relaxed and family-friendly.",
+        "winner": "b"
+      },
+      {
+        "name": "Food",
+        "a": "Huge, diverse dining scene.",
+        "b": "Great fish tacos and craft beer.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Hollywood and entertainment",
+      "World-class museums",
+      "Diverse food scene"
+    ],
+    "pros_b": [
+      "Beautiful, relaxed beaches",
+      "Near-perfect weather",
+      "Family-friendly attractions"
+    ],
+    "as_of": "2026-11-04"
+  }
+]
