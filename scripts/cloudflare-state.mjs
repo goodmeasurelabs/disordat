@@ -61,7 +61,12 @@ async function main() {
       }
     }
     const sha = process.env.GITHUB_SHA
-    if (!sha || settings.annotations?.['workers/message'] !== `GitHub commit ${sha}`) {
+    const active = state.deployment.versions
+    if (active.length !== 1 || active[0].percentage !== 100) {
+      throw new Error('Expected a single Worker version serving all production traffic')
+    }
+    const version = await get(`versions/${encodeURIComponent(active[0].versionId)}`)
+    if (!sha || version.annotations?.['workers/message'] !== `GitHub commit ${sha}`) {
       throw new Error('Active Worker version does not identify the expected GitHub commit')
     }
     console.log(`Verified Worker source commit ${sha}; existing bindings preserved.`)
