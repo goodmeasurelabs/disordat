@@ -76,7 +76,14 @@ export interface TrendingItem {
   winner_label: string
 }
 
-export default function HomeClient({ trending = [] }: { trending?: TrendingItem[] }) {
+export default function HomeClient({
+  trending = [],
+  extra,
+}: {
+  trending?: TrendingItem[]
+  /** Server-rendered block (timed matchups + debate hubs) shown under Trending. */
+  extra?: React.ReactNode
+}) {
   const router = useRouter()
   const [dis, setDis] = useState('')
   const [dat, setDat] = useState('')
@@ -189,6 +196,16 @@ export default function HomeClient({ trending = [] }: { trending?: TrendingItem[
     }
   }
 
+  // "Disagree? Make your own verdict" links land here as /?dis=…&dat=…
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search)
+    const preDis = params.get('dis')
+    const preDat = params.get('dat')
+    if (preDis) setDis(preDis.slice(0, 200))
+    if (preDat) setDat(preDat.slice(0, 200))
+    if (preDis || preDat) trackToolUse('compare', 'prefill', 'remix')
+  }, [])
+
   const disabled =
     loading ||
     unfurlingDis ||
@@ -202,12 +219,12 @@ export default function HomeClient({ trending = [] }: { trending?: TrendingItem[
         {/* Hero */}
         <header className="text-center mb-10">
           <div className="inline-flex items-center gap-2 rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-emerald-700 mb-4">
-            decide with confidence
+            settle the debate
           </div>
           <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">disordat</h1>
           <p className="mt-4 text-lg md:text-xl text-slate-600 max-w-xl mx-auto leading-relaxed">
-            Can&rsquo;t decide between two things to buy or do? Get a real side-by-side with a winner —
-            and a link you can paste anywhere.
+            Type the two sides of any argument. Get a dated verdict with a winner and the reasons —
+            and a card you can drop in the group chat.
           </p>
         </header>
 
@@ -342,6 +359,8 @@ export default function HomeClient({ trending = [] }: { trending?: TrendingItem[
             </ul>
           </section>
         )}
+
+        {extra}
 
         {/* Why disordat */}
         <section className="mt-14 rounded-2xl border border-slate-200 bg-white/60 backdrop-blur-sm p-6 md:p-7">
