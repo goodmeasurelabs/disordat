@@ -31,7 +31,11 @@ const results = await Promise.all(paths.map(async ([label, path]) => {
     const result = data.result
     if (label === 'token-status' || label === 'account-token-status') { row.status = result.status; row.tokenId = result.id }
     if (label === 'reference-pages-project') row.project = { name: result.name, subdomain: result.subdomain }
-    if (label.endsWith('-settings')) row.bindings = (result.bindings ?? []).map(({ name, type }) => ({name,type}))
+    if (label.endsWith('-settings')) {
+      row.bindings = (result.bindings ?? []).map(({ name, type }) => ({name,type}))
+      row.compatibilityDate = result.compatibility_date
+      row.compatibilityFlags = result.compatibility_flags ?? []
+    }
     if (label.endsWith('-deployments')) row.active = (result.deployments ?? []).slice(0,1).map(({id,created_on,versions}) => ({id,createdOn:created_on,versions:versions.map(({version_id,percentage}) => ({versionId:version_id,percentage}))}))
     if (label === 'target-worker-versions') row.versionIds = (result.items ?? result ?? []).slice(0,3).map(({id}) => id)
     if (label === 'account-worker-list') {
