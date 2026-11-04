@@ -33,7 +33,7 @@ describe('markdown twins', () => {
   it('returns 200 text/markdown for every verdict in the sitemap', async () => {
     for (const u of await vsUrls()) {
       const slug = u.split('/vs/')[1]
-      const res = await markdown(new Request(`${u}.md`), { params: { slug } })
+      const res = await markdown(new Request(`${u}.md`), { params: Promise.resolve({ slug }) })
       expect(res.status, slug).toBe(200)
       expect(res.headers.get('content-type')).toContain('text/markdown')
       expect(res.headers.get('link')).toBe(`<${u}>; rel="canonical"`)
@@ -41,7 +41,7 @@ describe('markdown twins', () => {
   })
 
   it('404s for unknown slugs', async () => {
-    const res = await markdown(new Request('https://disordat.org/vs/a-vs-b.md'), { params: { slug: 'nope-vs-nothing' } })
+    const res = await markdown(new Request('https://disordat.org/vs/a-vs-b.md'), { params: Promise.resolve({ slug: 'nope-vs-nothing' }) })
     expect(res.status).toBe(404)
   })
 

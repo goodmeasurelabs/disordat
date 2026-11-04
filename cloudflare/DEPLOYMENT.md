@@ -11,3 +11,7 @@ For Workers, `wrangler.ci.jsonc` preserves runtime bindings and excludes custom-
 For Pages, Direct Upload preserves the current Pages project; no native Git connection is needed.
 
 Original hosting remains available for rollback. Bitcoin rollback uses its approved D1 relay, not the old independent Blobs backend.
+
+## November 2026 compatibility
+
+The migration is rebased onto the November 4 main content, including verdicts, hubs, markdown twins, votes, and share cards. OpenNext rejects Next.js 15 after its two-year support window; the build therefore uses Next.js 16.3.8, which is supported by the existing OpenNext 1.20.8 adapter, plus the patched React 19.1 release. Next.js 16 uses the ESLint CLI/flat config and a webpack build for OpenNext. Route parameters are awaited, and the existing product content is retained. The new React effect advisory remains a warning for existing browser synchronization behavior.
