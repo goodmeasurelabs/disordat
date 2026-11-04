@@ -11,6 +11,10 @@ const paths = [
   ['target-worker-versions', `/accounts/${account}/workers/scripts/gm-disordat/versions`],
   ['account-worker-list', `/accounts/${account}/workers/scripts`],
   ['target-worker-service', `/accounts/${account}/workers/services/gm-disordat`],
+  ['gm-paulskenes-settings', `/accounts/${account}/workers/scripts/gm-paulskenes/settings`],
+  ['gm-paulskenes-deployments', `/accounts/${account}/workers/scripts/gm-paulskenes/deployments`],
+  ['gm-aaronjudge-settings', `/accounts/${account}/workers/scripts/gm-aaronjudge/settings`],
+  ['gm-aaronjudge-deployments', `/accounts/${account}/workers/scripts/gm-aaronjudge/deployments`],
 ]
 const results = await Promise.all(paths.map(async ([label, path]) => {
   try {
@@ -25,10 +29,10 @@ const results = await Promise.all(paths.map(async ([label, path]) => {
       return row
     }
     const result = data.result
-    if (label === 'token-status' || label === 'account-token-status') row.status = result.status
+    if (label === 'token-status' || label === 'account-token-status') { row.status = result.status; row.tokenId = result.id }
     if (label === 'reference-pages-project') row.project = { name: result.name, subdomain: result.subdomain }
-    if (label === 'target-worker-settings') row.bindings = (result.bindings ?? []).map(({ name, type }) => ({name,type}))
-    if (label === 'target-worker-deployments') row.active = (result.deployments ?? []).slice(0,1).map(({id,created_on,versions}) => ({id,createdOn:created_on,versions:versions.map(({version_id,percentage}) => ({versionId:version_id,percentage}))}))
+    if (label.endsWith('-settings')) row.bindings = (result.bindings ?? []).map(({ name, type }) => ({name,type}))
+    if (label.endsWith('-deployments')) row.active = (result.deployments ?? []).slice(0,1).map(({id,created_on,versions}) => ({id,createdOn:created_on,versions:versions.map(({version_id,percentage}) => ({versionId:version_id,percentage}))}))
     if (label === 'target-worker-versions') row.versionIds = (result.items ?? result ?? []).slice(0,3).map(({id}) => id)
     if (label === 'account-worker-list') {
       const workers = Array.isArray(result) ? result : result.scripts ?? []
