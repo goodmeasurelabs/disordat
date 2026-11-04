@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "paul-skenes-vs-tarik-skubal",
+    "event": "MLB Cy Young week",
+    "event_date": "2026-11-11",
+    "date_confidence": "approximate",
+    "note": "BBWAA award announcements land mid-November; confirm the Cy Young night.",
+    "fan_site": { "name": "Paul Skenes fan site", "url": "https://paulskenes.com", "utm_source": "disordat" }
+  },
+  {
+    "slug": "aaron-judge-vs-juan-soto",
+    "event": "MLB MVP week",
+    "event_date": "2026-11-12",
+    "date_confidence": "approximate",
+    "note": "BBWAA MVP announcements land mid-November; confirm the night.",
+    "fan_site": { "name": "Aaron Judge fan site", "url": "https://aaronjudge.net", "utm_source": "disordat" }
+  },
+  {
+    "slug": "gta-6-vs-red-dead-redemption-2",
+    "event": "GTA 6 launch",
+    "event_date": "2026-11-19",
+    "date_confidence": "scheduled",
+    "note": "Rockstar's announced release date; it has slipped before. Re-judge after launch reviews."
+  },
+  {
+    "slug": "ham-vs-turkey",
+    "event": "Thanksgiving",
+    "event_date": "2026-11-26",
+    "date_confidence": "fixed"
+  },
+  {
+    "slug": "apple-pie-vs-pumpkin-pie",
+    "event": "Thanksgiving",
+    "event_date": "2026-11-26",
+    "date_confidence": "fixed"
+  },
+  {
+    "slug": "playstation-vs-xbox",
+    "event": "Black Friday console deals",
+    "event_date": "2026-11-27",
+    "date_confidence": "fixed"
+  },
+  {
+    "slug": "michigan-vs-ohio-state",
+    "event": "The Game: Michigan vs Ohio State",
+    "event_date": "2026-11-28",
+    "date_confidence": "approximate",
+    "note": "Traditionally the Saturday after Thanksgiving; confirm kickoff."
+  },
+  {
+    "slug": "army-vs-navy",
+    "event": "Army-Navy Game",
+    "event_date": "2026-12-12",
+    "date_confidence": "approximate",
+    "note": "Traditionally the second Saturday of December; confirm the date."
+  },
+  {
+    "slug": "elf-vs-home-alone",
+    "event": "Christmas movie night",
+    "event_date": "2026-12-19",
+    "date_confidence": "seasonal"
+  }
+]

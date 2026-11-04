@@ -1,0 +1,2336 @@
+[
+  {
+    "slug": "michigan-vs-ohio-state",
+    "item_a": "Michigan",
+    "item_b": "Ohio State",
+    "category": "goat",
+    "question": "Which is the better program, Michigan or Ohio State?",
+    "search_query": "michigan vs ohio state",
+    "search_volume": 270000,
+    "summary": "Michigan, by a winged helmet: college football's winningest program and the leader in the all-time series against the Buckeyes.",
+    "winner": "a",
+    "winner_reason": "This is the all-time program verdict, not a prediction for The Game. Michigan owns the most wins in college football history and leads the series, even if Ohio State has ruled long stretches of the modern era.",
+    "dimensions": [
+      {
+        "name": "All-time wins",
+        "a": "The winningest program in major college football history.",
+        "b": "Among the top handful of all-time winners, but still chasing Michigan.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Leads the all-time series in The Game, built largely on the early decades.",
+        "b": "Dominated from 2001 to 2019 and has closed the gap, but still trails overall.",
+        "winner": "a"
+      },
+      {
+        "name": "National titles",
+        "a": "Claims more national titles, including the undefeated 2023 CFP championship.",
+        "b": "Several claimed titles, including the 2014 and 2024 CFP championships.",
+        "winner": "a"
+      },
+      {
+        "name": "Heisman Trophies",
+        "a": "Three Heisman winners, including Charles Woodson.",
+        "b": "More Heisman winners, including Archie Griffin, the only two-time winner.",
+        "winner": "b"
+      },
+      {
+        "name": "Modern era",
+        "a": "Won four straight in The Game from 2021 to 2024 under Jim Harbaugh.",
+        "b": "The more consistent national contender since the 2000s, with deeper NFL pipelines.",
+        "winner": "b"
+      },
+      {
+        "name": "Stadium",
+        "a": "The Big House, the largest stadium in America, routinely tops 100,000.",
+        "b": "Ohio Stadium, the Horseshoe, is a massive and famously loud cathedral.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Most wins in college football history",
+      "Leads the all-time series",
+      "The Big House is the biggest stage in the sport"
+    ],
+    "pros_b": [
+      "More Heisman winners, including Archie Griffin twice",
+      "Dominant modern-era consistency",
+      "2024 CFP national champions"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "army-vs-navy",
+    "item_a": "Army",
+    "item_b": "Navy",
+    "category": "goat",
+    "question": "Which is the better football program, Army or Navy?",
+    "search_query": "army vs navy",
+    "search_volume": 220000,
+    "summary": "Navy, narrowly: the Midshipmen lead the all-time series, though Army owns the bigger national-title history.",
+    "winner": "b",
+    "winner_reason": "This is the all-time verdict on the rivalry, not a game prediction. Navy leads the head-to-head series and ran off 14 straight wins from 2002 to 2015; Army's 1940s dynasty keeps it very close.",
+    "dimensions": [
+      {
+        "name": "Head-to-head",
+        "a": "Has had strong runs of its own, but trails the all-time series.",
+        "b": "Leads the all-time series, helped by 14 straight wins from 2002 to 2015.",
+        "winner": "b"
+      },
+      {
+        "name": "National titles",
+        "a": "Claims national titles from its 1944-46 juggernaut under Earl Blaik.",
+        "b": "Claims a 1926 national title, a smaller haul than Army's.",
+        "winner": "a"
+      },
+      {
+        "name": "Heisman winners",
+        "a": "Three: Doc Blanchard, Glenn Davis and Pete Dawkins.",
+        "b": "Two: Joe Bellino and Roger Staubach.",
+        "winner": "a"
+      },
+      {
+        "name": "Famous alumni",
+        "a": "Mr. Inside and Mr. Outside defined an era of the sport.",
+        "b": "Roger Staubach went on to Hall of Fame stardom with the Cowboys.",
+        "winner": "b"
+      },
+      {
+        "name": "Modern era",
+        "a": "Rebuilt into a strong option team with standout recent seasons.",
+        "b": "Was the steadier program through much of the 2000s and 2010s.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "The 1940s dynasty with Blanchard and Davis",
+      "Three Heisman winners",
+      "A modern revival on the option"
+    ],
+    "pros_b": [
+      "Leads the all-time series",
+      "14-game win streak from 2002 to 2015",
+      "Roger Staubach's alma mater"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "paul-skenes-vs-tarik-skubal",
+    "item_a": "Paul Skenes",
+    "item_b": "Tarik Skubal",
+    "category": "goat",
+    "question": "Who is the better pitcher, Paul Skenes or Tarik Skubal?",
+    "search_query": "skubal vs skenes",
+    "search_volume": 180,
+    "summary": "Skubal, for now: two Cy Youngs through 2025 beat one, but Skenes is closing faster than his fastball.",
+    "winner": "b",
+    "winner_reason": "Through 2025, Skubal has back-to-back AL Cy Young awards (2024, 2025) and a pitching Triple Crown. Skenes won the 2025 NL Cy Young after a Rookie of the Year debut, and the gap could flip soon.",
+    "dimensions": [
+      {
+        "name": "Cy Youngs",
+        "a": "One: the 2025 NL Cy Young, in only his second season.",
+        "b": "Two: back-to-back AL Cy Youngs in 2024 and 2025.",
+        "winner": "b"
+      },
+      {
+        "name": "Run prevention",
+        "a": "Posted a sub-2.00 ERA in 2025, as stingy as anyone in baseball.",
+        "b": "Elite ERAs in both award seasons, plus a 2024 pitching Triple Crown.",
+        "winner": "tie"
+      },
+      {
+        "name": "Stuff",
+        "a": "Triple-digit heat plus the 'splinker,' a pitch hitters still can't solve.",
+        "b": "Upper-90s lefty heat with a wicked changeup and pinpoint command.",
+        "winner": "a"
+      },
+      {
+        "name": "Track record",
+        "a": "Two big-league seasons: Rookie of the Year, then a Cy Young.",
+        "b": "Multiple seasons of ace work after injury-hit early years.",
+        "winner": "b"
+      },
+      {
+        "name": "Upside",
+        "a": "Younger, with a ceiling that looks like a generational ace.",
+        "b": "In his prime now, with less runway left than Skenes.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "2024 NL Rookie of the Year",
+      "2025 NL Cy Young",
+      "Generational stuff at a young age"
+    ],
+    "pros_b": [
+      "Back-to-back AL Cy Youngs (2024, 2025)",
+      "2024 pitching Triple Crown",
+      "The best left-hander in baseball"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "aaron-judge-vs-juan-soto",
+    "item_a": "Aaron Judge",
+    "item_b": "Juan Soto",
+    "category": "goat",
+    "question": "Who is the better hitter, Aaron Judge or Juan Soto?",
+    "search_query": "juan soto vs aaron judge",
+    "search_volume": 120,
+    "summary": "Judge: Soto has the best eye in baseball, but Judge's MVP seasons hit a ceiling nobody else in this era reaches.",
+    "winner": "a",
+    "winner_reason": "Judge has multiple AL MVPs and the AL single-season record of 62 homers, with peak seasons that rank among the best ever. Soto is younger, sturdier and has a ring, but Judge is the better hitter at their best.",
+    "dimensions": [
+      {
+        "name": "Peak",
+        "a": "62 homers in 2022 and multiple MVP seasons with historic OPS marks.",
+        "b": "Monster seasons, but none quite reach Judge's best years.",
+        "winner": "a"
+      },
+      {
+        "name": "Plate discipline",
+        "a": "Walks a ton and has cut his strikeouts, but still swings and misses.",
+        "b": "The best eye in baseball, a walk machine since he was a teenager.",
+        "winner": "b"
+      },
+      {
+        "name": "Power",
+        "a": "The most fearsome power hitter of his generation.",
+        "b": "Plus power, but more line drives than moonshots.",
+        "winner": "a"
+      },
+      {
+        "name": "Awards",
+        "a": "Multiple AL MVPs, plus the AL home run record.",
+        "b": "2020 batting title and several top-five MVP finishes, but no MVP yet.",
+        "winner": "a"
+      },
+      {
+        "name": "Ring",
+        "a": "Still chasing a title; reached the 2024 World Series.",
+        "b": "Won the 2019 World Series with Washington at age 20.",
+        "winner": "b"
+      },
+      {
+        "name": "Age & durability",
+        "a": "Older, with some injury-shortened seasons earlier in his career.",
+        "b": "Younger and durable, signed with the Mets after 2024 on a record deal.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "AL record 62 homers in 2022",
+      "Multiple MVP awards",
+      "Highest peak of any hitter in his era"
+    ],
+    "pros_b": [
+      "Elite plate discipline",
+      "2019 World Series champion",
+      "Younger and remarkably durable"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "bears-vs-packers",
+    "item_a": "Bears",
+    "item_b": "Packers",
+    "category": "goat",
+    "question": "Which is the better franchise, the Bears or the Packers?",
+    "search_query": "packers vs bears",
+    "search_volume": 6700000,
+    "summary": "The Packers: more championships, the all-time series lead, and Lambeau Field. The oldest rivalry in the NFL goes green and gold.",
+    "winner": "b",
+    "winner_reason": "This is the all-time franchise verdict, not a game prediction. Green Bay has 13 NFL championships to Chicago's 9 and overtook the Bears in the all-time series behind decades of Favre and Rodgers.",
+    "dimensions": [
+      {
+        "name": "Championships",
+        "a": "Nine NFL titles, including Super Bowl XX.",
+        "b": "Thirteen NFL titles, the most in league history, with four Super Bowls.",
+        "winner": "b"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Led the series for most of a century.",
+        "b": "Took the all-time series lead and has dominated recent decades.",
+        "winner": "b"
+      },
+      {
+        "name": "Quarterbacks",
+        "a": "Rarely had a franchise passer; famously searching for decades.",
+        "b": "Starr, Favre, Rodgers and Love: an unmatched QB lineage.",
+        "winner": "b"
+      },
+      {
+        "name": "Legends",
+        "a": "Halas, Butkus, Payton and Sayers, plus the 1985 defense.",
+        "b": "Lombardi, Starr, Nitschke, Favre, White and Rodgers.",
+        "winner": "tie"
+      },
+      {
+        "name": "Fans & stadium",
+        "a": "Soldier Field and a huge big-city fan base.",
+        "b": "Lambeau Field and the league's only community-owned team.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Founding franchise with George Halas",
+      "The 1985 Bears defense",
+      "Walter Payton and Dick Butkus"
+    ],
+    "pros_b": [
+      "13 NFL championships, most in league history",
+      "Leads the all-time series",
+      "Lambeau Field and fan ownership"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "cowboys-vs-eagles",
+    "item_a": "Cowboys",
+    "item_b": "Eagles",
+    "category": "goat",
+    "question": "Which is the better franchise, the Cowboys or the Eagles?",
+    "search_query": "cowboys vs eagles",
+    "search_volume": 1646000,
+    "summary": "The Cowboys, all-time: five Super Bowls and the series lead, though the Eagles have owned the recent era.",
+    "winner": "a",
+    "winner_reason": "This is the all-time franchise verdict, not a game prediction. Dallas has five Super Bowl titles and leads the head-to-head series, while Philadelphia's two Super Bowls are more recent and its current run is stronger.",
+    "dimensions": [
+      {
+        "name": "Super Bowls",
+        "a": "Five Super Bowl titles and eight appearances.",
+        "b": "Two Super Bowl titles (2017 and 2024 seasons), plus three pre-Super Bowl NFL titles.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Leads the all-time series.",
+        "b": "Has won plenty, especially lately, but trails overall.",
+        "winner": "a"
+      },
+      {
+        "name": "Recent era",
+        "a": "No conference title game appearance since the 1995 season.",
+        "b": "Multiple Super Bowl trips in recent years and a title in the 2024 season.",
+        "winner": "b"
+      },
+      {
+        "name": "Legends",
+        "a": "Staubach, Aikman, Emmitt, Irvin and Landry.",
+        "b": "Bednarik, White, Dawkins and McNabb.",
+        "winner": "a"
+      },
+      {
+        "name": "Fan base",
+        "a": "'America's Team,' the most valuable franchise in sports.",
+        "b": "Famously passionate, loud and loyal.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Five Super Bowl titles",
+      "Leads the all-time series",
+      "America's Team with a national fan base"
+    ],
+    "pros_b": [
+      "Super Bowl champions for the 2024 season",
+      "Stronger recent-era roster",
+      "Among the most passionate fans in sports"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "barcelona-vs-real-madrid",
+    "item_a": "Barcelona",
+    "item_b": "Real Madrid",
+    "category": "goat",
+    "question": "Which is the better club, Barcelona or Real Madrid?",
+    "search_query": "real madrid vs barcelona",
+    "search_volume": 1346000,
+    "summary": "Real Madrid: 15 European Cups is a trophy cabinet nobody can argue with, not even Barça's beautiful football.",
+    "winner": "b",
+    "winner_reason": "This is the all-time club verdict, not a Clásico prediction. Real Madrid has 15 European Cups, the most in history, and more La Liga titles; Barcelona's style and its Messi era are the strongest counterargument.",
+    "dimensions": [
+      {
+        "name": "European Cups",
+        "a": "Five Champions League titles, three of them in the Messi era.",
+        "b": "15 European Cups, the most of any club by a wide margin.",
+        "winner": "b"
+      },
+      {
+        "name": "La Liga titles",
+        "a": "A big haul, including the 2024-25 title.",
+        "b": "More league titles than any other Spanish club.",
+        "winner": "b"
+      },
+      {
+        "name": "El Clásico",
+        "a": "Dominated the Messi years and swept the 2024-25 Clásicos.",
+        "b": "Holds the narrowest of edges in the all-time competitive head-to-head.",
+        "winner": "tie"
+      },
+      {
+        "name": "Style & academy",
+        "a": "Cruyff, tiki-taka and La Masia changed how football is played.",
+        "b": "Galácticos and clutch European nights; star power over philosophy.",
+        "winner": "a"
+      },
+      {
+        "name": "Icons",
+        "a": "Messi, Cruyff, Xavi, Iniesta and now Lamine Yamal.",
+        "b": "Di Stéfano, Cristiano Ronaldo, Zidane, Modrić and Raúl.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "La Masia and the tiki-taka legacy",
+      "Lionel Messi's entire prime",
+      "Five Champions League titles"
+    ],
+    "pros_b": [
+      "15 European Cups",
+      "Most La Liga titles",
+      "Unmatched big-night pedigree in Europe"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "red-sox-vs-yankees",
+    "item_a": "Red Sox",
+    "item_b": "Yankees",
+    "category": "goat",
+    "question": "Which is the better franchise, the Red Sox or the Yankees?",
+    "search_query": "yankees vs red sox",
+    "search_volume": 900000,
+    "summary": "The Yankees: 27 World Series titles to 9 ends most arguments, even if 2004 still stings in the Bronx.",
+    "winner": "b",
+    "winner_reason": "This is the all-time franchise verdict, not a game prediction. New York has 27 championships, the most in North American sports, and leads the head-to-head; Boston's four titles since 2004 are a great comeback story.",
+    "dimensions": [
+      {
+        "name": "World Series",
+        "a": "Nine titles, four of them since 2004.",
+        "b": "27 titles, the most in North American pro sports.",
+        "winner": "b"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Has had big stretches, but trails all-time.",
+        "b": "Leads the all-time series by a comfortable margin.",
+        "winner": "b"
+      },
+      {
+        "name": "Since 2000",
+        "a": "Titles in 2004, 2007, 2013 and 2018; outpaced New York this century.",
+        "b": "One title (2009) since 2000, despite constant contention.",
+        "winner": "a"
+      },
+      {
+        "name": "Legends",
+        "a": "Ted Williams, Yaz, Pedro and Big Papi.",
+        "b": "Ruth, Gehrig, DiMaggio, Mantle and Jeter.",
+        "winner": "b"
+      },
+      {
+        "name": "Ballpark",
+        "a": "Fenway Park, the oldest in MLB, opened in 1912.",
+        "b": "Yankee Stadium, the modern home of the game's biggest brand.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "The 2004 ALCS comeback from 0-3",
+      "Four titles since 2004",
+      "Fenway Park, MLB's oldest ballpark"
+    ],
+    "pros_b": [
+      "27 World Series titles",
+      "Leads the all-time rivalry",
+      "Ruth, Mantle, DiMaggio and Jeter"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "bills-vs-chiefs",
+    "item_a": "Bills",
+    "item_b": "Chiefs",
+    "category": "goat",
+    "question": "Which is the better franchise, the Bills or the Chiefs?",
+    "search_query": "chiefs vs bills",
+    "search_volume": 900000,
+    "summary": "The Chiefs: four Super Bowl rings and a habit of ending Buffalo's season in January.",
+    "winner": "b",
+    "winner_reason": "This is the all-time franchise verdict, not a game prediction. Kansas City has four Super Bowl titles and won all four playoff meetings with Buffalo in the Allen-Mahomes era; the Bills are still chasing their first.",
+    "dimensions": [
+      {
+        "name": "Super Bowls",
+        "a": "None, after four straight Super Bowl losses in the early 1990s.",
+        "b": "Four Super Bowl titles, three in the Mahomes era.",
+        "winner": "b"
+      },
+      {
+        "name": "Playoff head-to-head",
+        "a": "Won the 1993 AFC title game, but lost every Allen-era playoff meeting.",
+        "b": "Has beaten Buffalo in four January games since the 2020 season.",
+        "winner": "b"
+      },
+      {
+        "name": "AFL era",
+        "a": "Back-to-back AFL titles in 1964 and 1965.",
+        "b": "Three AFL titles and Super Bowl IV.",
+        "winner": "b"
+      },
+      {
+        "name": "Star QB",
+        "a": "Josh Allen, an MVP-level force and a joy to watch.",
+        "b": "Patrick Mahomes, the defining quarterback of his generation.",
+        "winner": "b"
+      },
+      {
+        "name": "Fan base",
+        "a": "Bills Mafia: legendary loyalty through decades of heartbreak.",
+        "b": "Arrowhead, one of the loudest stadiums on Earth.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Bills Mafia's unmatched loyalty",
+      "Josh Allen's MVP-level talent",
+      "Back-to-back AFL titles in the 1960s"
+    ],
+    "pros_b": [
+      "Four Super Bowl titles",
+      "Dominant playoff record vs Buffalo",
+      "Patrick Mahomes and Andy Reid"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dodgers-vs-yankees",
+    "item_a": "Dodgers",
+    "item_b": "Yankees",
+    "category": "goat",
+    "question": "Which is the better franchise, the Dodgers or the Yankees?",
+    "search_query": "yankees vs dodgers",
+    "search_volume": 602000,
+    "summary": "The Yankees, all-time: 27 rings is still the gold standard, but the Dodgers are the better team of this decade.",
+    "winner": "b",
+    "winner_reason": "This is the all-time franchise verdict, not a game prediction. The Yankees have 27 titles and won 8 of 12 World Series meetings with the Dodgers; Los Angeles beat them in the 2024 Fall Classic and is the modern powerhouse.",
+    "dimensions": [
+      {
+        "name": "World Series",
+        "a": "Nine titles through 2025, including back-to-back in 2024 and 2025.",
+        "b": "27 titles, the most in North American pro sports.",
+        "winner": "b"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Won 4 of 12 World Series meetings, including 1955 and 2024.",
+        "b": "Won 8 of 12 World Series meetings.",
+        "winner": "b"
+      },
+      {
+        "name": "Recent era",
+        "a": "A model franchise: perennial division champs and multiple recent titles.",
+        "b": "Always contending, but just one title since 2000.",
+        "winner": "a"
+      },
+      {
+        "name": "Legacy",
+        "a": "Jackie Robinson, Koufax and Vin Scully shaped baseball history.",
+        "b": "Ruth, Gehrig, DiMaggio, Mantle and Jeter.",
+        "winner": "b"
+      },
+      {
+        "name": "Star power",
+        "a": "Shohei Ohtani, Mookie Betts and Freddie Freeman.",
+        "b": "Aaron Judge, one of the great sluggers of the era.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Back-to-back champions in 2024 and 2025",
+      "Jackie Robinson's franchise",
+      "Ohtani-era star power"
+    ],
+    "pros_b": [
+      "27 World Series titles",
+      "Won 8 of 12 Fall Classic meetings",
+      "The most famous brand in baseball"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "dodgers-vs-giants",
+    "item_a": "Dodgers",
+    "item_b": "Giants",
+    "category": "goat",
+    "question": "Which is the better franchise, the Dodgers or the Giants?",
+    "search_query": "dodgers vs giants",
+    "search_volume": 602000,
+    "summary": "The Dodgers: more pennants, more titles and a modern dynasty, though the Giants' even-year magic was real.",
+    "winner": "a",
+    "winner_reason": "This is the all-time franchise verdict, not a game prediction. The all-time series is close, but the Dodgers have more pennants, nine titles through 2025 and the stronger modern era; the Giants answer with Mays, Bonds and three titles in five years.",
+    "dimensions": [
+      {
+        "name": "World Series",
+        "a": "Nine titles through 2025, including 2020, 2024 and 2025.",
+        "b": "Eight titles, including 2010, 2012 and 2014.",
+        "winner": "a"
+      },
+      {
+        "name": "Pennants",
+        "a": "More National League pennants than any other franchise.",
+        "b": "A long list of pennants dating to the New York days.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "The all-time series is remarkably close after 2,500-plus games.",
+        "b": "The all-time series is remarkably close, a true coin flip.",
+        "winner": "tie"
+      },
+      {
+        "name": "Recent era",
+        "a": "A perennial NL West juggernaut with back-to-back titles.",
+        "b": "Three titles from 2010 to 2014, quieter since.",
+        "winner": "a"
+      },
+      {
+        "name": "Legends",
+        "a": "Robinson, Koufax, Kershaw and Ohtani.",
+        "b": "Mays, McCovey, Bonds and Bumgarner.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Back-to-back titles in 2024 and 2025",
+      "Most NL pennants",
+      "Koufax, Robinson and Kershaw"
+    ],
+    "pros_b": [
+      "Three titles in five years (2010-14)",
+      "Willie Mays and Barry Bonds",
+      "Oracle Park and McCovey Cove"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "floyd-mayweather-vs-manny-pacquiao",
+    "item_a": "Floyd Mayweather",
+    "item_b": "Manny Pacquiao",
+    "category": "goat",
+    "question": "Who is the better boxer, Mayweather or Pacquiao?",
+    "search_query": "mayweather vs pacquiao",
+    "search_volume": 66200,
+    "summary": "Mayweather: he went 50-0 and beat Pacquiao when it finally happened. Manny's eight-division run is the better story, not the better record.",
+    "winner": "a",
+    "winner_reason": "Mayweather retired 50-0 and won their 2015 superfight by unanimous decision. Pacquiao's eight-division titles are historic, but Floyd never lost and solved every style put in front of him.",
+    "dimensions": [
+      {
+        "name": "Record",
+        "a": "Retired undefeated at 50-0.",
+        "b": "A long, brilliant record with some losses along the way.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Won their May 2015 megafight by unanimous decision.",
+        "b": "Lost the 2015 fight, fighting with a shoulder injury.",
+        "winner": "a"
+      },
+      {
+        "name": "Range",
+        "a": "World titles across five weight classes.",
+        "b": "World titles in eight divisions, a unique achievement.",
+        "winner": "b"
+      },
+      {
+        "name": "Defense",
+        "a": "Perhaps the finest defensive boxer ever, the shoulder roll made famous.",
+        "b": "Constant motion and angles, but more hittable.",
+        "winner": "a"
+      },
+      {
+        "name": "Excitement",
+        "a": "Brilliant but often cautious; the business side was elite.",
+        "b": "Explosive, relentless and beloved for it.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Undefeated at 50-0",
+      "Beat Pacquiao head-to-head",
+      "Elite defensive genius"
+    ],
+    "pros_b": [
+      "Eight-division world champion",
+      "Thrilling, aggressive style",
+      "Fought on into his 40s"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "carlos-alcaraz-vs-jannik-sinner",
+    "item_a": "Carlos Alcaraz",
+    "item_b": "Jannik Sinner",
+    "category": "goat",
+    "question": "Who is better, Carlos Alcaraz or Jannik Sinner?",
+    "search_query": "sinner vs alcaraz",
+    "search_volume": 18000,
+    "summary": "Alcaraz, narrowly: more majors and the edge in their head-to-head through 2025, but this rivalry is a true coin flip.",
+    "winner": "a",
+    "winner_reason": "Through 2025, Alcaraz has six Grand Slams to Sinner's four, has won on every surface, and leads their head-to-head. Sinner is the steadier week-to-week player and the better indoor hard-courter.",
+    "dimensions": [
+      {
+        "name": "Grand Slams",
+        "a": "Six through 2025, on clay, grass and hard courts.",
+        "b": "Four through 2025: two Australian Opens, a US Open and Wimbledon.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Leads, including the epic 2025 French Open final.",
+        "b": "Won the 2025 Wimbledon final, but trails overall.",
+        "winner": "a"
+      },
+      {
+        "name": "Surface range",
+        "a": "Champion at Roland Garros, Wimbledon and the US Open.",
+        "b": "Strongest on hard courts, now a Wimbledon champion too.",
+        "winner": "a"
+      },
+      {
+        "name": "Consistency",
+        "a": "Higher highs, occasional flat days.",
+        "b": "Relentless baseline consistency and fewer bad losses.",
+        "winner": "b"
+      },
+      {
+        "name": "Indoor",
+        "a": "Still chasing the ATP Finals title.",
+        "b": "Back-to-back ATP Finals champion in 2024 and 2025.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "More Grand Slams through 2025",
+      "Major titles on all three surfaces",
+      "Leads the head-to-head"
+    ],
+    "pros_b": [
+      "Metronomic baseline consistency",
+      "Back-to-back ATP Finals titles",
+      "Elite on hard courts"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "kobe-bryant-vs-lebron-james",
+    "item_a": "Kobe Bryant",
+    "item_b": "LeBron James",
+    "category": "goat",
+    "question": "Who is better, Kobe or LeBron?",
+    "search_query": "kobe vs lebron",
+    "search_volume": 7200,
+    "summary": "LeBron: Kobe had the cooler aura, but LeBron's four MVPs and all-time scoring record make it a clear call.",
+    "winner": "b",
+    "winner_reason": "LeBron has four MVPs to Kobe's one, four Finals MVPs to Kobe's two, and passed Kareem as the NBA's all-time leading scorer. Kobe has five rings and the Mamba Mentality, but LeBron's résumé is bigger.",
+    "dimensions": [
+      {
+        "name": "Rings",
+        "a": "Five titles with the Lakers.",
+        "b": "Four titles across three franchises.",
+        "winner": "a"
+      },
+      {
+        "name": "MVPs",
+        "a": "One regular-season MVP (2008) and two Finals MVPs.",
+        "b": "Four regular-season MVPs and four Finals MVPs.",
+        "winner": "b"
+      },
+      {
+        "name": "Scoring",
+        "a": "81 points in a game, two scoring titles and a killer midrange game.",
+        "b": "The NBA's all-time leading scorer.",
+        "winner": "b"
+      },
+      {
+        "name": "All-around",
+        "a": "Elite scorer and stopper, with many All-Defensive nods.",
+        "b": "Passing, rebounding and scoring at an elite level at once.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Twenty seasons, all with the Lakers.",
+        "b": "Over 20 seasons, still elite deep into his late 30s.",
+        "winner": "b"
+      },
+      {
+        "name": "Cultural impact",
+        "a": "The Mamba Mentality inspired a generation of players.",
+        "b": "A global icon and business empire beyond basketball.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Five championships",
+      "81-point game",
+      "Mamba Mentality legacy"
+    ],
+    "pros_b": [
+      "All-time leading scorer",
+      "Four MVPs and four Finals MVPs",
+      "Unmatched longevity"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "lionel-messi-vs-pele",
+    "item_a": "Lionel Messi",
+    "item_b": "Pelé",
+    "category": "goat",
+    "question": "Who is the GOAT, Messi or Pelé?",
+    "search_query": "messi vs pele",
+    "search_volume": 4800,
+    "summary": "Messi: eight Ballon d'Ors, a World Cup, and two decades of dominance against the deepest competition the sport has seen.",
+    "winner": "a",
+    "winner_reason": "Pelé won three World Cups and defined the game for a generation. Messi's eight Ballon d'Ors, four Champions Leagues and 2022 World Cup came against modern elite opposition, which tips it his way.",
+    "dimensions": [
+      {
+        "name": "World Cups",
+        "a": "One, in 2022, where he was named the best player of the tournament.",
+        "b": "Three: 1958, 1962 and 1970, still the record for a player.",
+        "winner": "b"
+      },
+      {
+        "name": "Individual awards",
+        "a": "Eight Ballon d'Or awards, the most ever.",
+        "b": "Played before non-Europeans could win the Ballon d'Or.",
+        "winner": "a"
+      },
+      {
+        "name": "Club success",
+        "a": "Four Champions Leagues and a mountain of La Liga titles.",
+        "b": "Dominant with Santos, but never tested in Europe.",
+        "winner": "a"
+      },
+      {
+        "name": "Competition",
+        "a": "Thrived in the deepest, most scouted era of football.",
+        "b": "Faced rough treatment but thinner, less athletic fields.",
+        "winner": "a"
+      },
+      {
+        "name": "Cultural impact",
+        "a": "A modern global icon for two decades.",
+        "b": "Football's first global superstar.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Eight Ballon d'Ors",
+      "2022 World Cup champion",
+      "Four Champions League titles"
+    ],
+    "pros_b": [
+      "Three World Cups",
+      "Football's first global superstar",
+      "Teen sensation at the 1958 World Cup"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "rafael-nadal-vs-roger-federer",
+    "item_a": "Rafael Nadal",
+    "item_b": "Roger Federer",
+    "category": "goat",
+    "question": "Who is the better tennis player, Nadal or Federer?",
+    "search_query": "federer vs nadal",
+    "search_volume": 4800,
+    "summary": "Nadal: 22 majors to 20 and a winning head-to-head. Federer was prettier; Rafa usually won.",
+    "winner": "a",
+    "winner_reason": "Nadal finished with 22 Grand Slams to Federer's 20 and a 24-16 head-to-head edge, including 14 French Opens. Federer had the longer reign at No. 1 and owned grass, but Nadal wins the debate.",
+    "dimensions": [
+      {
+        "name": "Grand Slams",
+        "a": "22, including a record 14 French Opens.",
+        "b": "20, including 8 Wimbledons.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Leads 24-16, and won most of their major finals.",
+        "b": "Won late-career meetings, but trails overall.",
+        "winner": "a"
+      },
+      {
+        "name": "Weeks at No.1",
+        "a": "209 weeks at No. 1.",
+        "b": "310 weeks, including 237 in a row.",
+        "winner": "b"
+      },
+      {
+        "name": "Surface dominance",
+        "a": "The greatest clay-courter ever, also won on grass and hard courts.",
+        "b": "Grass and fast-court maestro, with a 2009 French Open too.",
+        "winner": "a"
+      },
+      {
+        "name": "Olympics",
+        "a": "Singles gold in 2008 and doubles gold in 2016.",
+        "b": "Doubles gold in 2008, but no singles gold.",
+        "winner": "a"
+      },
+      {
+        "name": "Style",
+        "a": "Ferocious topspin and unbeatable fight.",
+        "b": "The most graceful player of all time.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "22 Grand Slams",
+      "14 French Open titles",
+      "Leads the head-to-head 24-16"
+    ],
+    "pros_b": [
+      "237 straight weeks at No. 1",
+      "Eight Wimbledon titles",
+      "The most elegant game ever"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "larry-bird-vs-magic-johnson",
+    "item_a": "Larry Bird",
+    "item_b": "Magic Johnson",
+    "category": "goat",
+    "question": "Who is better, Larry Bird or Magic Johnson?",
+    "search_query": "magic johnson vs larry bird",
+    "search_volume": 3200,
+    "summary": "Magic: five rings to three and a 2-1 edge in their Finals meetings settle a rivalry that saved the NBA.",
+    "winner": "b",
+    "winner_reason": "Both won three MVPs, but Magic won five titles to Bird's three and took two of their three Finals showdowns. Bird was the better shooter; Magic was the more dominant winner.",
+    "dimensions": [
+      {
+        "name": "Championships",
+        "a": "Three titles with the Celtics.",
+        "b": "Five titles with the Showtime Lakers.",
+        "winner": "b"
+      },
+      {
+        "name": "MVPs",
+        "a": "Three straight MVPs, 1984-86.",
+        "b": "Three MVPs and three Finals MVPs.",
+        "winner": "tie"
+      },
+      {
+        "name": "Finals head-to-head",
+        "a": "Won the 1984 Finals.",
+        "b": "Won the 1985 and 1987 Finals.",
+        "winner": "b"
+      },
+      {
+        "name": "Scoring",
+        "a": "Lethal shooter and one of the great clutch scorers.",
+        "b": "A scorer when needed, but not Bird's equal as a shooter.",
+        "winner": "a"
+      },
+      {
+        "name": "Playmaking",
+        "a": "A brilliant passing forward.",
+        "b": "A 6-foot-9 point guard and one of the best passers ever.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Three straight MVPs",
+      "Elite shooter and trash talker",
+      "Celtics leader in a golden era"
+    ],
+    "pros_b": [
+      "Five championships",
+      "Won two of three Finals vs Bird",
+      "Revolutionary 6-9 point guard"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "erling-haaland-vs-kylian-mbappe",
+    "item_a": "Erling Haaland",
+    "item_b": "Kylian Mbappé",
+    "category": "goat",
+    "question": "Who is better, Haaland or Mbappé?",
+    "search_query": "haaland vs mbappe",
+    "search_volume": 2900,
+    "summary": "Mbappé: a World Cup winner at 19 and a hat trick in a final; Haaland scores just as freely but does less else.",
+    "winner": "b",
+    "winner_reason": "Both are generational goal scorers, but Mbappé adds a 2018 World Cup, a hat trick in the 2022 final and more ways to hurt you. Haaland has the treble and the Premier League goal record.",
+    "dimensions": [
+      {
+        "name": "Goals",
+        "a": "A Premier League record 36 goals in his first season.",
+        "b": "Prolific everywhere, including a European Golden Shoe with Real Madrid.",
+        "winner": "tie"
+      },
+      {
+        "name": "Trophies",
+        "a": "2022-23 treble with Manchester City.",
+        "b": "2018 World Cup plus a pile of Ligue 1 titles.",
+        "winner": "b"
+      },
+      {
+        "name": "International",
+        "a": "Norway's scoring machine, with fewer big-tournament stages.",
+        "b": "World Cup winner and a hat trick in the 2022 final.",
+        "winner": "b"
+      },
+      {
+        "name": "All-around game",
+        "a": "A pure finisher with limited involvement in buildup.",
+        "b": "Pace, dribbling and finishing; can play wide or central.",
+        "winner": "b"
+      },
+      {
+        "name": "Big-game record",
+        "a": "The treble season silences doubters.",
+        "b": "Two World Cup finals by age 23.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Premier League single-season goal record",
+      "2022-23 treble with City",
+      "The purest finisher in football"
+    ],
+    "pros_b": [
+      "2018 World Cup winner",
+      "Hat trick in the 2022 final",
+      "Electric pace and dribbling"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "kobe-bryant-vs-michael-jordan",
+    "item_a": "Kobe Bryant",
+    "item_b": "Michael Jordan",
+    "category": "goat",
+    "question": "Who is better, Kobe or Jordan?",
+    "search_query": "kobe vs jordan",
+    "search_volume": 2600,
+    "summary": "Jordan: Kobe built his game in MJ's image, and the original went 6-0 in the Finals with five MVPs.",
+    "winner": "b",
+    "winner_reason": "Jordan went 6-for-6 in the Finals with six Finals MVPs, five MVPs and 10 scoring titles. Kobe has five rings and incredible longevity, but MJ's peak is unmatched.",
+    "dimensions": [
+      {
+        "name": "Rings",
+        "a": "Five titles with the Lakers.",
+        "b": "Six titles, 6-0 in the Finals.",
+        "winner": "b"
+      },
+      {
+        "name": "MVPs",
+        "a": "One MVP, two Finals MVPs.",
+        "b": "Five MVPs and six Finals MVPs.",
+        "winner": "b"
+      },
+      {
+        "name": "Scoring",
+        "a": "81 points and two scoring titles.",
+        "b": "Ten scoring titles and the highest career scoring average.",
+        "winner": "b"
+      },
+      {
+        "name": "Defense",
+        "a": "Many All-Defensive selections.",
+        "b": "Defensive Player of the Year in 1988.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Twenty seasons with one franchise.",
+        "b": "Two retirements and fewer total seasons.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Five championships",
+      "81-point game",
+      "Twenty seasons with the Lakers"
+    ],
+    "pros_b": [
+      "6-0 in the Finals",
+      "Five MVPs",
+      "Ten scoring titles"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "lebron-james-vs-stephen-curry",
+    "item_a": "LeBron James",
+    "item_b": "Stephen Curry",
+    "category": "goat",
+    "question": "Who is better, LeBron or Curry?",
+    "search_query": "curry vs lebron",
+    "search_volume": 2600,
+    "summary": "LeBron: Curry changed how the game is played, but LeBron's all-around dominance and scoring record win out.",
+    "winner": "a",
+    "winner_reason": "LeBron has four MVPs, four Finals MVPs and the all-time scoring record. Curry has four rings, a unanimous MVP and won three of their four Finals meetings, but LeBron's total résumé is bigger.",
+    "dimensions": [
+      {
+        "name": "Rings",
+        "a": "Four titles with three franchises.",
+        "b": "Four titles with the Warriors.",
+        "winner": "tie"
+      },
+      {
+        "name": "MVPs",
+        "a": "Four MVPs and four Finals MVPs.",
+        "b": "Two MVPs, including the first unanimous one, plus a Finals MVP.",
+        "winner": "a"
+      },
+      {
+        "name": "Finals head-to-head",
+        "a": "Won the 2016 Finals after a 3-1 comeback.",
+        "b": "Won three of their four Finals meetings.",
+        "winner": "b"
+      },
+      {
+        "name": "Influence on game",
+        "a": "Redefined the do-everything forward.",
+        "b": "Changed basketball forever with deep shooting.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Elite across more than 20 seasons.",
+        "b": "Elite deep into his 30s.",
+        "winner": "a"
+      },
+      {
+        "name": "All-around",
+        "a": "Elite scorer, passer and rebounder.",
+        "b": "The greatest shooter ever, also a great passer.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "All-time leading scorer",
+      "Four MVPs and four Finals MVPs",
+      "2016 comeback from 3-1"
+    ],
+    "pros_b": [
+      "Greatest shooter of all time",
+      "First unanimous MVP",
+      "Won three of four Finals vs LeBron"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "lionel-messi-vs-maradona",
+    "item_a": "Lionel Messi",
+    "item_b": "Maradona",
+    "category": "goat",
+    "question": "Who is better, Messi or Maradona?",
+    "search_query": "messi vs maradona",
+    "search_volume": 2600,
+    "summary": "Messi: Maradona had the 1986 magic, but Messi matched the World Cup and added two decades of greatness.",
+    "winner": "a",
+    "winner_reason": "Maradona's 1986 World Cup is one of the greatest individual tournaments ever. Messi now has his own World Cup, eight Ballon d'Ors and four Champions Leagues, making his career clearly bigger.",
+    "dimensions": [
+      {
+        "name": "World Cups",
+        "a": "Won in 2022, best player of the tournament.",
+        "b": "Won in 1986, one of the greatest one-man tournaments.",
+        "winner": "tie"
+      },
+      {
+        "name": "Club success",
+        "a": "Four Champions Leagues and many league titles.",
+        "b": "Two Serie A titles with Napoli.",
+        "winner": "a"
+      },
+      {
+        "name": "Awards",
+        "a": "Eight Ballon d'Or awards.",
+        "b": "Not eligible for most of his peak.",
+        "winner": "a"
+      },
+      {
+        "name": "Longevity",
+        "a": "Elite for close to two decades.",
+        "b": "A shorter peak.",
+        "winner": "a"
+      },
+      {
+        "name": "Iconic moments",
+        "a": "Countless, capped by lifting the 2022 trophy.",
+        "b": "The Goal of the Century against England.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Eight Ballon d'Ors",
+      "World Cup 2022",
+      "Four Champions Leagues"
+    ],
+    "pros_b": [
+      "1986 World Cup masterpiece",
+      "Napoli's Serie A titles",
+      "Goal of the Century"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "novak-djokovic-vs-roger-federer",
+    "item_a": "Novak Djokovic",
+    "item_b": "Roger Federer",
+    "category": "goat",
+    "question": "Who is the better tennis player, Djokovic or Federer?",
+    "search_query": "djokovic vs federer",
+    "search_volume": 2600,
+    "summary": "Djokovic: 24 majors, the most weeks at No. 1, and a winning record over Federer. The numbers are not close.",
+    "winner": "a",
+    "winner_reason": "Djokovic holds a record 24 Grand Slams and the most weeks at No. 1, and leads the head-to-head. Federer's elegance is unmatched, but Djokovic beat him when it mattered, including three Wimbledon finals.",
+    "dimensions": [
+      {
+        "name": "Grand Slams",
+        "a": "24, the men's record.",
+        "b": "20, with 8 Wimbledons.",
+        "winner": "a"
+      },
+      {
+        "name": "Weeks at No.1",
+        "a": "A record 428 weeks at No. 1.",
+        "b": "310 weeks, including 237 in a row.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Leads, including three Wimbledon finals.",
+        "b": "Won some big ones, but trails.",
+        "winner": "a"
+      },
+      {
+        "name": "Olympics",
+        "a": "Singles gold at Paris 2024.",
+        "b": "Doubles gold in 2008.",
+        "winner": "a"
+      },
+      {
+        "name": "Style",
+        "a": "Elastic defense and the best return game ever.",
+        "b": "Effortless shotmaking and elegance.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "24 Grand Slams",
+      "428 weeks at No. 1",
+      "2024 Olympic gold"
+    ],
+    "pros_b": [
+      "Eight Wimbledon titles",
+      "237 straight weeks at No. 1",
+      "The most graceful game ever"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "novak-djokovic-vs-rafael-nadal",
+    "item_a": "Novak Djokovic",
+    "item_b": "Rafael Nadal",
+    "category": "goat",
+    "question": "Who is the better tennis player, Djokovic or Nadal?",
+    "search_query": "djokovic vs nadal",
+    "search_volume": 2600,
+    "summary": "Djokovic: more majors, more weeks at No. 1, and he edges the head-to-head. Rafa owns Paris, Novak owns the rest.",
+    "winner": "a",
+    "winner_reason": "Djokovic has 24 Grand Slams to Nadal's 22, many more weeks at No. 1, and leads their head-to-head. Nadal's 14 French Opens are the most dominant feat in tennis, but Djokovic's résumé is wider.",
+    "dimensions": [
+      {
+        "name": "Grand Slams",
+        "a": "24, with 10 Australian Opens.",
+        "b": "22, with 14 French Opens.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Leads the series, the most-played rivalry in men's tennis.",
+        "b": "Narrowly trails, but dominates at Roland Garros.",
+        "winner": "a"
+      },
+      {
+        "name": "Weeks at No.1",
+        "a": "428 weeks.",
+        "b": "209 weeks.",
+        "winner": "a"
+      },
+      {
+        "name": "Surface",
+        "a": "Excellent on every surface.",
+        "b": "The greatest clay-court player ever.",
+        "winner": "tie"
+      },
+      {
+        "name": "Olympics",
+        "a": "Singles gold in 2024.",
+        "b": "Singles gold in 2008 and doubles gold in 2016.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "24 Grand Slams",
+      "Leads the head-to-head",
+      "Record weeks at No. 1"
+    ],
+    "pros_b": [
+      "14 French Open titles",
+      "Olympic singles and doubles gold",
+      "Relentless competitive spirit"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "caitlin-clark-vs-paige-bueckers",
+    "item_a": "Caitlin Clark",
+    "item_b": "Paige Bueckers",
+    "category": "goat",
+    "question": "Who is better, Caitlin Clark or Paige Bueckers?",
+    "search_query": "caitlin clark vs paige bueckers",
+    "search_volume": 2190,
+    "summary": "Clark, for now: her scoring record and rookie season set the bar, though Bueckers' smooth game is right on her heels.",
+    "winner": "a",
+    "winner_reason": "Clark became the NCAA Division I all-time leading scorer, won two national player of the year awards and was 2024 WNBA Rookie of the Year. Bueckers has the national title and is closing fast; this one is worth re-checking soon.",
+    "dimensions": [
+      {
+        "name": "College",
+        "a": "NCAA D-I all-time leading scorer and back-to-back national POY.",
+        "b": "National POY as a freshman and a 2025 national champion.",
+        "winner": "a"
+      },
+      {
+        "name": "Championships",
+        "a": "Two straight NCAA title game runs, without a title.",
+        "b": "Led UConn to the 2025 national championship.",
+        "winner": "b"
+      },
+      {
+        "name": "Pro impact",
+        "a": "2024 WNBA Rookie of the Year and record-setting passer.",
+        "b": "No. 1 pick in 2025 and an instant pro scorer.",
+        "winner": "a"
+      },
+      {
+        "name": "Range",
+        "a": "Logo-range shooting that stretches every defense.",
+        "b": "Silky midrange and three-level efficiency.",
+        "winner": "a"
+      },
+      {
+        "name": "Efficiency",
+        "a": "High volume, with some turnover issues.",
+        "b": "Very efficient, calm decision-maker.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "NCAA D-I all-time leading scorer",
+      "2024 WNBA Rookie of the Year",
+      "Elite deep shooting and passing"
+    ],
+    "pros_b": [
+      "2025 NCAA national champion",
+      "Efficient, polished scorer",
+      "No. 1 overall pick in 2025"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "bill-russell-vs-wilt-chamberlain",
+    "item_a": "Bill Russell",
+    "item_b": "Wilt Chamberlain",
+    "category": "goat",
+    "question": "Who is better, Bill Russell or Wilt Chamberlain?",
+    "search_query": "wilt chamberlain vs bill russell",
+    "search_volume": 1760,
+    "summary": "Russell: Wilt owned the box score, but Russell owned the rings, 11 of them, and most of their playoff battles.",
+    "winner": "a",
+    "winner_reason": "Russell won 11 titles in 13 seasons and five MVPs, and his Celtics beat Wilt's teams in seven of eight playoff series. Wilt's 100-point game and 50 points per game are surreal, but Russell won.",
+    "dimensions": [
+      {
+        "name": "Rings",
+        "a": "Eleven championships in 13 seasons.",
+        "b": "Two championships (1967, 1972).",
+        "winner": "a"
+      },
+      {
+        "name": "MVPs",
+        "a": "Five MVPs.",
+        "b": "Four MVPs.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Won seven of eight playoff series against Wilt's teams.",
+        "b": "Won the 1967 series, but lost most of the rest.",
+        "winner": "a"
+      },
+      {
+        "name": "Scoring",
+        "a": "A defensive anchor, not a primary scorer.",
+        "b": "100 points in a game and 50.4 per game in 1961-62.",
+        "winner": "b"
+      },
+      {
+        "name": "Defense",
+        "a": "The greatest defender of his era.",
+        "b": "Elite shot blocker and rebounder too.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Eleven championships",
+      "Five MVPs",
+      "Dominated their playoff meetings"
+    ],
+    "pros_b": [
+      "100-point game",
+      "50.4 points per game in a season",
+      "Four MVPs"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "lamine-yamal-vs-lionel-messi",
+    "item_a": "Lamine Yamal",
+    "item_b": "Lionel Messi",
+    "category": "goat",
+    "question": "Who is better, Lamine Yamal or Messi?",
+    "search_query": "lamine yamal vs messi",
+    "search_volume": 1470,
+    "summary": "Messi, for now: Yamal is the most exciting teenager in football, but nobody beats eight Ballon d'Ors and a World Cup.",
+    "winner": "b",
+    "winner_reason": "Yamal won Euro 2024 at 17 and was runner-up for the 2025 Ballon d'Or, a pace no one has matched. Messi's career is complete and historic, so this is about trajectory versus résumé.",
+    "dimensions": [
+      {
+        "name": "Trophies",
+        "a": "Euro 2024 with Spain and a La Liga title with Barcelona.",
+        "b": "World Cup, four Champions Leagues and many La Liga titles.",
+        "winner": "b"
+      },
+      {
+        "name": "Awards",
+        "a": "Kopa Trophy winner and a Ballon d'Or runner-up.",
+        "b": "Eight Ballon d'Ors.",
+        "winner": "b"
+      },
+      {
+        "name": "Age curve",
+        "a": "Far ahead of where Messi was as a teenager.",
+        "b": "A slower start, then two decades of dominance.",
+        "winner": "a"
+      },
+      {
+        "name": "Style",
+        "a": "Left-footed winger with incredible vision and swagger.",
+        "b": "Left-footed genius who could play anywhere.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Euro 2024 winner at 17",
+      "Ballon d'Or runner-up as a teenager",
+      "Generational upside"
+    ],
+    "pros_b": [
+      "Eight Ballon d'Ors",
+      "2022 World Cup",
+      "Four Champions Leagues"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "mike-tyson-vs-muhammad-ali",
+    "item_a": "Mike Tyson",
+    "item_b": "Muhammad Ali",
+    "category": "goat",
+    "question": "Who is the better boxer, Tyson or Ali?",
+    "search_query": "ali vs tyson",
+    "search_volume": 1440,
+    "summary": "Ali: Tyson was the scariest heavyweight of his era, but Ali beat Liston, Frazier and Foreman and floated over everyone.",
+    "winner": "b",
+    "winner_reason": "Ali won the heavyweight title three times and beat Liston, Frazier and Foreman. Tyson became the youngest heavyweight champion ever at 20 and unified the belts, but Ali beat better opponents across a longer prime.",
+    "dimensions": [
+      {
+        "name": "Peak",
+        "a": "Terrifying punch power and speed in the late 1980s.",
+        "b": "Unmatched footwork and speed for a heavyweight.",
+        "winner": "tie"
+      },
+      {
+        "name": "Résumé",
+        "a": "Undisputed champion, but fewer elite wins.",
+        "b": "Beat Liston, Frazier and Foreman.",
+        "winner": "b"
+      },
+      {
+        "name": "Titles",
+        "a": "Youngest heavyweight champion, at 20.",
+        "b": "Three-time heavyweight champion.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Faded after his late-1980s peak.",
+        "b": "Elite across a long career.",
+        "winner": "b"
+      },
+      {
+        "name": "Cultural impact",
+        "a": "A global pop culture figure.",
+        "b": "A global figure far beyond boxing.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Youngest heavyweight champ",
+      "Brutal knockout power",
+      "Undisputed champion"
+    ],
+    "pros_b": [
+      "Three-time heavyweight champion",
+      "Beat Frazier and Foreman",
+      "Unmatched cultural legacy"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "jack-nicklaus-vs-tiger-woods",
+    "item_a": "Jack Nicklaus",
+    "item_b": "Tiger Woods",
+    "category": "goat",
+    "question": "Who is the GOAT, Tiger Woods or Jack Nicklaus?",
+    "search_query": "tiger woods vs jack nicklaus",
+    "search_volume": 1180,
+    "summary": "Tiger: 18 majors is Jack's trump card, but Tiger's peak and 82 PGA Tour wins tell the bigger story.",
+    "winner": "b",
+    "winner_reason": "Nicklaus has 18 majors to Woods' 15, plus a record 19 runner-ups. But Tiger tied the PGA Tour wins record with 82 and held all four majors at once, a peak no golfer has matched.",
+    "dimensions": [
+      {
+        "name": "Majors",
+        "a": "18 majors, the record.",
+        "b": "15 majors.",
+        "winner": "a"
+      },
+      {
+        "name": "PGA Tour wins",
+        "a": "73 wins.",
+        "b": "82 wins, tied for the record.",
+        "winner": "b"
+      },
+      {
+        "name": "Peak",
+        "a": "Dominant over decades.",
+        "b": "Held all four majors at once in 2000-01.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Won the 1986 Masters at 46.",
+        "b": "Won the 2019 Masters after major back surgery.",
+        "winner": "a"
+      },
+      {
+        "name": "Field depth",
+        "a": "Faced Palmer, Player and Watson.",
+        "b": "Faced deeper, more global fields.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Record 18 majors",
+      "19 major runner-ups",
+      "1986 Masters at 46"
+    ],
+    "pros_b": [
+      "82 PGA Tour wins",
+      "Held all four majors at once",
+      "2019 Masters comeback"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "alex-ovechkin-vs-sidney-crosby",
+    "item_a": "Alex Ovechkin",
+    "item_b": "Sidney Crosby",
+    "category": "goat",
+    "question": "Who is better, Crosby or Ovechkin?",
+    "search_query": "crosby vs ovechkin",
+    "search_volume": 1180,
+    "summary": "Crosby: Ovi broke Gretzky's goal record, but Sid has three Cups and the better all-around game.",
+    "winner": "b",
+    "winner_reason": "Crosby has three Stanley Cups, two Conn Smythes and two Harts. Ovechkin is the greatest goal scorer in NHL history and won the 2018 Cup, but Crosby's complete game and rings give him the edge.",
+    "dimensions": [
+      {
+        "name": "Stanley Cups",
+        "a": "One, in 2018, with the Conn Smythe.",
+        "b": "Three Cups and two Conn Smythes.",
+        "winner": "b"
+      },
+      {
+        "name": "Goals",
+        "a": "The NHL's all-time leading goal scorer.",
+        "b": "Elite scorer, but far behind Ovi.",
+        "winner": "a"
+      },
+      {
+        "name": "Two-way play",
+        "a": "A goal scorer first.",
+        "b": "Elite in all three zones.",
+        "winner": "b"
+      },
+      {
+        "name": "Awards",
+        "a": "Three Hart Trophies.",
+        "b": "Two Hart Trophies.",
+        "winner": "a"
+      },
+      {
+        "name": "International",
+        "a": "World Championship gold medals.",
+        "b": "Two Olympic golds with Canada.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "NHL all-time goals leader",
+      "2018 Stanley Cup",
+      "Three Hart Trophies"
+    ],
+    "pros_b": [
+      "Three Stanley Cups",
+      "Two Olympic golds",
+      "Elite two-way game"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "serena-williams-vs-venus-williams",
+    "item_a": "Serena Williams",
+    "item_b": "Venus Williams",
+    "category": "goat",
+    "question": "Who is the better tennis player, Serena or Venus?",
+    "search_query": "serena vs venus",
+    "search_volume": 1180,
+    "summary": "Serena: 23 majors to 7. Venus kicked the door open, and Serena walked through it to become the GOAT.",
+    "winner": "a",
+    "winner_reason": "Serena won 23 Grand Slam singles titles to Venus' seven and leads their head-to-head. Venus is a trailblazer with five Wimbledons, but Serena's career is in another class.",
+    "dimensions": [
+      {
+        "name": "Grand Slams",
+        "a": "23 singles titles, the Open Era record.",
+        "b": "Seven singles titles, including five Wimbledons.",
+        "winner": "a"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Leads, including most of their major finals.",
+        "b": "Won some early meetings.",
+        "winner": "a"
+      },
+      {
+        "name": "Olympics",
+        "a": "Singles gold in 2012.",
+        "b": "Singles gold in 2000.",
+        "winner": "tie"
+      },
+      {
+        "name": "Doubles",
+        "a": "Together they won 14 major doubles titles.",
+        "b": "Together they won 14 major doubles titles.",
+        "winner": "tie"
+      },
+      {
+        "name": "Legacy",
+        "a": "The GOAT of women's tennis.",
+        "b": "A trailblazer who fought for equal prize money.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "23 Grand Slam singles titles",
+      "Leads the head-to-head",
+      "Olympic singles gold in 2012"
+    ],
+    "pros_b": [
+      "Five Wimbledon titles",
+      "Equal prize money pioneer",
+      "Olympic singles gold in 2000"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "maradona-vs-pele",
+    "item_a": "Maradona",
+    "item_b": "Pelé",
+    "category": "goat",
+    "question": "Who is better, Maradona or Pelé?",
+    "search_query": "pele vs maradona",
+    "search_volume": 1110,
+    "summary": "Pelé: three World Cups and over 1,000 career goals. Maradona's peak was beautiful, but Pelé did it longer.",
+    "winner": "b",
+    "winner_reason": "Pelé won three World Cups and is the biggest star of football's first global era. Maradona's 1986 run and Napoli titles are legendary, but Pelé's sustained greatness wins.",
+    "dimensions": [
+      {
+        "name": "World Cups",
+        "a": "One, in 1986.",
+        "b": "Three: 1958, 1962 and 1970.",
+        "winner": "b"
+      },
+      {
+        "name": "Peak",
+        "a": "The 1986 World Cup was a masterpiece.",
+        "b": "Dominant for over a decade.",
+        "winner": "a"
+      },
+      {
+        "name": "Club",
+        "a": "Two Serie A titles with Napoli.",
+        "b": "Dominant with Santos.",
+        "winner": "tie"
+      },
+      {
+        "name": "Goals",
+        "a": "A creator and scorer.",
+        "b": "Over 1,000 career goals, by most counts.",
+        "winner": "b"
+      },
+      {
+        "name": "Cultural impact",
+        "a": "A cult hero in Argentina and Naples.",
+        "b": "Football's first global icon.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "1986 World Cup masterpiece",
+      "Napoli's Serie A titles",
+      "The Goal of the Century"
+    ],
+    "pros_b": [
+      "Three World Cups",
+      "Over 1,000 career goals",
+      "Football's first global star"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "jerry-rice-vs-randy-moss",
+    "item_a": "Jerry Rice",
+    "item_b": "Randy Moss",
+    "category": "goat",
+    "question": "Who is better, Jerry Rice or Randy Moss?",
+    "search_query": "jerry rice vs randy moss",
+    "search_volume": 780,
+    "summary": "Rice: Moss was the most terrifying deep threat ever, but Rice's records may never be broken.",
+    "winner": "a",
+    "winner_reason": "Rice holds the career records for receptions, receiving yards and receiving touchdowns, and won three Super Bowls. Moss had a higher athletic peak, including 23 touchdowns in 2007, but Rice's career is untouchable.",
+    "dimensions": [
+      {
+        "name": "Records",
+        "a": "Career leader in catches, yards and TD catches.",
+        "b": "Second in career TD catches.",
+        "winner": "a"
+      },
+      {
+        "name": "Peak",
+        "a": "Elite for over a decade.",
+        "b": "23 TD catches in 2007.",
+        "winner": "b"
+      },
+      {
+        "name": "Rings",
+        "a": "Three Super Bowls with the 49ers.",
+        "b": "No Super Bowl title.",
+        "winner": "a"
+      },
+      {
+        "name": "Longevity",
+        "a": "Twenty seasons.",
+        "b": "Fourteen seasons.",
+        "winner": "a"
+      },
+      {
+        "name": "Athleticism",
+        "a": "Precise routes and work ethic.",
+        "b": "The most terrifying deep threat ever.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Career receiving records",
+      "Three Super Bowls",
+      "Unmatched longevity"
+    ],
+    "pros_b": [
+      "23 TD catches in 2007",
+      "Freakish athleticism",
+      "Second in career TD catches"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "josh-allen-vs-lamar-jackson",
+    "item_a": "Josh Allen",
+    "item_b": "Lamar Jackson",
+    "category": "goat",
+    "question": "Who is better, Josh Allen or Lamar Jackson?",
+    "search_query": "josh allen vs lamar jackson",
+    "search_volume": 710,
+    "summary": "Josh Allen, by a whisker: Lamar has the extra MVP, but Allen has won both of their playoff meetings and carries a thinner roster further.",
+    "winner": "a",
+    "winner_reason": "Lamar has two MVPs (2019, 2023) to Allen's one (2024), and he's the most dangerous runner the position has seen. But Allen's Bills beat Baltimore in both playoff meetings, and his January résumé is deeper. Neither has a ring yet.",
+    "dimensions": [
+      {
+        "name": "MVPs",
+        "a": "One MVP, for the 2024 season.",
+        "b": "Two MVPs, for 2019 and 2023, the first unanimous at age 22.",
+        "winner": "b"
+      },
+      {
+        "name": "Playoff head-to-head",
+        "a": "Won both playoff meetings, after the 2020 and 2024 seasons.",
+        "b": "Lost both playoff meetings to Buffalo.",
+        "winner": "a"
+      },
+      {
+        "name": "Playoff résumé",
+        "a": "More playoff wins and an AFC title game habit.",
+        "b": "Brilliant regular seasons, fewer January wins so far.",
+        "winner": "a"
+      },
+      {
+        "name": "Running",
+        "a": "A 6-foot-5 battering ram who scores constantly near the goal line.",
+        "b": "The most electric running quarterback in NFL history.",
+        "winner": "b"
+      },
+      {
+        "name": "Passing",
+        "a": "A cannon arm that makes throws few humans can.",
+        "b": "An efficient, accurate passer who led the league in passer rating.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Won both playoff meetings with Lamar",
+      "Rare arm talent and size",
+      "Elite red-zone runner"
+    ],
+    "pros_b": [
+      "Two MVP awards",
+      "Most electric running QB ever",
+      "Unstoppable in the regular season"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "alex-ovechkin-vs-wayne-gretzky",
+    "item_a": "Alex Ovechkin",
+    "item_b": "Wayne Gretzky",
+    "category": "goat",
+    "question": "Who is better, Ovechkin or Gretzky?",
+    "search_query": "ovechkin vs gretzky",
+    "search_volume": 590,
+    "summary": "Gretzky: Ovi finally took the goals record, but the Great One has more assists than anyone else has points.",
+    "winner": "b",
+    "winner_reason": "Ovechkin passing Gretzky's 894 goals in April 2025 is one of hockey's great feats. But Gretzky's 2,857 points, nine Hart Trophies and four Stanley Cups put him in a tier of his own.",
+    "dimensions": [
+      {
+        "name": "Goals",
+        "a": "Broke the all-time record in 2025, the greatest goal scorer ever.",
+        "b": "894 goals, a mark that stood for over 25 years.",
+        "winner": "a"
+      },
+      {
+        "name": "Points",
+        "a": "Elite, but a long way from the summit.",
+        "b": "2,857 career points, the record by a mile.",
+        "winner": "b"
+      },
+      {
+        "name": "Stanley Cups",
+        "a": "One, the 2018 Cup with the Conn Smythe.",
+        "b": "Four Cups with the 1980s Oilers.",
+        "winner": "b"
+      },
+      {
+        "name": "Hart Trophies",
+        "a": "Three Harts.",
+        "b": "Nine Harts, eight of them in a row.",
+        "winner": "b"
+      },
+      {
+        "name": "Peak",
+        "a": "Several 50- and 60-goal seasons and a 65-goal year.",
+        "b": "92 goals in a season and four 200-point seasons.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "NHL all-time goals leader",
+      "2018 Stanley Cup and Conn Smythe",
+      "Durable scoring for two decades"
+    ],
+    "pros_b": [
+      "2,857 career points",
+      "Nine Hart Trophies",
+      "Four Stanley Cups"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "luka-doncic-vs-shai-gilgeous-alexander",
+    "item_a": "Luka Dončić",
+    "item_b": "Shai Gilgeous-Alexander",
+    "category": "goat",
+    "question": "Who is better, Luka or Shai?",
+    "search_query": "luka vs shai",
+    "search_volume": 430,
+    "summary": "Shai: the 2025 MVP, scoring title, championship and Finals MVP in one season is a mic drop Luka hasn't answered yet.",
+    "winner": "b",
+    "winner_reason": "Gilgeous-Alexander swept the 2025 MVP, scoring title, NBA title and Finals MVP with OKC. Luka is the more inventive creator and may have the higher offensive ceiling, but Shai's two-way game and trophies win today.",
+    "dimensions": [
+      {
+        "name": "Rings",
+        "a": "No title yet; reached the 2024 Finals with Dallas.",
+        "b": "2025 champion and Finals MVP with Oklahoma City.",
+        "winner": "b"
+      },
+      {
+        "name": "MVPs",
+        "a": "Many top-five finishes, no MVP yet.",
+        "b": "2025 MVP.",
+        "winner": "b"
+      },
+      {
+        "name": "Playmaking",
+        "a": "A generational passer who bends defenses at will.",
+        "b": "A capable passer, but a scorer first.",
+        "winner": "a"
+      },
+      {
+        "name": "Defense",
+        "a": "The most common knock on his game.",
+        "b": "Long, active hands and a real two-way presence.",
+        "winner": "b"
+      },
+      {
+        "name": "Scoring",
+        "a": "Huge volume, step-back threes and a 2024 scoring title.",
+        "b": "2025 scoring title on elite efficiency and free throws.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Generational offensive creator",
+      "Triple-double machine",
+      "Reached the Finals in 2024"
+    ],
+    "pros_b": [
+      "2025 MVP, title and Finals MVP",
+      "Two-way impact",
+      "Elite efficiency"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "kareem-abdul-jabbar-vs-shaquille-oneal",
+    "item_a": "Kareem Abdul-Jabbar",
+    "item_b": "Shaquille O'Neal",
+    "category": "goat",
+    "question": "Who is better, Shaq or Kareem?",
+    "search_query": "shaq vs kareem",
+    "search_volume": 420,
+    "summary": "Kareem: Shaq's peak was a natural disaster, but six MVPs and six rings outweigh three straight Finals MVPs.",
+    "winner": "a",
+    "winner_reason": "Kareem won a record six MVPs and six championships and held the scoring record for nearly 39 years. Shaq's 2000-02 Lakers peak may be the most physically dominant run ever, but Kareem sustained greatness far longer.",
+    "dimensions": [
+      {
+        "name": "Rings",
+        "a": "Six titles, with the Bucks and Lakers.",
+        "b": "Four titles, with the Lakers and Heat.",
+        "winner": "a"
+      },
+      {
+        "name": "MVPs",
+        "a": "Six MVPs, the NBA record.",
+        "b": "One MVP, in 2000, a surprisingly low total.",
+        "winner": "a"
+      },
+      {
+        "name": "Peak",
+        "a": "Dominant in Milwaukee and early in L.A.",
+        "b": "Three straight Finals MVPs from 2000 to 2002.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Twenty seasons, still a champion at 41.",
+        "b": "Nineteen seasons, elite for about a decade.",
+        "winner": "a"
+      },
+      {
+        "name": "Signature weapon",
+        "a": "The skyhook, the most unstoppable shot in history.",
+        "b": "Sheer power; teams invented Hack-a-Shaq to cope.",
+        "winner": "tie"
+      }
+    ],
+    "pros_a": [
+      "Record six MVPs",
+      "Six championships",
+      "The unstoppable skyhook"
+    ],
+    "pros_b": [
+      "Three straight Finals MVPs",
+      "Most physically dominant big ever",
+      "Four championships"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "lewis-hamilton-vs-max-verstappen",
+    "item_a": "Lewis Hamilton",
+    "item_b": "Max Verstappen",
+    "category": "goat",
+    "question": "Who is better, Hamilton or Verstappen?",
+    "search_query": "verstappen vs hamilton",
+    "search_volume": 340,
+    "summary": "Hamilton: Max's peak is frightening, but seven titles plus the wins and poles records is a résumé Max is still chasing.",
+    "winner": "a",
+    "winner_reason": "Hamilton has seven world titles and the records for race wins and pole positions. Verstappen won four straight titles from 2021 to 2024 and beat Lewis in their 2021 duel, but Hamilton's career is bigger.",
+    "dimensions": [
+      {
+        "name": "Titles",
+        "a": "Seven world titles, tied for the record.",
+        "b": "Four world titles, from 2021 to 2024.",
+        "winner": "a"
+      },
+      {
+        "name": "Wins & poles",
+        "a": "Holds the records for both.",
+        "b": "Prolific, including a record-breaking 2023, but behind on totals.",
+        "winner": "a"
+      },
+      {
+        "name": "Peak",
+        "a": "Near-unbeatable in the Mercedes years.",
+        "b": "His 2023 season was one of the most dominant in F1 history.",
+        "winner": "b"
+      },
+      {
+        "name": "Head-to-head",
+        "a": "Lost the 2021 title in the Abu Dhabi finale.",
+        "b": "Won the 2021 title in one of F1's great duels.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Winning races since his 2007 rookie year.",
+        "b": "Youngest race winner ever, with years still ahead.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Seven world titles",
+      "Records for wins and poles",
+      "Two decades at the front"
+    ],
+    "pros_b": [
+      "Four straight titles",
+      "The dominant 2023 season",
+      "Won their 2021 title fight"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "kareem-abdul-jabbar-vs-michael-jordan",
+    "item_a": "Kareem Abdul-Jabbar",
+    "item_b": "Michael Jordan",
+    "category": "goat",
+    "question": "Who is better, Kareem or Jordan?",
+    "search_query": "kareem vs jordan",
+    "search_volume": 280,
+    "summary": "Jordan: Kareem has the edge in MVPs and longevity, but six Finals, six Finals MVPs and no Game 7s needed is the GOAT case.",
+    "winner": "b",
+    "winner_reason": "Both won six titles, and Kareem has six MVPs to Jordan's five. But Jordan won six Finals MVPs, 10 scoring titles and a Defensive Player of the Year, a peak no one has matched.",
+    "dimensions": [
+      {
+        "name": "Rings",
+        "a": "Six titles.",
+        "b": "Six titles, 6-0 in the Finals.",
+        "winner": "tie"
+      },
+      {
+        "name": "MVPs",
+        "a": "Six MVPs, the record.",
+        "b": "Five MVPs.",
+        "winner": "a"
+      },
+      {
+        "name": "Finals MVPs",
+        "a": "Two, 14 years apart (1971 and 1985).",
+        "b": "Six Finals MVPs, one for every title.",
+        "winner": "b"
+      },
+      {
+        "name": "Peak",
+        "a": "A dominant early-1970s run in Milwaukee.",
+        "b": "Widely considered the greatest peak in NBA history.",
+        "winner": "b"
+      },
+      {
+        "name": "Longevity",
+        "a": "Twenty seasons and 19 All-Star selections, still a champion at 41.",
+        "b": "Fewer seasons, split by two retirements.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Record six MVPs",
+      "Twenty seasons of excellence",
+      "The skyhook"
+    ],
+    "pros_b": [
+      "Six Finals MVPs",
+      "Ten scoring titles",
+      "Perfect 6-0 Finals record"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "kevin-durant-vs-lebron-james",
+    "item_a": "Kevin Durant",
+    "item_b": "LeBron James",
+    "category": "goat",
+    "question": "Who is better, Kevin Durant or LeBron?",
+    "search_query": "kevin durant vs lebron",
+    "search_volume": 280,
+    "summary": "LeBron: KD might be the smoothest scorer ever, but four MVPs, four rings and the scoring crown are a tier above.",
+    "winner": "b",
+    "winner_reason": "LeBron has four MVPs, four titles and the all-time scoring record. Durant won two rings, two Finals MVPs, an MVP and four scoring titles, and beat LeBron in two of three Finals, but LeBron's career is greater.",
+    "dimensions": [
+      {
+        "name": "Rings",
+        "a": "Two titles with Golden State, two Finals MVPs.",
+        "b": "Four titles with three franchises, four Finals MVPs.",
+        "winner": "b"
+      },
+      {
+        "name": "MVPs",
+        "a": "One MVP, in 2014.",
+        "b": "Four MVPs.",
+        "winner": "b"
+      },
+      {
+        "name": "Scoring",
+        "a": "Four scoring titles and arguably the purest shooter at 6-foot-10-plus.",
+        "b": "The NBA's all-time leading scorer.",
+        "winner": "b"
+      },
+      {
+        "name": "Finals head-to-head",
+        "a": "Won two of their three Finals meetings (2017, 2018).",
+        "b": "Won the 2012 Finals against KD's Thunder.",
+        "winner": "a"
+      },
+      {
+        "name": "Olympics",
+        "a": "Four Olympic golds, Team USA's career scoring leader.",
+        "b": "Three Olympic golds, plus a bronze.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "Four Olympic gold medals",
+      "Four scoring titles",
+      "Won two Finals over LeBron"
+    ],
+    "pros_b": [
+      "Four MVPs",
+      "All-time leading scorer",
+      "Four championships"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "lewis-hamilton-vs-michael-schumacher",
+    "item_a": "Lewis Hamilton",
+    "item_b": "Michael Schumacher",
+    "category": "goat",
+    "question": "Who is better, Hamilton or Schumacher?",
+    "search_query": "hamilton vs schumacher",
+    "search_volume": 280,
+    "summary": "Hamilton: they are level on seven titles, but Lewis has more wins and more poles. Michael's Ferrari legacy keeps it close.",
+    "winner": "a",
+    "winner_reason": "Both won seven world titles, but Hamilton passed Schumacher's records for race wins and pole positions. Schumacher's rebuilding of Ferrari into a dynasty is iconic, but Hamilton's numbers tip it.",
+    "dimensions": [
+      {
+        "name": "Titles",
+        "a": "Seven, tied for the record.",
+        "b": "Seven, five of them in a row with Ferrari.",
+        "winner": "tie"
+      },
+      {
+        "name": "Wins",
+        "a": "Broke Schumacher's record of 91 wins.",
+        "b": "91 wins, the record for 14 years.",
+        "winner": "a"
+      },
+      {
+        "name": "Poles",
+        "a": "Holds the record for pole positions.",
+        "b": "68 poles.",
+        "winner": "a"
+      },
+      {
+        "name": "Teammates",
+        "a": "Went toe-to-toe with world-champion teammates Alonso, Button and Rosberg.",
+        "b": "Usually a clear No. 1 driver, with teammates in support roles.",
+        "winner": "a"
+      },
+      {
+        "name": "Team building",
+        "a": "Joined Mercedes early and rode its rise.",
+        "b": "Turned a struggling Ferrari into a dynasty.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "Records for wins and poles",
+      "Seven world titles",
+      "Beat elite teammates"
+    ],
+    "pros_b": [
+      "Seven world titles",
+      "Rebuilt Ferrari into a dynasty",
+      "Five straight titles from 2000 to 2004"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "ayrton-senna-vs-michael-schumacher",
+    "item_a": "Ayrton Senna",
+    "item_b": "Michael Schumacher",
+    "category": "goat",
+    "question": "Who is better, Senna or Schumacher?",
+    "search_query": "senna vs schumacher",
+    "search_volume": 280,
+    "summary": "Schumacher: Senna was the purest speed F1 has known, but seven titles and 91 wins outweigh three titles and 41 wins.",
+    "winner": "b",
+    "winner_reason": "Schumacher won seven world titles and 91 races. Senna's three titles, 65 poles and wet-weather genius are legendary, and his career was cut short in 1994, but Schumacher's achievements are greater.",
+    "dimensions": [
+      {
+        "name": "Titles",
+        "a": "Three, in 1988, 1990 and 1991.",
+        "b": "Seven, including five straight with Ferrari.",
+        "winner": "b"
+      },
+      {
+        "name": "Wins",
+        "a": "41 wins.",
+        "b": "91 wins.",
+        "winner": "b"
+      },
+      {
+        "name": "Qualifying",
+        "a": "65 poles from 161 starts, a ferocious strike rate.",
+        "b": "68 poles from far more starts.",
+        "winner": "a"
+      },
+      {
+        "name": "Wet weather",
+        "a": "Donington 1993 and Monaco 1984 are the stuff of legend.",
+        "b": "Spain 1996 in the rain was a masterclass of his own.",
+        "winner": "tie"
+      },
+      {
+        "name": "Rivalry",
+        "a": "Defined an era with his duel with Alain Prost.",
+        "b": "Rose to the top just as Senna's career ended.",
+        "winner": "a"
+      }
+    ],
+    "pros_a": [
+      "The greatest qualifier ever",
+      "Wet-weather genius",
+      "Three world titles"
+    ],
+    "pros_b": [
+      "Seven world titles",
+      "91 race wins",
+      "Built the Ferrari dynasty"
+    ],
+    "as_of": "2026-11-04"
+  },
+  {
+    "slug": "giannis-antetokounmpo-vs-nikola-jokic",
+    "item_a": "Giannis Antetokounmpo",
+    "item_b": "Nikola Jokić",
+    "category": "goat",
+    "question": "Who is better, Giannis or Jokić?",
+    "search_query": "giannis vs jokic",
+    "search_volume": 230,
+    "summary": "Jokić: three MVPs, a title, and he makes everyone around him better. Giannis is a force of nature, Jokić is a cheat code.",
+    "winner": "b",
+    "winner_reason": "Jokić has three MVPs (2021, 2022, 2024) and the 2023 title with Finals MVP. Giannis has two MVPs, a Defensive Player of the Year and a 50-point closeout in the 2021 Finals, but Jokić has the bigger résumé.",
+    "dimensions": [
+      {
+        "name": "MVPs",
+        "a": "Two, in 2019 and 2020.",
+        "b": "Three, in 2021, 2022 and 2024.",
+        "winner": "b"
+      },
+      {
+        "name": "Rings",
+        "a": "2021 title and Finals MVP, capped by 50 in Game 6.",
+        "b": "2023 title and Finals MVP.",
+        "winner": "tie"
+      },
+      {
+        "name": "Defense",
+        "a": "2020 Defensive Player of the Year.",
+        "b": "Smart positional defender, but not a stopper.",
+        "winner": "a"
+      },
+      {
+        "name": "Playmaking",
+        "a": "A strong passer out of the post and in transition.",
+        "b": "The greatest passing big man in NBA history.",
+        "winner": "b"
+      },
+      {
+        "name": "Efficiency",
+        "a": "Dominant at the rim, shaky from the free-throw line.",
+        "b": "Absurd efficiency from everywhere on the floor.",
+        "winner": "b"
+      }
+    ],
+    "pros_a": [
+      "2020 Defensive Player of the Year",
+      "50 points in the 2021 title clincher",
+      "Two MVPs"
+    ],
+    "pros_b": [
+      "Three MVPs",
+      "2023 title and Finals MVP",
+      "Best passing big man ever"
+    ],
+    "as_of": "2026-11-04"
+  }
+]

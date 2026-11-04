@@ -85,7 +85,7 @@ export function trackContentEngagement(params: { content_type: string; content_i
   trackEvent('content_engagement', params);
 }
 
-export function trackShareClick(params: { method: string; content_type?: string; content_id?: string }): void {
+export function trackShareClick(params: { method: string; content_type?: string; content_id?: string; slug?: string }): void {
   trackEvent('share_click', params);
 }
 
@@ -103,4 +103,18 @@ export function trackToolUse(toolName: string, action: string, detail?: string):
 
 export function trackResultGenerated(resultType: string, detail?: string): void {
   trackEvent('result_generated', { result_type: resultType, detail });
+}
+
+// ---------------------------------------------------------------------------
+// Verdict loop (debate pages)
+// ---------------------------------------------------------------------------
+
+/** Agree/disagree vote on a verdict. */
+export function trackVerdictVote(params: { vote: 'agree' | 'disagree'; slug: string }): void {
+  trackEvent('verdict_vote', params);
+}
+
+/** "Disagree? Make your own verdict" — the visitor starts their own comparison from a verdict. */
+export function trackRemixStart(params: { slug: string }): void {
+  trackEvent('remix_start', params);
 }

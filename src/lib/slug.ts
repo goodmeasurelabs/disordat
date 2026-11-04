@@ -6,6 +6,8 @@ const MAX_SLUG_PART_LENGTH = 40
 
 function slugifyPart(input: string): string {
   return input
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '') // fold accents: "Pokémon" → "pokemon"
     .toLowerCase()
     .trim()
     .replace(/['"]/g, '')
