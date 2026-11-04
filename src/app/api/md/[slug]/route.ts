@@ -8,8 +8,8 @@ export const runtime = 'nodejs'
  * Markdown twin of /vs/<slug>. Reached as /vs/<slug>.md via the rewrite in
  * next.config.mjs; the HTML page links to it with rel="alternate".
  */
-export async function GET(_req: Request, { params }: { params: { slug: string } }) {
-  const slug = params.slug
+export async function GET(_req: Request, { params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params
   const c = await getComparison(slug)
   if (!c) {
     return new Response(`# Not found\n\nNo verdict at ${verdictUrl(slug)}. Start one at ${SITE_URL}\n`, {

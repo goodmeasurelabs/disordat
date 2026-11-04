@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, type ReactElement } from 'react'
 import { trackShareClick } from '@/lib/analytics'
 
 interface Props {
@@ -54,7 +54,7 @@ export default function ShareButtons({ url, summary, itemA, itemB, slug, headlin
     }
   }
 
-  const targets: Array<{ method: string; label: string; href: string; icon: JSX.Element }> = [
+  const targets: Array<{ method: string; label: string; href: string; icon: ReactElement }> = [
     {
       method: 'twitter',
       label: 'X',
