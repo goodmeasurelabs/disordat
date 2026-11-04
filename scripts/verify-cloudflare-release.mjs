@@ -5,6 +5,9 @@ const routes = [
   ['/matchups', /matchups/i, 'text/html'],
   ['/vs/batman-vs-superman.md', /Batman.*Superman/s, 'text/markdown'],
   ['/debates/fandoms', /Fandom/i, 'text/html'],
+  ['/debates/goat', /Sports GOAT/i, 'text/html'],
+  ['/debates/food', /Food/i, 'text/html'],
+  ['/debates/travel', /Travel/i, 'text/html'],
   ['/vs/batman-vs-superman', /Batman.*Superman/s, 'text/html'],
 ]
 for (const [path, expected, type] of routes) {

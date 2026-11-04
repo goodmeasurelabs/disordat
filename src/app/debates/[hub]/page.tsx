@@ -6,7 +6,8 @@ import { HUB_IDS, HUBS, isHubId } from '@/lib/debates'
 import { hubListing } from '@/lib/hubPages'
 import { questionFor, SITE_URL } from '@/lib/verdict'
 
-export const revalidate = 3600
+// Legacy verdicts use runtime-only Redis secrets, so hubs must render dynamically.
+export const dynamic = 'force-dynamic'
 
 type RouteParams = { hub: string }
 
