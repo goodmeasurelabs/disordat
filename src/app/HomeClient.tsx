@@ -6,7 +6,7 @@ import Link from 'next/link'
 import { trackDecision, trackGenieInteraction, trackToolUse } from '@/lib/analytics'
 import { addRecentComparison, getRecentComparisons, type RecentComparison } from '@/lib/recentComparisons'
 
-// A generous pool. We show 5 at a time and shuffle to show more.
+// A generous pool. We show a few at a time and shuffle to show more.
 // Tilted toward real purchase decisions — that's the sharpest use case.
 const EXAMPLE_POOL: Array<[string, string]> = [
   // Tech / purchase
@@ -58,6 +58,9 @@ const EXAMPLE_POOL: Array<[string, string]> = [
   ['Linear', 'Jira'],
 ]
 
+// Kept small so the row sits directly under the inputs, above the fold.
+const VISIBLE_EXAMPLES = 4
+
 function shuffle<T>(arr: T[]): T[] {
   const copy = [...arr]
   for (let i = copy.length - 1; i > 0; i--) {
@@ -90,7 +93,7 @@ export default function HomeClient({ trending = [] }: { trending?: TrendingItem[
   // Start with the first N of the pool (deterministic so SSR and client agree).
   // Shuffling happens on explicit user click to avoid hydration mismatch.
   const [visibleExamples, setVisibleExamples] = useState<Array<[string, string]>>(
-    () => EXAMPLE_POOL.slice(0, 6),
+    () => EXAMPLE_POOL.slice(0, VISIBLE_EXAMPLES),
   )
 
   useEffect(() => {
@@ -134,14 +137,15 @@ export default function HomeClient({ trending = [] }: { trending?: TrendingItem[
     [],
   )
 
-  async function compare(e?: React.FormEvent) {
+  // `pair` lets example buttons submit immediately, before setDis/setDat have re-rendered.
+  async function compare(e?: React.FormEvent, pair?: [string, string]) {
     e?.preventDefault()
     if (loading) return
     setError(null)
 
     // If either field is still a pasted URL at submit time, resolve it first.
-    let resolvedDis = dis.trim()
-    let resolvedDat = dat.trim()
+    let resolvedDis = (pair?.[0] ?? dis).trim()
+    let resolvedDat = (pair?.[1] ?? dat).trim()
     if (URL_PATTERN.test(resolvedDis) || URL_PATTERN.test(resolvedDat)) {
       ;[resolvedDis, resolvedDat] = await Promise.all([
         unfurlIfUrl(resolvedDis, 'dis'),
@@ -236,6 +240,52 @@ export default function HomeClient({ trending = [] }: { trending?: TrendingItem[
           />
         </form>
 
+        {/* One-tap examples: fill both fields and run the verdict immediately */}
+        <div className="mt-4">
+          <div className="flex items-center justify-between mb-2">
+            <p className="text-xs font-semibold uppercase tracking-widest text-slate-500">
+              or try one
+            </p>
+            <button
+              onClick={() => {
+                setVisibleExamples(shuffle(EXAMPLE_POOL).slice(0, VISIBLE_EXAMPLES))
+                trackGenieInteraction('examples_shuffled')
+              }}
+              className="inline-flex items-center gap-1 rounded-full text-xs font-medium text-slate-500 hover:text-emerald-700 transition-colors"
+              title="Show different examples"
+            >
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M16 3h5v5" />
+                <path d="M4 20 21 3" />
+                <path d="M21 16v5h-5" />
+                <path d="m15 15 6 6" />
+                <path d="M4 4l5 5" />
+              </svg>
+              Shuffle
+            </button>
+          </div>
+          <div className="flex flex-wrap justify-center gap-2">
+            {visibleExamples.map(([a, b], i) => (
+              <button
+                key={`${a}-${b}-${i}`}
+                onClick={() => {
+                  setDis(a)
+                  setDat(b)
+                  setUnfurlSourceDis(null)
+                  setUnfurlSourceDat(null)
+                  trackGenieInteraction('example_selected')
+                  trackToolUse('example', 'select', `${a} vs ${b}`)
+                  compare(undefined, [a, b])
+                }}
+                disabled={loading}
+                className="rounded-full border border-slate-200 bg-white px-3 py-1.5 text-xs text-slate-700 hover:border-emerald-400 hover:bg-emerald-50 hover:text-emerald-700 transition-colors disabled:cursor-not-allowed disabled:opacity-50"
+              >
+                {a} <span className="text-slate-400">vs</span> {b}
+              </button>
+            ))}
+          </div>
+        </div>
+
         <p className="mt-3 text-center text-xs text-slate-500">
           <span className="inline-flex items-center gap-1">
             <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-slate-400">
@@ -271,50 +321,6 @@ export default function HomeClient({ trending = [] }: { trending?: TrendingItem[
         {error && (
           <p className="mt-4 text-center text-sm text-red-600">{error}</p>
         )}
-
-        {/* Examples with shuffle */}
-        <div className="mt-10">
-          <div className="flex items-center justify-between mb-3">
-            <p className="text-xs font-semibold uppercase tracking-widest text-slate-500">
-              or try one
-            </p>
-            <button
-              onClick={() => {
-                setVisibleExamples(shuffle(EXAMPLE_POOL).slice(0, 6))
-                trackGenieInteraction('examples_shuffled')
-              }}
-              className="inline-flex items-center gap-1 rounded-full text-xs font-medium text-slate-500 hover:text-emerald-700 transition-colors"
-              title="Show different examples"
-            >
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M16 3h5v5" />
-                <path d="M4 20 21 3" />
-                <path d="M21 16v5h-5" />
-                <path d="m15 15 6 6" />
-                <path d="M4 4l5 5" />
-              </svg>
-              Shuffle
-            </button>
-          </div>
-          <div className="flex flex-wrap justify-center gap-2">
-            {visibleExamples.map(([a, b], i) => (
-              <button
-                key={`${a}-${b}-${i}`}
-                onClick={() => {
-                  setDis(a)
-                  setDat(b)
-                  setUnfurlSourceDis(null)
-                  setUnfurlSourceDat(null)
-                  trackGenieInteraction('example_selected')
-                }}
-                disabled={loading}
-                className="rounded-full border border-slate-200 bg-white px-3 py-1.5 text-xs text-slate-700 hover:border-emerald-400 hover:bg-emerald-50 hover:text-emerald-700 transition-colors"
-              >
-                {a} <span className="text-slate-400">vs</span> {b}
-              </button>
-            ))}
-          </div>
-        </div>
 
         {/* Trending — server-rendered from KV, shared across all visitors.
             Doubles as internal-link fuel for Google to crawl the /vs/ graph. */}
