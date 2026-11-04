@@ -81,7 +81,12 @@ jspm_packages/
 tmp/
 temp/
 
-## Cloudflare/OpenNext build products
+# Cloudflare/OpenNext build products
 .open-next/
 .wrangler/
 .worker-dry-run/
+
+# Sanitized per-run release evidence
+cloudflare-before.json
+cloudflare-after.json
+cloudflare-inspect.json
