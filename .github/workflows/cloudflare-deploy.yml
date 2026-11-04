@@ -18,7 +18,3 @@ jobs:
         env:
           CLOUDFLARE_DEPLOY_TOKEN: ${{ secrets.CLOUDFLARE_DEPLOY_TOKEN }}
         run: node scripts/cloudflare-access-diagnostics.mjs
-      - name: Inspect only tagged hub requests and redacted runtime errors
-        env:
-          CLOUDFLARE_DEPLOY_TOKEN: ${{ secrets.CLOUDFLARE_DEPLOY_TOKEN }}
-        run: node scripts/cloudflare-hub-diagnostics.mjs
