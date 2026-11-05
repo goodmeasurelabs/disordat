@@ -15,6 +15,12 @@ const paths = [
   ['gm-paulskenes-deployments', `/accounts/${account}/workers/scripts/gm-paulskenes/deployments`],
   ['gm-aaronjudge-settings', `/accounts/${account}/workers/scripts/gm-aaronjudge/settings`],
   ['gm-aaronjudge-deployments', `/accounts/${account}/workers/scripts/gm-aaronjudge/deployments`],
+  ...['gm-concertadventure', 'gm-bitcoin-price'].flatMap((worker) => [
+    [`${worker}-settings`, `/accounts/${account}/workers/scripts/${worker}/settings`],
+    [`${worker}-deployments`, `/accounts/${account}/workers/scripts/${worker}/deployments`],
+    [`${worker}-schedules`, `/accounts/${account}/workers/scripts/${worker}/schedules`],
+    [`${worker}-subdomain`, `/accounts/${account}/workers/scripts/${worker}/subdomain`],
+  ]),
 ]
 const results = await Promise.all(paths.map(async ([label, path]) => {
   try {
@@ -37,6 +43,8 @@ const results = await Promise.all(paths.map(async ([label, path]) => {
       row.compatibilityFlags = result.compatibility_flags ?? []
     }
     if (label.endsWith('-deployments')) row.active = (result.deployments ?? []).slice(0,1).map(({id,created_on,versions}) => ({id,createdOn:created_on,versions:versions.map(({version_id,percentage}) => ({versionId:version_id,percentage}))}))
+    if (label.endsWith('-schedules')) row.schedules = (Array.isArray(result) ? result : result.schedules ?? []).map(({cron,created_on,modified_on}) => ({cron,createdOn:created_on,modifiedOn:modified_on}))
+    if (label.endsWith('-subdomain')) row.subdomain = {enabled:result.enabled,previewsEnabled:result.previews_enabled}
     if (label === 'target-worker-versions') row.versionIds = (result.items ?? result ?? []).slice(0,3).map(({id}) => id)
     if (label === 'account-worker-list') {
       const workers = Array.isArray(result) ? result : result.scripts ?? []
