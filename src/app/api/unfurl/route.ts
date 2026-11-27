@@ -1,10 +1,10 @@
 import { NextRequest } from 'next/server'
+import { productUrl } from '@/lib/productUrl'
 
 export const runtime = 'nodejs'
 
 // Domain-specific noise strippers. Add more as needed.
 const DOMAIN_BOILERPLATE: Array<[RegExp, RegExp]> = [
-  [/amazon\./i, /\s*[:|—–\-]\s*(amazon(\.com?)?(\.[a-z]+)?|amazon\.[a-z.]+).*$/i],
   [/bestbuy\./i, /\s*[:|—–\-]\s*best\s*buy.*$/i],
   [/target\./i, /\s*[:|—–\-]\s*target.*$/i],
   [/walmart\./i, /\s*[:|—–\-]\s*walmart.*$/i],
@@ -12,6 +12,25 @@ const DOMAIN_BOILERPLATE: Array<[RegExp, RegExp]> = [
   [/bhphotovideo\./i, /\s*[|]\s*b&h\s*photo.*$/i],
   [/apple\.com/i, /\s*[-–—]\s*apple.*$/i],
 ]
+
+const AMAZON_HOST = /^(?:www\.|smile\.|m\.)?amazon\.(?:com(?:\.(?:au|be|br|mx|tr))?|co\.(?:jp|uk|za)|ae|ca|cn|de|eg|es|fr|ie|in|it|nl|pl|sa|se|sg)$/i
+
+function amazonProduct(url: URL) {
+  if (!AMAZON_HOST.test(url.hostname)) return null
+  const parts = url.pathname.match(/^\/(?:([^/]+)\/)?(?:dp|gp\/product)\/([a-z0-9]{10})(?:\/|$)/i)
+  if (!parts) return null
+
+  let fallbackTitle: string | null = null
+  try {
+    const words = decodeURIComponent(parts[1] ?? '').split('-').filter(Boolean)
+    if (words.length >= 2 && words.every(word => /^[\p{L}\p{N}]+$/u.test(word)) && words.some(word => /\p{L}{2}/u.test(word))) {
+      fallbackTitle = cleanTitle(words.join(' '), url.hostname)
+    }
+  } catch {
+    // A malformed descriptive path can still identify a product by ASIN.
+  }
+  return { url: new URL(`/dp/${parts[2]}`, url.origin), fallbackTitle }
+}
 
 function extractTitle(html: string): string | null {
   // Prefer og:title
@@ -44,6 +63,9 @@ function cleanTitle(raw: string, host: string): string {
     .replace(/\s+/g, ' ')
     .trim()
 
+  if (AMAZON_HOST.test(host)) {
+    t = t.replace(/^amazon\.[a-z.]+\s*[:|]\s*/i, '').replace(/\s*[:|—–-]\s*amazon(?:\.[a-z.]+)?$/i, '').trim()
+  }
   // Strip domain-specific boilerplate suffixes
   for (const [hostPattern, stripPattern] of DOMAIN_BOILERPLATE) {
     if (hostPattern.test(host)) {
@@ -64,14 +86,17 @@ export async function POST(req: NextRequest) {
       return Response.json({ error: 'Missing url' }, { status: 400 })
     }
 
-    let parsed: URL
-    try {
-      parsed = new URL(url.trim())
-    } catch {
-      return Response.json({ error: 'Not a valid URL' }, { status: 400 })
+    const normalized = productUrl(url)
+    if (!normalized) return Response.json({ error: 'Not a valid web address' }, { status: 400 })
+    const parsed = new URL(normalized)
+    if (parsed.username || parsed.password) {
+      return Response.json({ error: 'Use a public product link' }, { status: 400 })
     }
-    if (parsed.protocol !== 'http:' && parsed.protocol !== 'https:') {
-      return Response.json({ error: 'Only http(s) URLs' }, { status: 400 })
+    const product = amazonProduct(parsed)
+    function fallbackOrError(error: string, status: number) {
+      return product?.fallbackTitle
+        ? Response.json({ title: product.fallbackTitle, host: parsed.host })
+        : Response.json({ error }, { status })
     }
 
     const controller = new AbortController()
@@ -79,7 +104,7 @@ export async function POST(req: NextRequest) {
 
     let html: string
     try {
-      const res = await fetch(parsed.toString(), {
+      const res = await fetch((product?.url ?? parsed).href, {
         signal: controller.signal,
         redirect: 'follow',
         headers: {
@@ -90,7 +115,7 @@ export async function POST(req: NextRequest) {
         },
       })
       if (!res.ok) {
-        return Response.json({ error: `Couldn't read that page (${res.status})` }, { status: 502 })
+        return fallbackOrError(`Couldn't read that page (${res.status})`, 502)
       }
       // Cap at ~2MB to avoid pulling in a giant product page
       const reader = res.body?.getReader()
@@ -124,19 +149,22 @@ export async function POST(req: NextRequest) {
       }
     } catch (err: unknown) {
       const msg = err instanceof Error && err.name === 'AbortError' ? 'timed out' : 'fetch failed'
-      return Response.json({ error: `Couldn't read that page (${msg})` }, { status: 502 })
+      return fallbackOrError(`Couldn't read that page (${msg})`, 502)
     } finally {
       clearTimeout(timeout)
     }
 
-    const rawTitle = extractTitle(html)
+    const productName = product && html.match(/<span\b[^>]*\bid=["']productTitle["'][^>]*>([^<]+)<\/span>/i)?.[1]
+    const rawTitle = productName || extractTitle(html)
     if (!rawTitle) {
-      return Response.json({ error: 'No title found on that page' }, { status: 422 })
+      return fallbackOrError('No title found on that page', 422)
     }
 
-    const title = cleanTitle(rawTitle, parsed.host)
-    if (!title) {
-      return Response.json({ error: 'Could not extract a usable title' }, { status: 422 })
+    const title = cleanTitle(rawTitle, parsed.hostname)
+    const unavailableTitle = /^(?:robot check|access denied|just a moment[.\u2026]*|service unavailable|sorry!?|page not found)$/i
+    const amazonLandingTitle = /^(?:amazon(?:\.[a-z.]+)?(?:\s+(?:sign[- ]in|captcha)|\s*[-:]\s*(?:something went wrong|page not found))?|online shopping for .*)$/i
+    if (!title || unavailableTitle.test(title) || (product && amazonLandingTitle.test(title))) {
+      return fallbackOrError('Could not extract a usable title', 422)
     }
 
     return Response.json({ title, host: parsed.host })
