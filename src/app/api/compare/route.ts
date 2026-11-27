@@ -51,7 +51,13 @@ export async function POST(req: NextRequest) {
     // symmetric regardless of which field the user typed in first.
     const [itemA, itemB] = [cleanA, cleanB].sort()
 
-    const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
+    const apiKey = process.env.OPENAI_API_KEY
+    if (!apiKey) {
+      console.error('Cannot generate a comparison: OPENAI_API_KEY is missing')
+      return Response.json({ error: 'New comparisons are temporarily unavailable. Please try again later.' }, { status: 503 })
+    }
+    // Workers support native fetch. The SDK's default Node HTTP transport fails in workerd.
+    const openai = new OpenAI({ apiKey, fetch })
     const response = await openai.chat.completions.create({
       model: COMPARE_MODEL,
       temperature: 0.3,
@@ -70,8 +76,8 @@ export async function POST(req: NextRequest) {
     let parsed: z.infer<typeof LLMComparisonSchema>
     try {
       parsed = LLMComparisonSchema.parse(JSON.parse(text))
-    } catch (err) {
-      console.error('Failed to parse LLM response:', err, text)
+    } catch {
+      console.error('Invalid comparison response from the model', response.id)
       return Response.json({ error: 'Malformed response from the model' }, { status: 502 })
     }
 
@@ -92,6 +98,10 @@ export async function POST(req: NextRequest) {
 
     return Response.json({ slug, comparison: stored, cached: false })
   } catch (err) {
+    if (err instanceof OpenAI.APIError) {
+      console.error('Comparison model request failed', { status: err.status, code: err.code, requestId: err.request_id })
+      return Response.json({ error: 'New comparisons are temporarily unavailable. Please try again later.' }, { status: 503 })
+    }
     console.error('Compare route error:', err)
     return Response.json({ error: 'Server error' }, { status: 500 })
   }

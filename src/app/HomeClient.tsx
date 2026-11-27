@@ -1,8 +1,9 @@
 'use client'
 
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import Link from 'next/link'
+import { productUrl } from '@/lib/productUrl'
 import { trackDecision, trackGenieInteraction, trackToolUse } from '@/lib/analytics'
 import { addRecentComparison, getRecentComparisons, type RecentComparison } from '@/lib/recentComparisons'
 
@@ -70,7 +71,60 @@ function shuffle<T>(arr: T[]): T[] {
   return copy
 }
 
-const URL_PATTERN = /^https?:\/\//i
+async function readProductTitle(url: string) {
+  try {
+    const res = await fetch('/api/unfurl', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ url }),
+    })
+    const data = await res.json()
+    const title = typeof data.title === 'string' ? data.title.trim() : ''
+    if (res.ok && title && !productUrl(title)) {
+      trackToolUse('unfurl', 'success', data.host)
+      return { title, host: typeof data.host === 'string' ? data.host : '' }
+    }
+    trackToolUse('unfurl', 'failed', data.error)
+  } catch {
+    trackToolUse('unfurl', 'failed')
+  }
+  return null
+}
+
+function useComparisonField() {
+  const [field, setField] = useState({ value: '', source: '', busy: false, failed: false })
+  const lookup = useRef<Promise<string | null> | null>(null)
+
+  const edit = useCallback((value: string) => {
+    lookup.current = null
+    setField({ value, source: '', busy: false, failed: false })
+  }, [])
+
+  function resolve(input: string) {
+    const value = input.trim()
+    const url = productUrl(value)
+    if (!url) return value
+    if (lookup.current) return lookup.current
+
+    setField({ value, source: '', busy: true, failed: false })
+    // A blur and the ensuing submit share this request. Editing the field
+    // clears the reference so a late response cannot replace the new value.
+    const request: Promise<string | null> = readProductTitle(url).then((product) => {
+      if (lookup.current !== request) return null
+      if (!product) {
+        lookup.current = null
+        setField({ value, source: '', busy: false, failed: true })
+        return null
+      }
+      setField({ value: product.title, source: product.host, busy: false, failed: false })
+      return product.title
+    })
+    lookup.current = request
+    return request
+  }
+
+  return [field, edit, resolve] as const
+}
 
 export interface TrendingItem {
   slug: string
@@ -88,12 +142,8 @@ export default function HomeClient({
   extra?: React.ReactNode
 }) {
   const router = useRouter()
-  const [dis, setDis] = useState('')
-  const [dat, setDat] = useState('')
-  const [unfurlingDis, setUnfurlingDis] = useState(false)
-  const [unfurlingDat, setUnfurlingDat] = useState(false)
-  const [unfurlSourceDis, setUnfurlSourceDis] = useState<string | null>(null)
-  const [unfurlSourceDat, setUnfurlSourceDat] = useState<string | null>(null)
+  const [dis, setDis, resolveDis] = useComparisonField()
+  const [dat, setDat, resolveDat] = useComparisonField()
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [recent, setRecent] = useState<RecentComparison[]>([])
@@ -110,66 +160,27 @@ export default function HomeClient({
     return () => window.removeEventListener('recent-comparisons-updated', refresh)
   }, [])
 
-  const unfurlIfUrl = useCallback(
-    async (value: string, which: 'dis' | 'dat'): Promise<string> => {
-      if (!URL_PATTERN.test(value.trim())) return value
-      const setLoadingFlag = which === 'dis' ? setUnfurlingDis : setUnfurlingDat
-      const setSource = which === 'dis' ? setUnfurlSourceDis : setUnfurlSourceDat
-      const setValue = which === 'dis' ? setDis : setDat
-      setLoadingFlag(true)
-      setSource(null)
-      try {
-        const res = await fetch('/api/unfurl', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ url: value.trim() }),
-        })
-        const data = await res.json()
-        if (res.ok && data.title) {
-          setValue(data.title)
-          setSource(data.host || null)
-          trackToolUse('unfurl', 'success', data.host)
-          return data.title
-        } else {
-          trackToolUse('unfurl', 'failed', data.error)
-          // Leave the URL as-is so the user can edit it or try again
-          return value
-        }
-      } catch {
-        return value
-      } finally {
-        setLoadingFlag(false)
-      }
-    },
-    [],
-  )
-
   // `pair` lets example buttons submit immediately, before setDis/setDat have re-rendered.
   async function compare(e?: React.FormEvent, pair?: [string, string]) {
     e?.preventDefault()
     if (loading) return
     setError(null)
 
-    // If either field is still a pasted URL at submit time, resolve it first.
-    let resolvedDis = (pair?.[0] ?? dis).trim()
-    let resolvedDat = (pair?.[1] ?? dat).trim()
-    if (URL_PATTERN.test(resolvedDis) || URL_PATTERN.test(resolvedDat)) {
-      ;[resolvedDis, resolvedDat] = await Promise.all([
-        unfurlIfUrl(resolvedDis, 'dis'),
-        unfurlIfUrl(resolvedDat, 'dat'),
-      ])
-    }
-
-    if (!resolvedDis.trim() || !resolvedDat.trim()) return
+    const [a, b] = pair ?? [dis.value, dat.value]
+    if (!a.trim() || !b.trim()) return
 
     setLoading(true)
-    trackGenieInteraction('decision_requested')
-
     try {
+      const [resolvedDis, resolvedDat] = await Promise.all([resolveDis(a), resolveDat(b)])
+      if (!resolvedDis || !resolvedDat) {
+        setLoading(false)
+        return
+      }
+      trackGenieInteraction('decision_requested')
       const res = await fetch('/api/compare', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ dis: resolvedDis.trim(), dat: resolvedDat.trim() }),
+        body: JSON.stringify({ dis: resolvedDis, dat: resolvedDat }),
       })
       const data = await res.json()
       if (!res.ok || !data.slug) {
@@ -208,14 +219,13 @@ export default function HomeClient({
     if (preDis) setDis(preDis.slice(0, 200))
     if (preDat) setDat(preDat.slice(0, 200))
     if (preDis || preDat) trackToolUse('compare', 'prefill', 'remix')
-  }, [])
+  }, [setDis, setDat])
 
-  const disabled =
-    loading ||
-    unfurlingDis ||
-    unfurlingDat ||
-    !dis.trim() ||
-    !dat.trim()
+  const disabled = loading || !dis.value.trim() || !dat.value.trim()
+  let linkError = ''
+  if (dis.failed && dat.failed) linkError = 'Couldn’t read either product link. Enter both product names to compare them.'
+  else if (dis.failed) linkError = 'Couldn’t read the first product link. Enter its product name or retry.'
+  else if (dat.failed) linkError = 'Couldn’t read the second product link. Enter its product name or retry.'
 
   return (
     <main className="min-h-dvh bg-gradient-to-b from-emerald-50 via-white to-white text-slate-900">
@@ -233,26 +243,26 @@ export default function HomeClient({
         </header>
 
         {/* Inputs */}
-        <form onSubmit={compare} className="grid gap-3 md:grid-cols-[1fr_auto_1fr] md:items-stretch">
+        <form id="compare-options" onSubmit={compare} className="grid gap-3 md:grid-cols-[1fr_auto_1fr] md:items-stretch">
           <InputField
-            value={dis}
+            value={dis.value}
             onChange={setDis}
-            onBlur={(v) => unfurlIfUrl(v, 'dis')}
+            onBlur={resolveDis}
             disabled={loading}
-            busy={unfurlingDis}
-            source={unfurlSourceDis}
+            busy={dis.busy}
+            source={dis.source}
             placeholder="this… (or paste a product URL)"
           />
           <div className="flex items-center justify-center text-sm font-semibold text-slate-400 uppercase tracking-widest">
             vs
           </div>
           <InputField
-            value={dat}
+            value={dat.value}
             onChange={setDat}
-            onBlur={(v) => unfurlIfUrl(v, 'dat')}
+            onBlur={resolveDat}
             disabled={loading}
-            busy={unfurlingDat}
-            source={unfurlSourceDat}
+            busy={dat.busy}
+            source={dat.source}
             placeholder="…or that"
           />
         </form>
@@ -288,8 +298,6 @@ export default function HomeClient({
                 onClick={() => {
                   setDis(a)
                   setDat(b)
-                  setUnfurlSourceDis(null)
-                  setUnfurlSourceDat(null)
                   trackGenieInteraction('example_selected')
                   trackToolUse('example', 'select', `${a} vs ${b}`)
                   compare(undefined, [a, b])
@@ -315,19 +323,20 @@ export default function HomeClient({
 
         <div className="mt-5 flex justify-center">
           <button
-            onClick={() => compare()}
+            type="submit"
+            form="compare-options"
             disabled={disabled}
             className="inline-flex items-center gap-2 rounded-full bg-emerald-600 px-6 py-3 text-base font-semibold text-white shadow-md shadow-emerald-200 transition-all hover:bg-emerald-700 disabled:cursor-not-allowed disabled:opacity-50 disabled:shadow-none"
           >
-            {loading ? (
-              <>
-                <span className="inline-block h-4 w-4 animate-spin rounded-full border-2 border-white/40 border-t-white" />
-                Deciding…
-              </>
-            ) : unfurlingDis || unfurlingDat ? (
+            {dis.busy || dat.busy ? (
               <>
                 <span className="inline-block h-4 w-4 animate-spin rounded-full border-2 border-white/40 border-t-white" />
                 Reading link…
+              </>
+            ) : loading ? (
+              <>
+                <span className="inline-block h-4 w-4 animate-spin rounded-full border-2 border-white/40 border-t-white" />
+                Deciding…
               </>
             ) : (
               <>Compare →</>
@@ -335,8 +344,8 @@ export default function HomeClient({
           </button>
         </div>
 
-        {error && (
-          <p className="mt-4 text-center text-sm text-red-600">{error}</p>
+        {(linkError || error) && (
+          <p role="alert" className="mt-4 text-center text-sm text-red-600">{linkError || error}</p>
         )}
 
         {/* Trending — server-rendered from KV, shared across all visitors.
@@ -452,7 +461,7 @@ function InputField({
         value={value}
         onChange={(e) => onChange(e.target.value)}
         onBlur={(e) => onBlur(e.target.value)}
-        disabled={disabled || busy}
+        disabled={disabled}
       />
       {busy && (
         <span className="absolute right-3 top-1/2 -translate-y-1/2 inline-block h-4 w-4 animate-spin rounded-full border-2 border-emerald-300 border-t-emerald-600" />
